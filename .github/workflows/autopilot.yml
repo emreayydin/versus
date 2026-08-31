@@ -86,7 +86,9 @@ jobs:
       - name: Folgen produzieren und veroeffentlichen
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          YOUTUBE_TOKEN_DE: ${{ secrets.YOUTUBE_TOKEN_DE }}
+          # publish.py sucht YOUTUBE_TOKEN_<LANG>. Der Kanal ist englisch,
+          # also EN - nicht DE wie in der Vorlage aus doodle-finanz.
+          YOUTUBE_TOKEN_EN: ${{ secrets.YOUTUBE_TOKEN_EN }}
           ANZAHL: ${{ inputs.anzahl || '5' }}
           PRIVACY: ${{ inputs.privacy || 'public' }}
         run: |
@@ -112,7 +114,7 @@ jobs:
             fi
             SLUG=$(./venv/bin/python -c "import json,pathlib; print(json.loads(pathlib.Path('episodes/queue.json').read_text())['used'][-1])")
             ./venv/bin/python scripts/make_episode.py --episode "$SLUG" --lang en
-            ./venv/bin/python scripts/publish.py --episode "$SLUG" \
+            ./venv/bin/python scripts/publish.py --episode "$SLUG" --lang en \
               --publish --privacy "$PRIVACY"
           done
           ./venv/bin/python scripts/day_guard.py --mark

@@ -73,7 +73,7 @@ jobs:
 
       - name: Sammelfolge bauen und veroeffentlichen
         env:
-          YOUTUBE_TOKEN_DE: ${{ secrets.YOUTUBE_TOKEN_DE }}
+          YOUTUBE_TOKEN_EN: ${{ secrets.YOUTUBE_TOKEN_EN }}
           KAPITEL: ${{ inputs.kapitel || '9' }}
           PRIVACY: ${{ inputs.privacy || 'public' }}
         run: |
@@ -85,7 +85,7 @@ jobs:
           # Kein Anthropic-Schluessel noetig: es werden nur vorhandene
           # Kapitel verkettet, kein neues Skript geschrieben.
           ./venv/bin/python scripts/make_longform.py --name "$NAME" --letzte "$KAPITEL"
-          ./venv/bin/python scripts/publish.py --episode "$NAME" \
+          ./venv/bin/python scripts/publish.py --episode "$NAME" --lang en \
             --publish --privacy "$PRIVACY"
           ./venv/bin/python scripts/day_guard.py --mark --name sammelfolge
 
