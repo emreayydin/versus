@@ -1,9 +1,9 @@
 {
   "hinweis": "Zielkanal dieses Repos. Am 31.08.2026 direkt in YouTube Studio abgelesen.",
-  "name": "Exit",
+  "name": "The Difference Money",
   "kanal_id": "UC_FrWjKB66YyV9AeKPaEHIA",
   "google_konto": "Emres Google-Konto (Adresse nicht im Repo)",
-  "brand_konto": "Exit",
+  "brand_konto": "Exit (Brand-Konto-Name, nicht der Kanalname)",
   "sprache": "en",
   "stand_bei_uebernahme": {
     "datum": "2026-08-31",
@@ -17,10 +17,10 @@
     "wohnsitzland": "Deutschland"
   },
   "offen": [
-    "APP AUF PRODUKTION: Knopf 'App veroeffentlichen' war gesperrt (Google: Konfiguration unvollstaendig, kann Stunden dauern). SOLANGE LAEUFT DAS TOKEN NACH 7 TAGEN AB - vor dem 07.09.2026 erledigen, sonst stirbt der Kanal wie youtube-shorts-bot.",
-    "KANAL VERIFIZIEREN: Eigene Thumbnails werden mit 403 abgelehnt ('doesn't have permissions to upload custom thumbnails'). Telefonverifizierung unter youtube.com/verify_phone_number. Das Thumbnail ist der staerkste Hebel auf die Klickrate.",
-    "Kanalname 'Exit' passt nicht zum Format 'A vs B'.",
-    "Zeitgeber entscheiden: GitHub verschluckt geplante Laeufe. Cloudflare Worker (gratis) oder Zapier (ab ~20 USD/Monat) stossen workflow_dispatch an, das wird nicht gedrosselt."
+    "APP AUF PRODUKTION - Knopf war gesperrt. SOLANGE LAEUFT DAS TOKEN NACH 7 TAGEN AB, also vor dem 07.09.2026 erledigen.",
+    "TELEFONVERIFIZIERUNG offen - ohne sie bleiben eigene Thumbnails mit 403 gesperrt. youtube.com/verify_phone_number",
+    "Langformat neu bauen: derzeit nur aneinandergehaengte Shorts. Eigenes Format mit festen Dimensionen (Kosten/Risiko/Zeit/Steuern/fuer wen).",
+    "Zeitgeber entscheiden: Cloudflare Worker (gratis) oder Zapier (~20 USD/Monat) stoesst workflow_dispatch an, das wird nicht gedrosselt."
   ],
   "eingerichtet_am": "2026-08-31",
   "cloud_projekt": {
@@ -50,5 +50,19 @@
       "https://youtu.be/IuRc6F0gFk8 (Gross vs Net)"
     ],
     "sichtbarkeit": "privat"
+  },
+  "handle": "@differencemoney",
+  "branding": {
+    "gesetzt_am": "2026-08-31",
+    "zeichen": "geteilter Kreis, links voll - der Vergleich als Form. src/Branding.tsx",
+    "avatar": "out/avatar.png (800x800, Zeichen nur 400px - YouTube schlaegt sonst einen Zuschnitt vor, der es anschneidet)",
+    "banner": "out/banner.png (2560x1440, Text im sicheren Bereich 1546x423)",
+    "beschreibung": "englisch, mit Hinweis dass es keine Anlageberatung ist"
+  },
+  "namensfindung": {
+    "gewuenscht": "The Difference",
+    "abgelehnt": "YouTube sperrt 'The Difference' als Kanalnamen ('Du kannst diesen Namen nicht verwenden')",
+    "genommen": "The Difference Money",
+    "handle_hinweis": "@thedifference, @whatsthedifference und @thedifferenceexplained sind alle belegt. Ein 404 auf youtube.com/@handle heisst NICHT frei - nur das Feld in Studio sagt die Wahrheit."
   }
 }

@@ -1,44 +1,53 @@
-import React from "react";
-import { AbsoluteFill } from "remotion";
-import { PAPIER, TINTE } from "./doodle/Figur";
-
 /**
- * Kanalgrafiken, im selben Stil wie die Videos.
+ * Kanalgrafiken fuer "The Difference".
  *
- * Das Zeichen ist eine Strichliste: vier senkrechte Striche, der fuenfte
- * quer. Das ist woertlich das, was der Name sagt, es ist mit demselben
- * Pinsel gezeichnet wie die Figuren, und es bleibt als 48 Pixel grosses
- * Profilbild noch erkennbar - anders als eine Strichfigur, die in dieser
- * Groesse zu einem Fleck wird.
+ * Das Zeichen ist ein geteilter Kreis: linke Haelfte gefuellt, rechte leer,
+ * dazwischen eine Trennlinie. Das ist der Vergleich selbst als Form - zwei
+ * Seiten, eine Grenze.
+ *
+ * Warum kein gezeichnetes Motiv: Das Profilbild wird neben Videos und
+ * Kommentaren mit 98 Pixeln Kantenlaenge ausgeliefert. Alles mit Innenleben
+ * wird dort zu Brei. Eine Form, die aus zwei Flaechen und einer Linie
+ * besteht, bleibt auch als Daumennagel eindeutig.
  */
 
-const STRICH = 26;
+import React from "react";
+import { AbsoluteFill } from "remotion";
 
-/** Vier senkrechte Striche, der fuenfte quer darueber. */
-const Strichliste: React.FC<{ breite: number; hoehe: number }> = ({ breite, hoehe }) => {
-  const abstand = breite / 4.6;
-  const x0 = (breite - abstand * 3) / 2;
+const TINTE = "#111111";
+const PAPIER = "#ffffff";
+
+/** Geteilter Kreis: links voll, rechts leer. */
+const Zeichen: React.FC<{ groesse: number; strich?: number }> = ({
+  groesse,
+  strich = Math.max(groesse * 0.055, 3),
+}) => {
+  const r = groesse / 2 - strich / 2;
+  const m = groesse / 2;
   return (
-    <svg viewBox={`0 0 ${breite} ${hoehe}`} width="100%" height="100%">
-      {[0, 1, 2, 3].map((i) => (
-        <line
-          key={i}
-          x1={x0 + i * abstand}
-          y1={hoehe * 0.12}
-          x2={x0 + i * abstand}
-          y2={hoehe * 0.88}
-          stroke={TINTE}
-          strokeWidth={STRICH}
-          strokeLinecap="round"
-        />
-      ))}
-      <line
-        x1={x0 - abstand * 0.42}
-        y1={hoehe * 0.86}
-        x2={x0 + abstand * 3.42}
-        y2={hoehe * 0.14}
+    <svg width={groesse} height={groesse} viewBox={`0 0 ${groesse} ${groesse}`}>
+      {/* linke Haelfte gefuellt */}
+      <path
+        d={`M ${m} ${m - r} A ${r} ${r} 0 0 0 ${m} ${m + r} Z`}
+        fill={TINTE}
+      />
+      {/* Umriss */}
+      <circle
+        cx={m}
+        cy={m}
+        r={r}
+        fill="none"
         stroke={TINTE}
-        strokeWidth={STRICH}
+        strokeWidth={strich}
+      />
+      {/* Trennlinie */}
+      <line
+        x1={m}
+        y1={m - r}
+        x2={m}
+        y2={m + r}
+        stroke={TINTE}
+        strokeWidth={strich}
         strokeLinecap="round"
       />
     </svg>
@@ -48,66 +57,59 @@ const Strichliste: React.FC<{ breite: number; hoehe: number }> = ({ breite, hoeh
 export const Avatar: React.FC = () => (
   <AbsoluteFill
     style={{
-      backgroundColor: PAPIER,
+      background: PAPIER,
       alignItems: "center",
       justifyContent: "center",
     }}
   >
-    <div style={{ width: "62%", height: "52%" }}>
-      <Strichliste breite={500} hoehe={420} />
-    </div>
+    {/*
+      Bewusst nur 400 von 800 Pixeln: YouTube schlaegt beim Hochladen einen
+      Zuschnitt vor, der bis an den Rand geht. Ein Zeichen, das die Flaeche
+      fuellt, wird dabei oben und unten angeschnitten.
+    */}
+    <Zeichen groesse={400} />
   </AbsoluteFill>
 );
 
-/**
- * Banner 2560x1440. YouTube zeigt auf dem Handy nur die mittleren
- * 1546x423 - alles Wichtige muss da hinein, sonst ist es dort abgeschnitten.
- */
 export const Banner: React.FC = () => (
-  <AbsoluteFill style={{ backgroundColor: PAPIER }}>
-    <div
+  <AbsoluteFill style={{ background: PAPIER }}>
+    {/*
+      Der sichere Bereich eines YouTube-Banners ist auf dem Handy nur
+      1546x423 in der Mitte. Alles Wichtige gehoert dorthin, der Rest wird
+      je nach Geraet abgeschnitten.
+    */}
+    <AbsoluteFill
       style={{
-        position: "absolute",
-        left: "50%",
-        top: "50%",
-        translate: "-50% -50%",
-        width: 1546,
-        height: 423,
-        display: "flex",
         alignItems: "center",
         justifyContent: "center",
-        gap: 64,
+        flexDirection: "row",
+        gap: 70,
       }}
     >
-      <div style={{ width: 260, height: 210, flexShrink: 0 }}>
-        <Strichliste breite={500} hoehe={420} />
-      </div>
-      <div>
+      <Zeichen groesse={300} />
+      <div style={{ display: "flex", flexDirection: "column", gap: 14 }}>
         <div
           style={{
-            fontFamily: "'Arial Black', 'Helvetica Neue', sans-serif",
-            fontWeight: 900,
-            fontSize: 132,
-            letterSpacing: "-0.02em",
-            color: TINTE,
+            fontFamily: "Arial Black, Helvetica, sans-serif",
+            fontSize: 150,
             lineHeight: 1,
+            letterSpacing: -4,
+            color: TINTE,
           }}
         >
-          Strichrechnung
+          The Difference
         </div>
         <div
           style={{
-            marginTop: 26,
-            fontFamily: "'Helvetica Neue', Arial, sans-serif",
-            fontWeight: 500,
-            fontSize: 52,
+            fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif",
+            fontSize: 58,
             color: TINTE,
-            opacity: 0.72,
+            opacity: 0.62,
           }}
         >
-          Geld erklärt. Nicht empfohlen.
+          Two things people confuse. Explained in a minute.
         </div>
       </div>
-    </div>
+    </AbsoluteFill>
   </AbsoluteFill>
 );
