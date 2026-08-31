@@ -1,0 +1,26 @@
+{
+  "hinweis": "Zielkanal dieses Repos. Am 31.08.2026 direkt in YouTube Studio abgelesen.",
+  "name": "Exit",
+  "kanal_id": "UC_FrWjKB66YyV9AeKPaEHIA",
+  "google_konto": "Emres Google-Konto (Adresse nicht im Repo)",
+  "brand_konto": "Exit",
+  "sprache": "en",
+  "stand_bei_uebernahme": {
+    "datum": "2026-08-31",
+    "abonnenten": 0,
+    "videos": 0,
+    "aufrufe_28_tage": 0
+  },
+  "geprueft": {
+    "zielgruppe": "Ich moechte diese Einstellung fuer jedes Video pruefen",
+    "warum_das_gut_ist": "Der Kanal zwingt NICHT 'speziell fuer Kinder' auf alle Videos. Genau daran ist lino-show gestorben. publish.py setzt selfDeclaredMadeForKids pro Video hart auf False - damit passt beides zusammen.",
+    "wohnsitzland": "Deutschland"
+  },
+  "offen": [
+    "OAuth-Token fuer diesen Kanal erzeugen (scripts/authorize.py) - beim Zustimmungsbildschirm das Brand-Konto 'Exit' waehlen",
+    "Zustimmungsbildschirm im Cloud-Projekt auf 'In Produktion' stellen",
+    "Analytics-Token mit yt-analytics.readonly, gleich mit erzeugen",
+    "GitHub-Repo anlegen und die drei Secrets setzen",
+    "Kanalname: 'Exit' passt nicht zum Format 'A vs B'. Umbenennen ist zweimal in 14 Tagen moeglich."
+  ]
+}

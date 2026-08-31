@@ -26,6 +26,19 @@ das vorliegt, und es deckt sich mit der Mechanik des Shorts-Feeds.
 `versus_gen.py` verwirft jede Folge, die nicht beide Begriffe nennt oder
 keinen Satz hat, der mit „The difference" beginnt.
 
+## Zielkanal
+
+**„Exit"** — `UC_FrWjKB66YyV9AeKPaEHIA`, Brand-Konto unter
+`Emres Google-Konto (Adresse nicht im Repo)`. Am 31.08.2026 übernommen: **leer**, 0 Abonnenten,
+0 Videos, 0 Aufrufe. Details und offene Punkte in `kanal.json`.
+
+**Schon geprüft und in Ordnung:** Die Zielgruppen-Einstellung des Kanals steht
+auf „für jedes Video prüfen" — der Kanal zwingt also **nicht** „speziell für
+Kinder" auf alle Videos. Punkt 2 der Liste unten ist damit erledigt.
+
+**Der Kanalname passt noch nicht.** „Exit" sagt nichts über das Format. Eine
+Umbenennung ist zweimal in vierzehn Tagen möglich.
+
 ## Bevor der erste Upload läuft — die Liste, an der drei Kanäle gescheitert sind
 
 Jeder Punkt hier hat schon einmal einen Kanal gekostet.
@@ -34,7 +47,9 @@ Jeder Punkt hier hat schon einmal einen Kanal gekostet.
    „Test", läuft das Refresh-Token nach sieben Tagen ab und das
    Veröffentlichen scheitert **still**. Genau daran ist `youtube-shorts-bot`
    gestorben.
-2. **Kanal auf „nicht speziell für Kinder" stellen** — Studio → Einstellungen
+2. ~~**Kanal auf „nicht speziell für Kinder" stellen**~~ — bei „Exit" bereits
+   in Ordnung (steht auf „für jedes Video prüfen"). Zur Erinnerung, warum es
+   zählt: — Studio → Einstellungen
    → Kanal → Erweiterte Einstellungen. Die kanalweite Angabe überschreibt
    jedes einzelne Video und schaltet Kommentare, Benachrichtigungen und
    Teilen ab. Daran ist `lino-show` gestorben.
