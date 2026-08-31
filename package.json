@@ -1,0 +1,25 @@
+{
+  "name": "doodle-finanz",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@remotion/cli": "4.0.512",
+    "@remotion/media": "^4.0.512",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.512"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "@types/web": "0.0.166",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "lint": "tsc"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true
+  }
+}

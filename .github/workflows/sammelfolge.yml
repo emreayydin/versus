@@ -1,0 +1,100 @@
+name: Sammelfolge
+
+# Drei Sammelfolgen pro Woche, aus bereits produzierten Kapiteln.
+#
+# WARUM DAS DER WICHTIGSTE WORKFLOW IST:
+# Shorts-Wiedergabezeit zaehlt NICHT fuer die 4.000 Stunden des
+# Partnerprogramms. Nur normale Videos. Ein Kanal, der nur Shorts macht,
+# arbeitet auf die schwerere Schwelle zu (10 Mio. Shorts-Aufrufe in 90
+# Tagen = 111.000 pro Tag) - ohne es zu merken.
+#
+# Rechnung in MONETARISIERUNG.md: acht Minuten, dreimal pro Woche,
+# braucht rund 950 Aufrufe je Video fuer die Schwelle in sechs Monaten.
+# Einmal pro Woche waeren es 2.900.
+#
+# Acht Kapitel statt fuenf: ueber acht Minuten schaltet YouTube
+# Mid-Roll-Anzeigen frei.
+#
+# KONTINGENT: Die Sammelfolge kostet 1.600 + 50 = 1.650 Einheiten. An
+# diesen drei Tagen produziert autopilot.yml deshalb nur drei Shorts
+# statt fuenf (3 x 1.650 + 1.650 = 6.600 statt 9.900).
+
+on:
+  schedule:
+    # Die Sammelfolge ist der einzige Weg zu den 4.000 Wiedergabestunden -
+    # Shorts-Wiedergabezeit zaehlt dafuer NICHT. Deshalb laeuft sie fest
+    # dreimal die Woche, auch wenn die Shorts mal ausfallen.
+    - cron: "0 16 * * 1,3,5"   # Mo/Mi/Fr, 16:00 UTC
+    - cron: "0 20 * * 1,3,5"   # Nachholversuch
+  workflow_dispatch:
+    inputs:
+      kapitel:
+        description: "Wie viele Kapitel (9 gibt Puffer ueber die 8-Minuten-Grenze)"
+        required: false
+        default: "9"
+      privacy:
+        description: "private | unlisted | public"
+        required: false
+        default: "public"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sammelfolge
+  cancel-in-progress: false
+
+jobs:
+  sammelfolge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Abhaengigkeiten
+        run: |
+          npm ci
+          npm approve-scripts esbuild || true
+          npm rebuild esbuild
+          python -m venv venv
+          ./venv/bin/pip install --quiet edge-tts numpy anthropic \
+            google-api-python-client google-auth-oauthlib
+
+      - name: Musikbett
+        run: ./venv/bin/python scripts/music.py
+
+      - name: Sammelfolge bauen und veroeffentlichen
+        env:
+          YOUTUBE_TOKEN_DE: ${{ secrets.YOUTUBE_TOKEN_DE }}
+          KAPITEL: ${{ inputs.kapitel || '9' }}
+          PRIVACY: ${{ inputs.privacy || 'public' }}
+        run: |
+          set -e
+          if ! ./venv/bin/python scripts/day_guard.py --check --name sammelfolge; then
+            exit 0
+          fi
+          NAME="sammelfolge-$(date -u +%Y%m%d)"
+          # Kein Anthropic-Schluessel noetig: es werden nur vorhandene
+          # Kapitel verkettet, kein neues Skript geschrieben.
+          ./venv/bin/python scripts/make_longform.py --name "$NAME" --letzte "$KAPITEL"
+          ./venv/bin/python scripts/publish.py --episode "$NAME" \
+            --publish --privacy "$PRIVACY"
+          ./venv/bin/python scripts/day_guard.py --mark --name sammelfolge
+
+      - name: Kopie ablegen
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sammelfolge-${{ github.run_number }}
+          path: |
+            out/sammelfolge-*.mp4
+            out/sammelfolge-*.png
+          retention-days: 14

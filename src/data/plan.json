@@ -1,0 +1,119 @@
+{
+  "slug": "warum-kredite-zinsen-kosten",
+  "thema": "Warum Kredite Zinsen kosten",
+  "ueberschrift": "Warum Kredite Zinsen kosten",
+  "titel": "Warum du für geliehenes Geld immer draufzahlst",
+  "beschreibung": "Zinsen auf Kredite zahlt jeder – aber warum eigentlich? Dieses Video erklärt den Mechanismus hinter dem Preis des Geldes: Verzicht, Risiko und Inflation.\n\n#shorts #zinsen #kredit #finanzwissen #geld\n\nDieses Video erklärt einen Begriff. Es ist keine Anlageberatung und keine Kaufempfehlung.",
+  "tags": [
+    "Zinsen",
+    "Kredit",
+    "Geldverleih",
+    "Inflation",
+    "Bankwesen"
+  ],
+  "hashtags": [
+    "#zinsen",
+    "#kredit",
+    "#finanzwissen",
+    "#geld",
+    "#inflation"
+  ],
+  "thumbnail": {
+    "zeile": "Preis des Wartens",
+    "zahl": null,
+    "icon": "prozent"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "VERZICHT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "RISIKO",
+      "stimmung": -0.4,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "INFLATION",
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "korb",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          1000,
+          750
+        ],
+        "achse": [
+          "heute",
+          "in 10 Jahren"
+        ],
+        "einheit": "€"
+      },
+      "wort": null,
+      "stimmung": -0.4,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "ZEITPREIS",
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

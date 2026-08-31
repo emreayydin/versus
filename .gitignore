@@ -1,0 +1,11 @@
+venv/
+node_modules/
+out/
+tokens/
+.env
+__pycache__/
+*.pyc
+src/data/voice.json
+src/data/kap_*.json
+public/*.mp3
+public/bett.wav
