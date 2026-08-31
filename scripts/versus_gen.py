@@ -344,9 +344,40 @@ def slugify(thema: str) -> str:
 
 
 def lade_queue() -> dict:
+    """
+    Schluessel heissen 'offen' und 'used', und in 'used' stehen SLUGS.
+    Genau so liest es der Workflow: er nimmt used[-1] als Ordnernamen fuer
+    make_episode. Ein anderer Schluessel oder das Thema statt des Slugs
+    laesst den Lauf nach der Skripterzeugung auflaufen - Geld fuer den
+    API-Aufruf ausgegeben, kein Video dabei.
+    """
     if QUEUE.exists():
-        return json.loads(QUEUE.read_text(encoding="utf-8"))
-    return {"offen": list(SEED), "erledigt": []}
+        q = json.loads(QUEUE.read_text(encoding="utf-8"))
+        q.setdefault("offen", [])
+        q.setdefault("used", [])
+        return q
+    return {"offen": list(SEED), "used": []}
+
+
+def neue_themen(vorhanden: list[str], anzahl: int = 40) -> list[str]:
+    """
+    Nachschub, bevor die Liste leer ist. Nachfuellen ist ein API-Aufruf,
+    der scheitern kann - und dann steht die Produktion. Deshalb frueh.
+    """
+    schon = "\n".join(f"- {t}" for t in vorhanden[-120:])
+    text = ask(
+        f"Give me {anzahl} new comparison topics for an English channel about "
+        f"money and economics. Format strictly \"A vs B\", two things people "
+        f"genuinely confuse. No duplicates of these:\n{schon}\n\n"
+        f"Answer with a JSON array of strings, nothing else.",
+        "You return only valid JSON. No prose.", max_tokens=2000)
+    t = text.strip()
+    if t.startswith("```"):
+        t = re.sub(r"^```[a-z]*\n|\n```$", "", t)
+    i, j = t.find("["), t.rfind("]")
+    roh = json.loads(t[i:j + 1]) if i >= 0 else []
+    bekannt = {x.lower() for x in vorhanden}
+    return [x for x in roh if isinstance(x, str) and x.lower() not in bekannt]
 
 
 def schreibe_queue(q: dict) -> None:
@@ -408,12 +439,22 @@ def main():
     args = ap.parse_args()
 
     q = lade_queue()
-    if args.thema:
-        thema = args.thema
-    elif args.next:
+    if args.next:
+        if len(q["offen"]) < 15:
+            print("Themenliste wird nachgefuellt ...")
+            try:
+                nachschub = neue_themen(q["offen"] + q["used"])
+                q["offen"].extend(nachschub)
+                print(f"  {len(nachschub)} neue Themen")
+            except Exception as fehler:
+                # Kein Abbruch: Solange noch offene Themen da sind, ist ein
+                # gescheitertes Nachfuellen kein Grund, den Lauf zu killen.
+                print(f"  Nachfuellen fehlgeschlagen ({type(fehler).__name__}), weiter mit dem Vorrat")
         if not q["offen"]:
             raise SystemExit("Themenvorrat leer.")
         thema = q["offen"][0]
+    elif args.thema:
+        thema = args.thema
     else:
         raise SystemExit("--thema oder --next angeben.")
 
@@ -425,10 +466,13 @@ def main():
         return
 
     slug = schreibe(folge, thema)
-    if thema in q["offen"]:
-        q["offen"].remove(thema)
-        q.setdefault("erledigt", []).append(thema)
-        schreibe_queue(q)
+
+    # Kein blindes append: Wird ein Thema neu erzeugt, stuende der Slug
+    # sonst zweimal drin und used[-1] koennte auf die falsche Folge zeigen.
+    if slug not in q["used"]:
+        q["used"].append(slug)
+    q["offen"] = [t for t in q["offen"] if slugify(t) != slug]
+    schreibe_queue(q)
     print(f"Abgelegt: episodes/{slug}/  ({len(q['offen'])} Themen offen)")
 
 

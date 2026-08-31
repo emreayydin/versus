@@ -38,9 +38,14 @@
     "GDP vs GNP",
     "Fixed cost vs Variable cost"
   ],
+<<<<<<< HEAD
   "erledigt": [
     "Stocks vs Bonds",
     "Saving vs Investing",
     "Debit card vs Credit card"
+=======
+  "used": [
+    "stocks-vs-bonds"
+>>>>>>> 20048ce (Warteschlange auf den Vertrag des Workflows ziehen)
   ]
 }
