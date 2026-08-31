@@ -17,10 +17,38 @@
     "wohnsitzland": "Deutschland"
   },
   "offen": [
-    "OAuth-Token fuer diesen Kanal erzeugen (scripts/authorize.py) - beim Zustimmungsbildschirm das Brand-Konto 'Exit' waehlen",
-    "Zustimmungsbildschirm im Cloud-Projekt auf 'In Produktion' stellen",
-    "Analytics-Token mit yt-analytics.readonly, gleich mit erzeugen",
-    "GitHub-Repo anlegen und die drei Secrets setzen",
-    "Kanalname: 'Exit' passt nicht zum Format 'A vs B'. Umbenennen ist zweimal in 14 Tagen moeglich."
-  ]
+    "APP AUF PRODUKTION: Knopf 'App veroeffentlichen' war gesperrt (Google: Konfiguration unvollstaendig, kann Stunden dauern). SOLANGE LAEUFT DAS TOKEN NACH 7 TAGEN AB - vor dem 07.09.2026 erledigen, sonst stirbt der Kanal wie youtube-shorts-bot.",
+    "KANAL VERIFIZIEREN: Eigene Thumbnails werden mit 403 abgelehnt ('doesn't have permissions to upload custom thumbnails'). Telefonverifizierung unter youtube.com/verify_phone_number. Das Thumbnail ist der staerkste Hebel auf die Klickrate.",
+    "Kanalname 'Exit' passt nicht zum Format 'A vs B'.",
+    "Zeitgeber entscheiden: GitHub verschluckt geplante Laeufe. Cloudflare Worker (gratis) oder Zapier (ab ~20 USD/Monat) stossen workflow_dispatch an, das wird nicht gedrosselt."
+  ],
+  "eingerichtet_am": "2026-08-31",
+  "cloud_projekt": {
+    "id": "versus-exit",
+    "apis": [
+      "YouTube Data API v3",
+      "YouTube Analytics API"
+    ],
+    "oauth_client": "Desktop, 'versus uploader desktop'",
+    "zustimmungsbildschirm": "Extern, Status TEST",
+    "testnutzer": [
+      "Emres Google-Konto (Adresse nicht im Repo)"
+    ],
+    "warum_eigenes_projekt": "Das YouTube-Kontingent haengt am Cloud-Projekt, nicht am Kanal. lino-show (Strichrechnung) verbraucht dort schon bis zu 8.250 von 10.000 Einheiten taeglich."
+  },
+  "repo": "github.com/emreayydin/versus (privat)",
+  "secrets": [
+    "ANTHROPIC_API_KEY",
+    "YOUTUBE_TOKEN_EN",
+    "YOUTUBE_ANALYTICS_TOKEN"
+  ],
+  "erster_testlauf": {
+    "datum": "2026-08-31",
+    "ergebnis": "erfolgreich",
+    "videos": [
+      "https://youtu.be/77z08YmNhHk (Debit card vs Credit card)",
+      "https://youtu.be/IuRc6F0gFk8 (Gross vs Net)"
+    ],
+    "sichtbarkeit": "privat"
+  }
 }
