@@ -306,7 +306,7 @@ def pruefe(folge: dict) -> list[str]:
         m.append(f"Ueberschrift {len(u)} Zeichen, erlaubt sind {MAX_UEBERSCHRIFT}")
 
     tn = folge.get("thumbnail") or {}
-    z = (tn.get("zeile") or "").strip()
+    z = str(tn.get("zeile") or "").strip()
     if not z or len(z) > MAX_THUMB:
         m.append(f"Thumbnail-Zeile {len(z)} Zeichen, erlaubt sind {MAX_THUMB}")
     if tn.get("icon") and tn["icon"] not in ICONS:
@@ -410,7 +410,11 @@ def schreibe(folge: dict, thema: str) -> str:
         "hashtags": [str(h).lower() for h in folge.get("hashtags", [])][:5],
         "thumbnail": {
             "zeile": (folge.get("thumbnail") or {}).get("zeile", "").strip(),
-            "zahl": ((folge.get("thumbnail") or {}).get("zahl") or "").strip() or None,
+            # str() ist Pflicht: Das Modell liefert die Zahl mal als "1.200 $",
+            # mal als 1200 - und .strip() auf einem int wirft AttributeError
+            # mitten im Lauf. Eine Folge kostet dann API-Aufruf und Renderzeit
+            # fuer nichts.
+            "zahl": str((folge.get("thumbnail") or {}).get("zahl") or "").strip() or None,
             "icon": (folge.get("thumbnail") or {}).get("icon") or None,
         },
         "bilder": [
