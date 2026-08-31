@@ -9,3 +9,6 @@ src/data/voice.json
 src/data/kap_*.json
 public/*.mp3
 public/bett.wav
+client_secrets.json
+client_secret_*.json
+*token*.json
