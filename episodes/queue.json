@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Debit card vs Credit card",
     "Gross vs Net",
     "Interest vs Compound interest",
     "Inflation vs Deflation",
@@ -41,6 +40,7 @@
   ],
   "erledigt": [
     "Stocks vs Bonds",
-    "Saving vs Investing"
+    "Saving vs Investing",
+    "Debit card vs Credit card"
   ]
 }
