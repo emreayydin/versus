@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Saving vs Investing",
     "Debit card vs Credit card",
     "Gross vs Net",
     "Interest vs Compound interest",
@@ -41,6 +40,7 @@
     "Fixed cost vs Variable cost"
   ],
   "used": [
-    "stocks-vs-bonds"
+    "stocks-vs-bonds",
+    "saving-vs-investing"
   ]
 }
