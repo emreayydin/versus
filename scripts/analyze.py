@@ -169,7 +169,7 @@ def main():
         print(json.dumps(daten, ensure_ascii=False, indent=2))
         return
 
-    print(f"Kanal Strichrechnung  |  letzte {args.tage} Tage")
+    print(f"Kanal  |  letzte {args.tage} Tage")
     print("=" * 66)
     if not g or not g.get("views"):
         print("\nNoch keine Aufrufe im Zeitraum.")
