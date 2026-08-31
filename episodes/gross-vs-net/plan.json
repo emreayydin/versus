@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "slug": "gross-vs-net",
+  "thema": "Gross vs Net",
+  "begriffe": [
+    "Gross",
+    "Net"
+  ],
+  "ueberschrift": "Gross vs Net",
+  "titel": "Gross vs Net - What's the Difference?",
+  "beschreibung": "Two numbers on every paycheck, and only one of them is the money you actually get. This video breaks down what separates gross pay from net pay, why the gap exists, and where each number actually matters.\n\n#shorts #grosspay #netpay #salary #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "gross pay",
+    "net pay",
+    "salary",
+    "taxes",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#grosspay",
+    "#netpay",
+    "#salary",
+    "#personalfinance",
+    "#money"
+  ],
+  "thumbnail": {
+    "zeile": "before or after tax",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "GROSS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "NET",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          4000,
+          3000
+        ],
+        "achse": [
+          "Gross",
+          "Net"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}

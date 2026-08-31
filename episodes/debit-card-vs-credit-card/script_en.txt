@@ -1,10 +1,11 @@
-One spends money you have. The other spends money you don't - yet.
-Both look the same at checkout, but the money moves in completely different ways.
-A debit card pulls money straight out of your bank account, right away.
-If the account is empty, the payment simply fails.
-A credit card pays the store for you, and the bank lends you that amount.
-You owe the bank that money, and you pay it back later, usually once a month.
-Wait past that date, and the bank charges interest on what you still owe.
-The difference is timing: debit moves your money now, credit moves the bank's money first.
-That timing matters when you're short on cash, or when you want to build a credit history.
-Neither one is better - they just move money on a different clock.
+One spends money you have. The other spends money someone lent you.
+The plastic looks the same, but what happens behind it is not.
+A debit card is wired straight to your bank account.
+Every payment pulls money out of that account right away.
+There's no borrowing involved, so there's nothing to pay back later.
+A credit card pays on your behalf, and the bank tracks what you owe.
+That balance falls due later, and unpaid parts start collecting interest.
+This borrowed spending is also what builds a credit history over time.
+The difference is timing: one moves your money now, the other moves it later.
+That timing matters most when a bill lands right before payday.
+Same size, same slot in your wallet, but a completely different promise.
