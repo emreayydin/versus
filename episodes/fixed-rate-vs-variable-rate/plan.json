@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "fixed-rate-vs-variable-rate",
+  "thema": "Fixed rate vs Variable rate",
+  "begriffe": [
+    "Fixed rate",
+    "Variable rate"
+  ],
+  "ueberschrift": "Fixed vs Variable Rate",
+  "titel": "Fixed Rate vs Variable Rate - What's the Difference?",
+  "beschreibung": "Two ways a loan can charge you interest, and why the difference matters when rates move. No advice, just how fixed and variable rates actually work.\n\n#shorts #fixedrate #variablerate #interestrates #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "fixed rate",
+    "variable rate",
+    "interest rates",
+    "loans",
+    "mortgages",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#fixedrate",
+    "#variablerate",
+    "#interestrates",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who takes the risk",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "LOCKED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "RISK",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

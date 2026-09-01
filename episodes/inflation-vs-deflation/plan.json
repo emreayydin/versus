@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "slug": "inflation-vs-deflation",
+  "thema": "Inflation vs Deflation",
+  "begriffe": [
+    "Inflation",
+    "Deflation"
+  ],
+  "ueberschrift": "Inflation vs Deflation",
+  "titel": "Inflation vs Deflation - What's the Difference?",
+  "beschreibung": "Two forces that both change what your money is worth, just in opposite directions. This video explains how inflation and deflation actually work, why neither one is simply good or bad, and why central banks try to keep both in check.\n\n#shorts #inflation #deflation #economics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "inflation",
+    "deflation",
+    "money",
+    "prices",
+    "economics",
+    "central bank",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#inflation",
+    "#deflation",
+    "#economics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "worth more or less",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "INFLATION",
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "DEFLATION",
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.4,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

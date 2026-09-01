@@ -1,10 +1,5 @@
 {
   "offen": [
-    "Interest vs Compound interest",
-    "Inflation vs Deflation",
-    "ETF vs Mutual fund",
-    "Rent vs Buy",
-    "Fixed rate vs Variable rate",
     "Income vs Wealth",
     "Assets vs Liabilities",
     "Bull market vs Bear market",
@@ -41,6 +36,11 @@
     "stocks-vs-bonds",
     "saving-vs-investing",
     "debit-card-vs-credit-card",
-    "gross-vs-net"
+    "gross-vs-net",
+    "interest-vs-compound-interest",
+    "inflation-vs-deflation",
+    "etf-vs-mutual-fund",
+    "rent-vs-buy",
+    "fixed-rate-vs-variable-rate"
   ]
 }

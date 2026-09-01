@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "slug": "interest-vs-compound-interest",
+  "thema": "Interest vs Compound interest",
+  "begriffe": [
+    "Interest",
+    "Compound interest"
+  ],
+  "ueberschrift": "Interest vs Compound Interest",
+  "titel": "Interest vs Compound Interest - What's the Difference?",
+  "beschreibung": "Two rules for paying interest look almost identical, until you watch what happens over twenty years. This video breaks down simple interest and compound interest with a real number example, so you can see exactly where the two paths split.\n\n#shorts #interest #compoundinterest #savings #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "interest",
+    "compound interest",
+    "simple interest",
+    "savings",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#interest",
+    "#compoundinterest",
+    "#savings",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "compound wins over time",
+    "zahl": "20",
+    "icon": "uhr"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          2000,
+          2653
+        ],
+        "achse": [
+          "simple",
+          "compound"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "COMPOUND",
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.4,
+      "haare": false
+    }
+  ]
+}

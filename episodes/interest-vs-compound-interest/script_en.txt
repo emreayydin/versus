@@ -1,0 +1,9 @@
+One kind of interest pays only on your deposit. The other pays on itself too.
+Here's how that one rule ends up worth very different amounts of money.
+Simple interest is calculated only on the original amount you put in.
+Put in a thousand dollars at five percent, and you earn fifty dollars every year.
+Compound interest is calculated on the original amount plus all interest already earned.
+After twenty years, that thousand dollars grows very differently under each rule.
+The real difference is compound interest pays you interest on interest, not just on your money.
+This gap matters most over long stretches of time, like decades of saving.
+So one grows in a straight line, and the other grows like a snowball.
