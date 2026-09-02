@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "income-vs-wealth",
+  "thema": "Income vs Wealth",
+  "begriffe": [
+    "Income",
+    "Wealth"
+  ],
+  "ueberschrift": "Income vs Wealth",
+  "titel": "Income vs Wealth - What's the Difference?",
+  "beschreibung": "Two numbers people mix up constantly: how much you earn and how much you actually have. This video breaks down the line between income and wealth with simple examples, no advice, just the mechanism.\n\n#shorts #income #wealth #personalfinance #networth\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "income",
+    "wealth",
+    "personalfinance",
+    "networth",
+    "moneybasics"
+  ],
+  "hashtags": [
+    "#income",
+    "#wealth",
+    "#personalfinance",
+    "#networth"
+  ],
+  "thumbnail": {
+    "zeile": "paycheck vs net worth",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "MONTHLY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "SNAPSHOT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

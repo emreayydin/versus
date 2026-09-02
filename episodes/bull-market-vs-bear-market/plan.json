@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "bull-market-vs-bear-market",
+  "thema": "Bull market vs Bear market",
+  "begriffe": [
+    "Bull Market",
+    "Bear Market"
+  ],
+  "ueberschrift": "Bull Market vs Bear Market",
+  "titel": "Bull Market vs Bear Market - What's the Difference?",
+  "beschreibung": "A short explainer on what separates a bull market from a bear market, how each one is defined, and why the difference matters for anyone watching prices move.\n\n#shorts #bullmarket #bearmarket #stockmarket #investing\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "bull market",
+    "bear market",
+    "stock market",
+    "investing basics",
+    "market cycles"
+  ],
+  "hashtags": [
+    "#bullmarket",
+    "#bearmarket",
+    "#stockmarket",
+    "#investing"
+  ],
+  "thumbnail": {
+    "zeile": "up vs down",
+    "zahl": "20",
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.6,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "-20%",
+      "stimmung": -0.4,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.6,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

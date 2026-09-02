@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Income vs Wealth",
-    "Assets vs Liabilities",
-    "Bull market vs Bear market",
     "Central bank vs Commercial bank",
     "Recession vs Depression",
     "Nominal vs Real return",
@@ -41,6 +38,9 @@
     "inflation-vs-deflation",
     "etf-vs-mutual-fund",
     "rent-vs-buy",
-    "fixed-rate-vs-variable-rate"
+    "fixed-rate-vs-variable-rate",
+    "income-vs-wealth",
+    "assets-vs-liabilities",
+    "bull-market-vs-bear-market"
   ]
 }
