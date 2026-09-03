@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "insurance-vs-warranty",
+  "thema": "Insurance vs Warranty",
+  "begriffe": [
+    "Insurance",
+    "Warranty"
+  ],
+  "ueberschrift": "Insurance vs Warranty",
+  "titel": "Insurance vs Warranty - What's the Difference?",
+  "beschreibung": "Insurance and a warranty both promise to pay you back if something goes wrong, but they are triggered by completely different things. This video breaks down what separates covering bad luck from covering a broken promise, with simple examples and no advice attached.\n\n#shorts #insurance #warranty #personalfinance #consumerrights\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "insurance",
+    "warranty",
+    "personalfinance",
+    "consumerrights",
+    "risk"
+  ],
+  "hashtags": [
+    "#insurance",
+    "#warranty",
+    "#personalfinance",
+    "#consumerrights"
+  ],
+  "thumbnail": {
+    "zeile": "who pays for what",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

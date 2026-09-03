@@ -1,10 +1,5 @@
 {
   "offen": [
-    "Central bank vs Commercial bank",
-    "Recession vs Depression",
-    "Nominal vs Real return",
-    "Tax deduction vs Tax credit",
-    "Insurance vs Warranty",
     "Loan vs Lease",
     "Salary vs Hourly wage",
     "Budget vs Forecast",
@@ -41,6 +36,11 @@
     "fixed-rate-vs-variable-rate",
     "income-vs-wealth",
     "assets-vs-liabilities",
-    "bull-market-vs-bear-market"
+    "bull-market-vs-bear-market",
+    "central-bank-vs-commercial-bank",
+    "recession-vs-depression",
+    "nominal-vs-real-return",
+    "tax-deduction-vs-tax-credit",
+    "insurance-vs-warranty"
   ]
 }

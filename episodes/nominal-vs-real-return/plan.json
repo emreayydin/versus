@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "slug": "nominal-vs-real-return",
+  "thema": "Nominal vs Real return",
+  "begriffe": [
+    "Nominal Return",
+    "Real Return"
+  ],
+  "ueberschrift": "Nominal vs Real Return",
+  "titel": "Nominal vs Real Return - What's the Difference?",
+  "beschreibung": "A bank statement can show a gain and still leave you poorer in real terms. This video explains the difference between nominal return, the percentage your account shows, and real return, what that gain is actually worth once inflation is taken into account. No advice, just the mechanics behind two numbers that often get confused.\n\n#shorts #nominalreturn #realreturn #inflation #investing\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "nominal return",
+    "real return",
+    "inflation",
+    "investing basics",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#nominalreturn",
+    "#realreturn",
+    "#inflation",
+    "#investing",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "what inflation eats",
+    "zahl": "3",
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "NOMINAL",
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          100,
+          105
+        ],
+        "achse": [
+          "invested",
+          "after one year"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "REAL",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

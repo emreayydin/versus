@@ -1,0 +1,107 @@
+{
+  "version": 2,
+  "slug": "central-bank-vs-commercial-bank",
+  "thema": "Central bank vs Commercial bank",
+  "begriffe": [
+    "Central bank",
+    "Commercial bank"
+  ],
+  "ueberschrift": "Central Bank vs Commercial Bank",
+  "titel": "Central Bank vs Commercial Bank - What's the Difference?",
+  "beschreibung": "Two things share the word 'bank' but do almost nothing the same. This video explains how a central bank and a commercial bank actually work, what each one does with money, and where the real difference between them lies. No advice, just the mechanism.\n\n#shorts #centralbank #commercialbank #banking #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "central bank",
+    "commercial bank",
+    "banking system",
+    "monetary policy",
+    "how banks work",
+    "interest rates",
+    "money creation"
+  ],
+  "hashtags": [
+    "#centralbank",
+    "#commercialbank",
+    "#banking",
+    "#economics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who creates money",
+    "zahl": null,
+    "icon": "muenze"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "CREATE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "LENDS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+One number tells you what you earned. The other tells you what it's worth.
+Both come from the same investment, but they answer different questions.
+Nominal return is the percentage gain your account shows, before anything else.
+If you put in a hundred dollars and end up with a hundred and five, that's five percent nominal.
+Real return takes that same gain and subtracts what inflation ate away.
+If prices rose three percent that year, your real return is closer to two percent.
+The real difference is that nominal return ignores prices, real return doesn't.
+This gap matters most over long periods, when small differences in inflation compound.
+Knowing which number you're looking at tells you what your money can actually buy.

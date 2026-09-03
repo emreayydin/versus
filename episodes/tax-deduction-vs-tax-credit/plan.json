@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "tax-deduction-vs-tax-credit",
+  "thema": "Tax deduction vs Tax credit",
+  "begriffe": [
+    "Tax Deduction",
+    "Tax Credit"
+  ],
+  "ueberschrift": "Tax Deduction vs Tax Credit",
+  "titel": "Tax Deduction vs Tax Credit - What's the Difference?",
+  "beschreibung": "Both lower your taxes, but they don't work the same way. This video breaks down where a deduction and a credit actually act on your tax bill, with a simple number example so the difference is clear.\n\n#shorts #taxes #taxdeduction #taxcredit #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "tax deduction",
+    "tax credit",
+    "taxes",
+    "income tax",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#taxes",
+    "#taxdeduction",
+    "#taxcredit",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "not the same value",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          220,
+          1000
+        ],
+        "achse": [
+          "Deduction",
+          "Credit"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}
