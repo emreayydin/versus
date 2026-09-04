@@ -17,7 +17,6 @@
     "wohnsitzland": "Deutschland"
   },
   "offen": [
-    "APP AUF PRODUKTION - Knopf war gesperrt. SOLANGE LAEUFT DAS TOKEN NACH 7 TAGEN AB, also vor dem 07.09.2026 erledigen.",
     "TELEFONVERIFIZIERUNG offen - ohne sie bleiben eigene Thumbnails mit 403 gesperrt. youtube.com/verify_phone_number",
     "Langformat neu bauen: derzeit nur aneinandergehaengte Shorts. Eigenes Format mit festen Dimensionen (Kosten/Risiko/Zeit/Steuern/fuer wen).",
     "Zeitgeber entscheiden: Cloudflare Worker (gratis) oder Zapier (~20 USD/Monat) stoesst workflow_dispatch an, das wird nicht gedrosselt."
@@ -30,11 +29,19 @@
       "YouTube Analytics API"
     ],
     "oauth_client": "Desktop, 'versus uploader desktop'",
-    "zustimmungsbildschirm": "Extern, Status TEST",
+    "zustimmungsbildschirm": "Extern, Status IN PRODUKTION seit 05.09.2026",
     "testnutzer": [
       "Emres Google-Konto (Adresse nicht im Repo)"
     ],
-    "warum_eigenes_projekt": "Das YouTube-Kontingent haengt am Cloud-Projekt, nicht am Kanal. lino-show (Strichrechnung) verbraucht dort schon bis zu 8.250 von 10.000 Einheiten taeglich."
+    "warum_eigenes_projekt": "Das YouTube-Kontingent haengt am Cloud-Projekt, nicht am Kanal. lino-show (Strichrechnung) verbraucht dort schon bis zu 8.250 von 10.000 Einheiten taeglich.",
+    "warum_es_haengen_blieb": "Der Knopf war fuenf Tage gesperrt. Ursache: Google verlangt fuer NEUE Apps mit vertraulichen Bereichen (youtube.upload) Startseite, Datenschutzerklaerung, Nutzungsbedingungen UND die autorisierte Domain. lino-show hat diese Felder leer und steht trotzdem auf Produktion - es wurde unter den alten Regeln veroeffentlicht und ist bestandsgeschuetzt. Der Vergleich mit lino-show hat mich deshalb zuerst in die Irre gefuehrt.",
+    "pflichtseiten": {
+      "repo": "github.com/emreayydin/differencemoney-site (oeffentlich, muss es sein)",
+      "startseite": "https://emreayydin.github.io/differencemoney-site/",
+      "datenschutz": "https://emreayydin.github.io/differencemoney-site/privacy.html",
+      "nutzungsbedingungen": "https://emreayydin.github.io/differencemoney-site/terms.html",
+      "autorisierte_domain": "emreayydin.github.io"
+    }
   },
   "repo": "github.com/emreayydin/versus (privat)",
   "secrets": [
