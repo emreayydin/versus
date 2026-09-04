@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Loan vs Lease",
-    "Salary vs Hourly wage",
-    "Budget vs Forecast",
     "Cash flow vs Profit",
     "Revenue vs Profit",
     "Value stock vs Growth stock",
@@ -41,6 +38,9 @@
     "recession-vs-depression",
     "nominal-vs-real-return",
     "tax-deduction-vs-tax-credit",
-    "insurance-vs-warranty"
+    "insurance-vs-warranty",
+    "loan-vs-lease",
+    "salary-vs-hourly-wage",
+    "budget-vs-forecast"
   ]
 }

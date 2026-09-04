@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "loan-vs-lease",
+  "thema": "Loan vs Lease",
+  "begriffe": [
+    "Loan",
+    "Lease"
+  ],
+  "ueberschrift": "Loan vs Lease",
+  "titel": "Loan vs Lease - What's the Difference?",
+  "beschreibung": "A loan and a lease can look almost the same each month, but they end very differently. This video breaks down what actually happens to ownership, payments, and what you're left with when the term is over.\n\n#shorts #loan #lease #personalfinance #cars\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "loan",
+    "lease",
+    "car loan",
+    "car lease",
+    "financing",
+    "ownership",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#loan",
+    "#lease",
+    "#personalfinance",
+    "#cars",
+    "#money"
+  ],
+  "thumbnail": {
+    "zeile": "who owns it at the end",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "YOURS",
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "OWNERSHIP",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.4,
+      "haare": false
+    }
+  ]
+}
