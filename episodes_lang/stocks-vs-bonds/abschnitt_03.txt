@@ -1,0 +1,7 @@
+Risk sits differently for each one, since stockholders can lose value in hard times while bondholders usually stand closer to the front of the line.
+If a company struggles, its stock price can fall sharply, sometimes losing significant value, and shareholders absorb that drop.
+This kind of risk is often called ownership risk, since it depends directly on how well or poorly the underlying business performs over time.
+Bondholders are usually promised fixed interest payments and full repayment of their loan, ahead of any payout to stockholders.
+That relative safety only holds as long as the company remains financially strong enough to meet its promised payments.
+If a company cannot meet its obligations, it can default on its bonds, leaving bondholders facing real financial losses as well.
+In a bankruptcy, bondholders are typically paid before stockholders, though stockholders may end up receiving little or nothing at all.

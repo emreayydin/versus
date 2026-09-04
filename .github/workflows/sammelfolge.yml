@@ -1,4 +1,4 @@
-name: Sammelfolge
+name: Langfassung
 
 # Drei Sammelfolgen pro Woche, aus bereits produzierten Kapiteln.
 #
@@ -71,7 +71,7 @@ jobs:
       - name: Musikbett
         run: ./venv/bin/python scripts/music.py
 
-      - name: Sammelfolge bauen und veroeffentlichen
+      - name: Langfassung bauen und veroeffentlichen
         env:
           YOUTUBE_TOKEN_EN: ${{ secrets.YOUTUBE_TOKEN_EN }}
           KAPITEL: ${{ inputs.kapitel || '9' }}
@@ -84,8 +84,10 @@ jobs:
           NAME="sammelfolge-$(date -u +%Y%m%d)"
           # Kein Anthropic-Schluessel noetig: es werden nur vorhandene
           # Kapitel verkettet, kein neues Skript geschrieben.
-          ./venv/bin/python scripts/make_longform.py --name "$NAME" --letzte "$KAPITEL"
-          ./venv/bin/python scripts/publish.py --episode "$NAME" --lang en \
+          ./venv/bin/python scripts/versus_long_gen.py --next
+          SLUG=$(./venv/bin/python -c "import json,pathlib; print(json.loads(pathlib.Path('episodes_lang/queue.json').read_text())['used'][-1])")
+          ./venv/bin/python scripts/make_versus_long.py --episode "$SLUG"
+          ./venv/bin/python scripts/publish.py --episode "$SLUG" --lang en \
             --publish --privacy "$PRIVACY"
           ./venv/bin/python scripts/day_guard.py --mark --name sammelfolge
 

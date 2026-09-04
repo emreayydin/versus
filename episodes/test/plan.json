@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "slug": "test",
+  "titel": "3 Geldbegriffe, in 2 Minuten erklärt",
+  "ueberschrift": "3 Geldbegriffe, in 2 Minuten erklärt",
+  "beschreibung": "3 Begriffe aus Geld und Wirtschaft, einer nach dem anderen erklärt. Mit Strichmännchen und ohne Fachchinesisch.\n\n0:00 Loan vs Lease\n0:53 Salary vs Hourly Wage\n1:37 Budget vs Forecast\n\n#loan #lease #personalfinance #cars #money\n\nDieses Video erklärt Begriffe. Es ist keine Anlageberatung und keine Kaufempfehlung.",
+  "tags": [
+    "loan",
+    "lease",
+    "car loan",
+    "car lease",
+    "financing",
+    "ownership",
+    "personal finance",
+    "salary",
+    "hourly wage",
+    "compensation",
+    "pay structure",
+    "budget",
+    "forecast",
+    "business finance",
+    "corporate planning",
+    "financial terms"
+  ],
+  "hashtags": [
+    "#loan",
+    "#lease",
+    "#personalfinance",
+    "#cars",
+    "#money"
+  ],
+  "thumbnail": {
+    "zeile": "Geld verstehen",
+    "zahl": "3 Begriffe",
+    "icon": "waage"
+  },
+  "bilder": [],
+  "kapitel": [
+    "Loan vs Lease",
+    "Salary vs Hourly Wage",
+    "Budget vs Forecast"
+  ]
+}

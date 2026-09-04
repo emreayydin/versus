@@ -1,0 +1,622 @@
+{
+  "version": 1,
+  "slug": "stocks-vs-bonds",
+  "thema": "Stocks vs Bonds",
+  "begriffe": [
+    "Stocks",
+    "Bonds"
+  ],
+  "titel": "Stocks vs Bonds - What's the Difference?",
+  "beschreibung": "This episode breaks down stocks and bonds, two of the most common ways people put money into the economy. It explains what each one really represents, how money moves between investors and companies or governments, and what risks and rewards come with each. The video also covers how long money stays tied up, what fees and taxes apply, and which situations each option tends to fit. No specific investments are recommended, only the mechanics and differences are explained.\n\n#stocks #bonds #investing #finance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "stocks",
+    "bonds",
+    "investing basics",
+    "finance education",
+    "money explained",
+    "personal finance",
+    "economics"
+  ],
+  "abschnitte": [
+    {
+      "ueberschrift": "Opening",
+      "bilder": [
+        {
+          "pose": "zeigen",
+          "icon": "waage",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": "bank",
+          "diagramm": null,
+          "wort": "Bond",
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "jubeln",
+          "icon": "hoch",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 1.0,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": "muenze",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        }
+      ]
+    },
+    {
+      "ueberschrift": "What it actually is",
+      "bilder": [
+        {
+          "pose": "stehen",
+          "icon": "waage",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": "muenze",
+          "diagramm": null,
+          "wort": "Kredit",
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": "uhr",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "jubeln",
+          "icon": "hoch",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 1.0,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        }
+      ]
+    },
+    {
+      "ueberschrift": "Who pays whom",
+      "bilder": [
+        {
+          "pose": "stehen",
+          "icon": "waage",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "jubeln",
+          "icon": "muenze",
+          "diagramm": null,
+          "wort": "Dividende",
+          "stimmung": 1.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": "bank",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": "uhr",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        }
+      ]
+    },
+    {
+      "ueberschrift": "Risk",
+      "bilder": [
+        {
+          "pose": "stehen",
+          "icon": "waage",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": "runter",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": -1.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": "muenze",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 1.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": null,
+          "diagramm": null,
+          "wort": "default",
+          "stimmung": -1.0,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": -1.0,
+          "haare": false
+        }
+      ]
+    },
+    {
+      "ueberschrift": "Time",
+      "bilder": [
+        {
+          "pose": "zeigen",
+          "icon": "waage",
+          "diagramm": null,
+          "wort": "maturity",
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": "uhr",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": "uhr",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "jubeln",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 1.0,
+          "haare": false
+        }
+      ]
+    },
+    {
+      "ueberschrift": "Taxes and costs",
+      "bilder": [
+        {
+          "pose": "denken",
+          "icon": "waage",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": "muenze",
+          "diagramm": null,
+          "wort": "Fees",
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": "prozent",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": "bank",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": "schere",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "jubeln",
+          "icon": "haus",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        }
+      ]
+    },
+    {
+      "ueberschrift": "Who each one suits",
+      "bilder": [
+        {
+          "pose": "stehen",
+          "icon": "waage",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": "kurve",
+          "diagramm": null,
+          "wort": "Growth",
+          "stimmung": 0.3,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": "muenze",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": "uhr",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "jubeln",
+          "icon": "hoch",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.4,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        }
+      ]
+    },
+    {
+      "ueberschrift": "The difference",
+      "bilder": [
+        {
+          "pose": "zeigen",
+          "icon": "waage",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "denken",
+          "icon": "kurve",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "stehen",
+          "icon": "bank",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "zeigen",
+          "icon": "uhr",
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "jubeln",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "sitzen",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        },
+        {
+          "pose": "achselzucken",
+          "icon": null,
+          "diagramm": null,
+          "wort": null,
+          "stimmung": 0.0,
+          "haare": false
+        }
+      ]
+    }
+  ]
+}
