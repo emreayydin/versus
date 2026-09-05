@@ -103,6 +103,17 @@ def main():
     (ROOT / "src" / "data" / "thumb.json").write_text(
         json.dumps(thumb, ensure_ascii=False, indent=2), encoding="utf-8")
 
+    # Root.tsx zieht alle Kompositionen ein, auch die Shorts-Folge. Deren
+    # voice.json ist gitignoriert, existiert im frischen CI-Checkout also
+    # nicht - und ein einziger fehlender Import laesst das ganze Bundle
+    # scheitern, obwohl die Langfassung ihn gar nicht braucht.
+    stumm = ROOT / "src" / "data" / "voice.json"
+    if not stumm.exists():
+        stumm.write_text(json.dumps(
+            {"lang": "en", "duration": 1.0, "groups": [], "words": []},
+            indent=2), encoding="utf-8")
+        print("  voice.json war nicht da - Platzhalter geschrieben")
+
     if a.nur_bauen:
         print("\n[nur-bauen] Rendern uebersprungen.")
         return

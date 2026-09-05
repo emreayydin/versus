@@ -348,7 +348,14 @@ Title at most {MAX_TITEL} characters. No advice, no recommendations, no
 specific securities."""
 
 
+WOERTER_PRO_SATZ = 16
+
+
 def _abschnitt_system(begriffe, ueberschrift, kern, worte):
+    # Die Satzzahl folgt aus dem Wortbudget. Stand hier eine feste Spanne
+    # ("drei bis sechs Saetze"), gewann sie gegen die Wortzahl: acht
+    # Abschnitte à sieben Saetze ergaben 963 statt 1700 Woerter.
+    weitere = max(4, round(worte / WOERTER_PRO_SATZ) - 1)
     return f"""You write ONE section of a long-form episode comparing
 {begriffe[0]} and {begriffe[1]} for an English money channel. Landscape video,
 one voice over stick-figure drawings.
@@ -357,8 +364,10 @@ This section is "{ueberschrift}". It must establish: {kern}
 
 It compares BOTH things under this heading. A section about only one of them is
 wrong. It opens with one sentence stating the difference under this heading,
-then three to six sentences that make it concrete. No summary at the end - the
-next heading carries on. Around {worte} words.
+then {weitere} more sentences that make it concrete - each one a separate
+example, number, or consequence, not a restatement. No summary at the end - the
+next heading carries on. Around {worte} words in total, and the word count
+matters: a short section leaves the episode under length.
 
 You explain, you never advise. No telling anyone to buy or sell, no specific
 securities or tickers, no promised returns, no urgency.
@@ -459,6 +468,45 @@ def erzeuge(thema, versuche=3):
                 f'Say the same thing without it.', sys_p, 12000)
             if teil.get("saetze"):
                 folge["abschnitte"][idx]["saetze"] = teil["saetze"]
+
+    # Zu kurz ist kein Schoenheitsfehler: unter acht Minuten schaltet YouTube
+    # keine Mid-Roll-Anzeigen, und genau die sind der Grund fuer das Langformat.
+    # Also die duennsten Abschnitte nachschreiben, nicht die Folge verwerfen.
+    def _worte(a):
+        return len(" ".join(s.get("text", "") for s in a["saetze"]).split())
+
+    for runde in range(2):
+        gesamt = sum(_worte(a) for a in folge["abschnitte"])
+        if gesamt >= MIN_WOERTER:
+            break
+        fehlt = MIN_WOERTER - gesamt
+        print(f"  {gesamt} Woerter, {fehlt} fehlen - duennste Abschnitte "
+              f"werden ausgebaut (Runde {runde + 1})")
+        rang = sorted(range(len(folge["abschnitte"])),
+                      key=lambda i: _worte(folge["abschnitte"][i]))
+        # Auf die drei duennsten verteilen, mit Reserve, damit nicht jede
+        # Runde nur knapp unter der Grenze landet.
+        ziel_zusatz = fehlt // 3 + 40
+        for idx in rang[:3]:
+            a = folge["abschnitte"][idx]
+            u = a["ueberschrift"]
+            plan = next((x for x in absch_plan
+                         if str(x.get("ueberschrift", "")).startswith(u)), {})
+            neu_worte = _worte(a) + ziel_zusatz
+            sys_p = _abschnitt_system(begriffe, u, plan.get("kern", ""),
+                                      neu_worte)
+            teil = frage_json(
+                f'Write the section "{u}". The previous attempt was too short '
+                f'for a long-form episode. Go deeper: name concrete numbers, '
+                f'a worked example, and what it means in practice.',
+                sys_p, 12000)
+            neu = teil.get("saetze") or []
+            schlecht = [x for x in neu if x.get("pose") not in POSEN
+                        or len((x.get("text") or "")) > MAX_SATZ_ZEICHEN]
+            if neu and not schlecht and len(" ".join(
+                    x.get("text", "") for x in neu).split()) > _worte(a):
+                folge["abschnitte"][idx]["saetze"] = neu
+                print(f"  {u:26} {_worte(folge['abschnitte'][idx]):>4} Woerter")
 
     maengel = pruefe(folge)
     if maengel:
