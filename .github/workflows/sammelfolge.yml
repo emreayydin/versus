@@ -73,6 +73,10 @@ jobs:
 
       - name: Langfassung bauen und veroeffentlichen
         env:
+          # Die Langfassung schreibt ihr Skript selbst - die alte
+          # Sammelfolge verkettete nur fertige Shorts und brauchte
+          # den Schluessel deshalb nie.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           YOUTUBE_TOKEN_EN: ${{ secrets.YOUTUBE_TOKEN_EN }}
           KAPITEL: ${{ inputs.kapitel || '9' }}
           PRIVACY: ${{ inputs.privacy || 'public' }}
