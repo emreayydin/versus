@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "slug": "revenue-vs-profit",
+  "thema": "Revenue vs Profit",
+  "begriffe": [
+    "Revenue",
+    "Profit"
+  ],
+  "ueberschrift": "Revenue vs Profit",
+  "titel": "Revenue vs Profit - What's the Difference?",
+  "beschreibung": "Revenue and profit both show up in a company's earnings report, but they measure very different things. This short explainer breaks down what each number actually tells you, with a simple example.\n\n#shorts #revenue #profit #personalfinance #business\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "revenue",
+    "profit",
+    "business finance",
+    "income statement",
+    "company earnings"
+  ],
+  "hashtags": [
+    "#revenue",
+    "#profit",
+    "#personalfinance",
+    "#business"
+  ],
+  "thumbnail": {
+    "zeile": "money in vs money kept",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          1000000,
+          50000
+        ],
+        "achse": [
+          "Revenue",
+          "Profit"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "KEPT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

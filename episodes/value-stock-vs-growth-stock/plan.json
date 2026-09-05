@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "value-stock-vs-growth-stock",
+  "thema": "Value stock vs Growth stock",
+  "begriffe": [
+    "Value stock",
+    "Growth stock"
+  ],
+  "ueberschrift": "Value Stock vs Growth Stock",
+  "titel": "Value Stock vs Growth Stock - What's the Difference?",
+  "beschreibung": "Two ways to price the same uncertainty. This video explains what makes a stock 'value' or 'growth', how the market prices each differently, and where that difference actually shows up. No advice, just the mechanics.\n\n#shorts #valuestocks #growthstocks #stockmarket #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "value stocks",
+    "growth stocks",
+    "investing basics",
+    "stock market explained",
+    "pe ratio"
+  ],
+  "hashtags": [
+    "#valuestocks",
+    "#growthstocks",
+    "#stockmarket",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "today or tomorrow?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "CHEAP",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "GROWTH",
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

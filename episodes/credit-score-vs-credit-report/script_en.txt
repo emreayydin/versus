@@ -1,0 +1,9 @@
+One is a single number. The other is the whole file behind it.
+People treat them as the same thing, but lenders read them very differently.
+A credit report lists every loan, every credit card, and every payment you made.
+It also records late payments, defaults, and how long each account has existed.
+A credit score takes that entire file and compresses it into one number.
+That number usually runs from three hundred to eight hundred fifty, showing risk at a glance.
+The difference is that the report is the evidence, and the score is the verdict.
+Lenders often check both, the score for speed and the report for the details behind it.
+Together they describe the same history, just at different levels of detail.

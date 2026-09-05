@@ -1,0 +1,125 @@
+{
+  "version": 2,
+  "slug": "cash-flow-vs-profit",
+  "thema": "Cash flow vs Profit",
+  "begriffe": [
+    "Cash Flow",
+    "Profit"
+  ],
+  "ueberschrift": "Cash Flow vs Profit",
+  "titel": "Cash Flow vs Profit - What's the Difference?",
+  "beschreibung": "A business can look profitable on paper and still run out of money. This video explains the real difference between cash flow and profit, using a simple number example, so you can see why the two rarely match.\n\n#shorts #cashflow #profit #business #finance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "cash flow",
+    "profit",
+    "business finance",
+    "accounting basics",
+    "financial literacy",
+    "small business"
+  ],
+  "hashtags": [
+    "#cashflow",
+    "#profit",
+    "#business",
+    "#finance",
+    "#accounting"
+  ],
+  "thumbnail": {
+    "zeile": "profit isn't cash",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          50000,
+          0
+        ],
+        "achse": [
+          "Profit",
+          "Cash"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.4,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

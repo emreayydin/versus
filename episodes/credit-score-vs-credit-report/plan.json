@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "credit-score-vs-credit-report",
+  "thema": "Credit score vs Credit report",
+  "begriffe": [
+    "Credit score",
+    "Credit report"
+  ],
+  "ueberschrift": "Credit Score vs Credit Report",
+  "titel": "Credit Score vs Credit Report - What's the Difference?",
+  "beschreibung": "A quick, calm explainer on how your credit score and credit report differ, and why lenders check both.\n\n#shorts #creditscore #creditreport #personalfinance #banking\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "credit score",
+    "credit report",
+    "personal finance",
+    "banking basics",
+    "credit history"
+  ],
+  "hashtags": [
+    "#creditscore",
+    "#creditreport",
+    "#personalfinance",
+    "#banking"
+  ],
+  "thumbnail": {
+    "zeile": "one number, one file",
+    "zahl": "850",
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "850",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}
