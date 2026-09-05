@@ -134,4 +134,14 @@ jobs:
           git config user.email "actions@github.com"
           git add episodes/
           git commit -m "Autopilot-Lauf ${{ github.run_number }}" || echo "nichts zu committen"
-          git push
+          # Der Bot committet bei jedem Lauf auf main. Kommt dazwischen ein
+          # anderer Push, wird dieser hier abgewiesen - und der Lauf gilt als
+          # gescheitert, obwohl die Videos laengst oeffentlich sind. Also erst
+          # committen, dann rebasen, dann pushen, mit ein paar Anlaeufen.
+          for versuch in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "Push-Versuch $versuch abgewiesen, neuer Anlauf"
+            sleep $((versuch * 5))
+          done
+          echo "Themenliste liess sich nicht zurueckschreiben." >&2
+          exit 1
