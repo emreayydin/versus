@@ -17,9 +17,8 @@
     "wohnsitzland": "Deutschland"
   },
   "offen": [
-    "TELEFONVERIFIZIERUNG offen - ohne sie bleiben eigene Thumbnails mit 403 gesperrt. youtube.com/verify_phone_number",
-    "Langformat neu bauen: derzeit nur aneinandergehaengte Shorts. Eigenes Format mit festen Dimensionen (Kosten/Risiko/Zeit/Steuern/fuer wen).",
-    "Zeitgeber entscheiden: Cloudflare Worker (gratis) oder Zapier (~20 USD/Monat) stoesst workflow_dispatch an, das wird nicht gedrosselt."
+    "TOKENS NEU AUSSTELLEN, bis 07.09.2026. Beide Tokens stammen vom 31.08. aus der Testphase; Google gibt solchen Aktualisierungs-Tokens sieben Tage. Der Wechsel auf Produktion kam erst am 05.09., also nach der Ausgabe. Am 05.09. liessen sich beide noch erneuern.",
+    "Zeitgeber entscheiden: laeuft derzeit als launchd-Taktgeber auf dem MacBook. Cloudflare Worker (gratis) waere unabhaengig vom Rechner, ist angefangen und nicht fertig."
   ],
   "eingerichtet_am": "2026-08-31",
   "cloud_projekt": {
@@ -71,5 +70,10 @@
     "abgelehnt": "YouTube sperrt 'The Difference' als Kanalnamen ('Du kannst diesen Namen nicht verwenden')",
     "genommen": "The Difference Money",
     "handle_hinweis": "@thedifference, @whatsthedifference und @thedifferenceexplained sind alle belegt. Ein 404 auf youtube.com/@handle heisst NICHT frei - nur das Feld in Studio sagt die Wahrheit."
+  },
+  "erledigt": {
+    "telefonverifizierung": "am 05.09.2026 gemessen erledigt - der Autopilot meldet 'Thumbnail gesetzt' statt HTTP 403.",
+    "oauth_produktion": "seit 05.09.2026 in Produktion; am selben Tag gingen fuenf Shorts oeffentlich raus.",
+    "langformat": "eigenes Format gebaut (scripts/versus_long_gen.py, sechs feste Dimensionen), nicht mehr aneinandergehaengte Shorts."
   }
 }
