@@ -223,6 +223,31 @@ def parse_json(text):
     return json.loads(text[i:j + 1])
 
 
+def frage_json(prompt, system, max_tokens, versuche=3):
+    """
+    Fragen, bis brauchbares JSON zurueckkommt.
+
+    Das Modell liefert gelegentlich eine kaputte Struktur - ein nicht
+    entwertetes Anfuehrungszeichen reicht. Ohne diese Schleife stirbt daran
+    der ganze unbeaufsichtigte Lauf, und zwar nachdem die vorherigen
+    Abschnitte schon bezahlt sind.
+    """
+    letzter = None
+    for versuch in range(1, versuche + 1):
+        roh = ask(prompt, system, max_tokens=max_tokens)
+        try:
+            return parse_json(roh)
+        except (ValueError, json.JSONDecodeError) as fehler:
+            letzter = fehler
+            print(f"    unbrauchbares JSON ({type(fehler).__name__}: "
+                  f"{str(fehler)[:70]}), Versuch {versuch}/{versuche}",
+                  file=sys.stderr)
+            prompt = (prompt + "\n\nThe previous answer was not valid JSON. "
+                      "Return only a single valid JSON object, with every "
+                      "quote inside a string properly escaped.")
+    raise SystemExit(f"Dreimal unbrauchbares JSON: {letzter}")
+
+
 def alle_saetze(folge):
     return [s for a in folge.get("abschnitte", []) for s in a.get("saetze", [])]
 
@@ -363,8 +388,8 @@ def erzeuge(thema, versuche=3):
     Abschnitt einzeln - ein misslungener Abschnitt kostet so auch nur einen
     kleinen Aufruf statt der ganzen Folge.
     """
-    geruest = parse_json(ask(f'Plan the episode for: "{thema}".',
-                             GERUEST_SYSTEM, max_tokens=8000))
+    geruest = frage_json(f'Plan the episode for: "{thema}".',
+                         GERUEST_SYSTEM, 8000)
     begriffe = geruest.get("begriffe") or thema.replace(" vs ", "|").split("|")
     begriffe = [str(b).strip() for b in begriffe][:2]
     absch_plan = geruest.get("abschnitte") or []
@@ -391,8 +416,7 @@ def erzeuge(thema, versuche=3):
             # Denk-Token zaehlen aufs Limit. Bei 4000 kam dreimal eine leere
             # Antwort mit stop_reason=max_tokens zurueck - bezahlt, aber ohne
             # ein einziges Wort Ergebnis.
-            teil = parse_json(ask(f'Write the section "{u}".', sys_p,
-                                  max_tokens=12000))
+            teil = frage_json(f'Write the section "{u}".', sys_p, 12000)
             saetze = teil.get("saetze") or []
             schlecht = [s for s in saetze if s.get("pose") not in POSEN
                         or len((s.get("text") or "")) > MAX_SATZ_ZEICHEN]
@@ -429,10 +453,10 @@ def erzeuge(thema, versuche=3):
                                       len(" ".join(
                                           s.get("text", "")
                                           for s in folge["abschnitte"][idx]["saetze"]).split()))
-            teil = parse_json(ask(
+            teil = frage_json(
                 f'Write the section "{u}". The previous attempt used the '
                 f'phrase "{wort}", which is forbidden - it reads as a promise. '
-                f'Say the same thing without it.', sys_p, max_tokens=12000))
+                f'Say the same thing without it.', sys_p, 12000)
             if teil.get("saetze"):
                 folge["abschnitte"][idx]["saetze"] = teil["saetze"]
 
