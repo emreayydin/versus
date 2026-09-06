@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "term-vs-whole-life-insurance",
+  "thema": "Term vs Whole life insurance",
+  "begriffe": [
+    "Term life",
+    "Whole life"
+  ],
+  "ueberschrift": "Term vs Whole Life Insurance",
+  "titel": "Term vs Whole Life Insurance - What's the Difference?",
+  "beschreibung": "Two kinds of life insurance work in very different ways. One covers you for a set number of years, the other for your entire life and builds cash value along the way. This video breaks down how each one works, what it actually pays for, and why the costs are so different.\n\n#shorts #termlife #wholelife #lifeinsurance #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "life insurance",
+    "term life",
+    "whole life insurance",
+    "personal finance",
+    "money explained"
+  ],
+  "hashtags": [
+    "#termlife",
+    "#wholelife",
+    "#lifeinsurance",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "protection or savings",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "NEVER",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          30,
+          300
+        ],
+        "achse": [
+          "Term",
+          "Whole life"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}

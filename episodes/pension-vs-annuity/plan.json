@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "pension-vs-annuity",
+  "thema": "Pension vs Annuity",
+  "begriffe": [
+    "Pension",
+    "Annuity"
+  ],
+  "ueberschrift": "Pension vs Annuity",
+  "titel": "Pension vs Annuity - What's the Difference?",
+  "beschreibung": "A pension comes from years of work, an annuity is a contract you buy. This video breaks down who pays whom, who carries the risk, and what changes when you switch from earning income to buying it.\n\n#shorts #pension #annuity #retirement #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "pension",
+    "annuity",
+    "retirement income",
+    "personal finance",
+    "insurance"
+  ],
+  "hashtags": [
+    "#pension",
+    "#annuity",
+    "#retirement",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who takes the risk",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "PROMISE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "CONTRACT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "RISK",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.4,
+      "haare": false
+    }
+  ]
+}
