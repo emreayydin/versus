@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Supply vs Demand",
-    "Price vs Value",
-    "Cost vs Expense",
     "Bond yield vs Bond price",
     "Liquidity vs Solvency",
     "Micro vs Macro economics",
@@ -81,6 +78,9 @@
     "pension-vs-annuity",
     "term-vs-whole-life-insurance",
     "checking-account-vs-savings-account",
-    "gold-vs-cash"
+    "gold-vs-cash",
+    "supply-vs-demand",
+    "price-vs-value",
+    "cost-vs-expense"
   ]
 }

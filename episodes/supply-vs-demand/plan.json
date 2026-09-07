@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "supply-vs-demand",
+  "thema": "Supply vs Demand",
+  "begriffe": [
+    "Supply",
+    "Demand"
+  ],
+  "ueberschrift": "Supply vs Demand",
+  "titel": "Supply vs Demand - What's the Difference?",
+  "beschreibung": "Every price you see is the result of a quiet tug of war. This video breaks down how supply and demand actually set that number, with no jargon and no advice, just the mechanism behind every price tag.\n\n#shorts #supplyanddemand #economics #markets #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "supply and demand",
+    "economics explained",
+    "how prices work",
+    "market basics",
+    "economics for beginners"
+  ],
+  "hashtags": [
+    "#supplyanddemand",
+    "#economics",
+    "#markets",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who sets the price",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "PRICE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
