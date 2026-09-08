@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "stock-vs-share",
+  "thema": "Stock vs Share",
+  "begriffe": [
+    "Stock",
+    "Share"
+  ],
+  "ueberschrift": "Stock vs Share",
+  "titel": "Stock vs Share - What's the Difference?",
+  "beschreibung": "Stock and share get used as if they're the same word, but they name different things. This video breaks down what a share actually is, what stock really means, and why mixing them up can confuse how you read a portfolio.\n\n#shorts #stocks #shares #investing #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "stocks",
+    "shares",
+    "investing basics",
+    "stock market explained",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#stocks",
+    "#shares",
+    "#investing",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "one piece or all",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "SHARE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "STOCK",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
