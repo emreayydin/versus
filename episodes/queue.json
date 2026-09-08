@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Micro vs Macro economics",
     "Tariff vs Quota",
     "Import vs Export",
     "GDP vs GNP",
@@ -81,6 +80,7 @@
     "price-vs-value",
     "cost-vs-expense",
     "bond-yield-vs-bond-price",
-    "liquidity-vs-solvency"
+    "liquidity-vs-solvency",
+    "micro-vs-macro-economics"
   ]
 }
