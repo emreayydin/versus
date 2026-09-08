@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Import vs Export",
     "GDP vs GNP",
     "Fixed cost vs Variable cost",
     "401k vs IRA",
@@ -81,6 +80,7 @@
     "bond-yield-vs-bond-price",
     "liquidity-vs-solvency",
     "micro-vs-macro-economics",
-    "tariff-vs-quota"
+    "tariff-vs-quota",
+    "import-vs-export"
   ]
 }
