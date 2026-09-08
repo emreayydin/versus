@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "401k-vs-ira",
+  "thema": "401k vs IRA",
+  "begriffe": [
+    "401k",
+    "IRA"
+  ],
+  "ueberschrift": "401k vs IRA",
+  "titel": "401k vs IRA - What's the Difference?",
+  "beschreibung": "A simple breakdown of how a 401k and an IRA differ - who sets them up, how much you can put in, and what happens when you change jobs. No advice, just the mechanics.\n\n#shorts #401k #ira #retirement #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "401k",
+    "IRA",
+    "retirement savings",
+    "personal finance",
+    "tax advantaged accounts"
+  ],
+  "hashtags": [
+    "#401k",
+    "#ira",
+    "#retirement",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who controls it",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "23K",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
