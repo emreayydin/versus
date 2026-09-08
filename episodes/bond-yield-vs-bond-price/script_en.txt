@@ -1,0 +1,11 @@
+One number rises while the other falls, on the exact same bond.
+The reason comes down to how price and yield are linked together.
+A bond's price is what someone actually pays to buy it on the market.
+That price can trade above or below the bond's original face value.
+It moves up or down as investors decide the bond is worth more or less.
+A bond's yield is the actual return you earn each year, in percent.
+It comes from dividing the interest payment by the price you paid.
+So when the price falls, the same payment turns into a higher yield.
+The difference is that price is what you pay, and yield is what you earn from it.
+This shows up whenever interest rates change, because it pushes prices the opposite way.
+Same bond, two numbers, always moving in opposite directions.

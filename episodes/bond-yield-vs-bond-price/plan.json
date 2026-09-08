@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "bond-yield-vs-bond-price",
+  "thema": "Bond yield vs Bond price",
+  "begriffe": [
+    "Bond Yield",
+    "Bond Price"
+  ],
+  "ueberschrift": "Bond Yield vs Bond Price",
+  "titel": "Bond Yield vs Bond Price - What's the Difference?",
+  "beschreibung": "Bond price and bond yield move in opposite directions, even though they come from the same bond. This video breaks down what each number actually means, how they're connected through simple math, and why understanding both matters more than watching just one.\n\n#shorts #bonds #investing #personalfinance #fixedincome\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "bond yield",
+    "bond price",
+    "bonds explained",
+    "fixed income",
+    "interest rates"
+  ],
+  "hashtags": [
+    "#bonds",
+    "#investing",
+    "#personalfinance",
+    "#fixedincome"
+  ],
+  "thumbnail": {
+    "zeile": "price down, yield up",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "FACE VALUE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
