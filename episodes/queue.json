@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Debt vs Equity",
     "Stock vs Share",
     "Hedge fund vs Mutual fund",
     "Public company vs Private company",
@@ -81,6 +80,7 @@
     "gdp-vs-gnp",
     "fixed-cost-vs-variable-cost",
     "401k-vs-ira",
-    "roth-ira-vs-traditional-ira"
+    "roth-ira-vs-traditional-ira",
+    "debt-vs-equity"
   ]
 }
