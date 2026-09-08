@@ -1,0 +1,10 @@
+Why can a company fail with plenty of assets, but survive with almost none?
+It comes down to two different kinds of trouble a business can be in.
+Liquidity is about whether a company has enough cash to cover this month's bills.
+A company can be liquid even while carrying large long-term debt, as long as cash keeps moving.
+Solvency asks a bigger question: is everything the company owns worth more than everything it owes.
+A company with two hundred thousand in assets and three hundred thousand in liabilities is insolvent.
+A solvent company can still run out of cash and miss a payment today.
+The difference is timing: liquidity is about today's cash, solvency is about the whole balance sheet.
+This is why some profitable, solvent companies still collapse - they simply run out of cash first.
+One problem can be fixed with a loan, the other means the company owes more than it will ever be worth.

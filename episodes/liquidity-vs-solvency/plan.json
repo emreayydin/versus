@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "liquidity-vs-solvency",
+  "thema": "Liquidity vs Solvency",
+  "begriffe": [
+    "Liquidity",
+    "Solvency"
+  ],
+  "ueberschrift": "Liquidity vs Solvency",
+  "titel": "Liquidity vs Solvency - What's the Difference?",
+  "beschreibung": "A company can be liquid and still be insolvent, or solvent and still run out of cash. This video explains the difference between liquidity and solvency using simple examples, without recommending any action.\n\n#shorts #liquidity #solvency #corporatefinance #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "liquidity",
+    "solvency",
+    "corporate finance",
+    "balance sheet",
+    "cash flow"
+  ],
+  "hashtags": [
+    "#liquidity",
+    "#solvency",
+    "#corporatefinance",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "cash vs net worth",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          200000,
+          300000
+        ],
+        "achse": [
+          "Assets",
+          "Liabilities"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "TIMING",
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
