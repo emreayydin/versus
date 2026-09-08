@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Roth IRA vs Traditional IRA",
     "Debt vs Equity",
     "Stock vs Share",
     "Hedge fund vs Mutual fund",
@@ -81,6 +80,7 @@
     "import-vs-export",
     "gdp-vs-gnp",
     "fixed-cost-vs-variable-cost",
-    "401k-vs-ira"
+    "401k-vs-ira",
+    "roth-ira-vs-traditional-ira"
   ]
 }

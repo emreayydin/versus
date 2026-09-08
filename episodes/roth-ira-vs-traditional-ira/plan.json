@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "slug": "roth-ira-vs-traditional-ira",
+  "thema": "Roth IRA vs Traditional IRA",
+  "begriffe": [
+    "Roth IRA",
+    "Traditional IRA"
+  ],
+  "ueberschrift": "Roth IRA vs Traditional IRA",
+  "titel": "Roth IRA vs Traditional IRA - What's the Difference?",
+  "beschreibung": "A simple breakdown of how Roth and Traditional IRAs handle taxes differently, so you understand the mechanics before you ever open one.\n\n#shorts #rothira #traditionalira #retirement #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Roth IRA",
+    "Traditional IRA",
+    "retirement accounts",
+    "tax deferred",
+    "tax free growth",
+    "personal finance basics"
+  ],
+  "hashtags": [
+    "#rothira",
+    "#traditionalira",
+    "#retirement",
+    "#personalfinance",
+    "#taxes"
+  ],
+  "thumbnail": {
+    "zeile": "tax now or later",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "DEDUCT",
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "TAXED",
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "TAXFREE",
+      "stimmung": 0.4,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.5,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}
