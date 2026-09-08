@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Fixed cost vs Variable cost",
     "401k vs IRA",
     "Roth IRA vs Traditional IRA",
     "Debt vs Equity",
@@ -81,6 +80,7 @@
     "micro-vs-macro-economics",
     "tariff-vs-quota",
     "import-vs-export",
-    "gdp-vs-gnp"
+    "gdp-vs-gnp",
+    "fixed-cost-vs-variable-cost"
   ]
 }

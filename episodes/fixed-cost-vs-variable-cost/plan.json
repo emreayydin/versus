@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "fixed-cost-vs-variable-cost",
+  "thema": "Fixed cost vs Variable cost",
+  "begriffe": [
+    "Fixed cost",
+    "Variable cost"
+  ],
+  "ueberschrift": "Fixed Cost vs Variable Cost",
+  "titel": "Fixed Cost vs Variable Cost - What's the Difference?",
+  "beschreibung": "Every business pays two kinds of costs, and they behave in opposite ways. This video breaks down the difference between fixed and variable costs, why it matters for how a business survives slow periods, and where the real risk sits.\n\n#shorts #fixedcost #variablecost #businessfinance #accounting\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "fixed cost",
+    "variable cost",
+    "business finance",
+    "accounting basics",
+    "cost structure"
+  ],
+  "hashtags": [
+    "#fixedcost",
+    "#variablecost",
+    "#businessfinance",
+    "#accounting"
+  ],
+  "thumbnail": {
+    "zeile": "who bears the risk",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "FIXED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "VARIABLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}
