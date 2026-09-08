@@ -1,0 +1,9 @@
+One makes foreign goods cost more. The other simply says how many are allowed.
+Both are meant to slow down imports, but they do it in opposite ways.
+A tariff is a tax on imported goods, paid at the border.
+It raises the price of foreign goods, so buyers often switch to local ones.
+A quota sets a hard limit on how many units of a good can enter the country.
+Once that number is reached, no more come in, no matter what price people offer.
+The difference is that a tariff changes the price, a quota changes the quantity.
+This matters when demand jumps, a tariff still lets more in at a higher price.
+Same goal, protecting local industry, reached through price or through quantity.
