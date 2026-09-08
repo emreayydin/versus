@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "gdp-vs-gnp",
+  "thema": "GDP vs GNP",
+  "begriffe": [
+    "GDP",
+    "GNP"
+  ],
+  "ueberschrift": "GDP vs GNP",
+  "titel": "GDP vs GNP - What's the Difference?",
+  "beschreibung": "Two numbers both claim to measure a country's economy, but they draw the line in different places. This video breaks down what GDP and GNP actually count, why a factory owned by foreigners changes one but not the other, and where the gap between them really shows up.\n\n#shorts #gdp #gnp #economics #macroeconomics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "GDP",
+    "GNP",
+    "economics",
+    "macroeconomics",
+    "national income"
+  ],
+  "hashtags": [
+    "#gdp",
+    "#gnp",
+    "#economics",
+    "#macroeconomics"
+  ],
+  "thumbnail": {
+    "zeile": "borders or people",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "BORDERS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "PEOPLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": "ABROAD",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Two numbers claim to measure a country's wealth, but they don't count the same thing.
+One draws a line around a country's borders, the other follows its own people.
+GDP counts every car, coffee, and haircut made inside a country's borders.
+A foreign company's factory inside that country still counts toward its GDP.
+GNP instead follows a country's own citizens and companies, wherever they work.
+Profits a national company earns abroad count toward GNP, not GDP.
+The difference is location versus nationality: GDP measures place, GNP measures people.
+This gap grows large for countries with many workers abroad or many foreign-owned factories.
+Both numbers describe the same economy, just seen from opposite angles.
