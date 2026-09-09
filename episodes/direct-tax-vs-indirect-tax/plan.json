@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "direct-tax-vs-indirect-tax",
+  "thema": "Direct tax vs Indirect tax",
+  "begriffe": [
+    "Direct tax",
+    "Indirect tax"
+  ],
+  "ueberschrift": "Direct Tax vs Indirect Tax",
+  "titel": "Direct Tax vs Indirect Tax - What's the Difference?",
+  "beschreibung": "Two taxes take your money in completely different ways. One knows your name, the other hides in the price you pay. This video breaks down how direct and indirect taxes actually work.\n\n#shorts #tax #directtax #indirecttax #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "direct tax",
+    "indirect tax",
+    "taxes explained",
+    "how taxes work",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#tax",
+    "#directtax",
+    "#indirecttax",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who pays first",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "NAME",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "PRICE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
