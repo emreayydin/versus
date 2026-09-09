@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "slug": "llc-vs-corporation",
+  "thema": "LLC vs Corporation",
+  "begriffe": [
+    "LLC",
+    "Corporation"
+  ],
+  "ueberschrift": "LLC vs Corporation",
+  "titel": "LLC vs Corporation - What's the Difference?",
+  "beschreibung": "A plain explanation of how an LLC and a corporation differ in ownership, taxation, and structure. No advice, just how each one actually works.\n\n#shorts #llc #corporation #smallbusiness #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "LLC",
+    "corporation",
+    "business structure",
+    "small business",
+    "taxes",
+    "company ownership"
+  ],
+  "hashtags": [
+    "#llc",
+    "#corporation",
+    "#smallbusiness",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "taxed once or twice",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "MEMBERS",
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": "BOARD",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "DOUBLE",
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}
