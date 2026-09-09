@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "slug": "fiscal-policy-vs-monetary-policy",
+  "thema": "Fiscal policy vs Monetary policy",
+  "begriffe": [
+    "Fiscal Policy",
+    "Monetary Policy"
+  ],
+  "ueberschrift": "Fiscal vs Monetary Policy",
+  "titel": "Fiscal Policy vs Monetary Policy - What's the Difference?",
+  "beschreibung": "Two tools try to steer the same economy, but very different hands pull them. This video breaks down how fiscal policy and monetary policy actually work, who controls each one, and why one moves in months while the other can move in minutes.\n\n#shorts #fiscalpolicy #monetarypolicy #economics #centralbank\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "fiscal policy explained",
+    "monetary policy explained",
+    "central bank vs government",
+    "interest rates vs taxes",
+    "economics basics",
+    "how government spending works"
+  ],
+  "hashtags": [
+    "#fiscalpolicy",
+    "#monetarypolicy",
+    "#economics",
+    "#centralbank"
+  ],
+  "thumbnail": {
+    "zeile": "who pulls the lever",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "TAXES",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "RATE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}
