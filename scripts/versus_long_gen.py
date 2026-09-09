@@ -390,6 +390,36 @@ Answer with JSON ONLY:
               "stimmung": 0}}]}}"""
 
 
+ABSCHNITTE = ["Opening"] + [n for n, _ in DIMENSIONEN] + ["The difference"]
+
+
+def _ordne_bauplan(roh):
+    """Den Bauplan auf die festen Ueberschriften zwingen.
+
+    Das Modell hat den Bauplan schon einmal mit voellig eigenen
+    Ueberschriften zurueckgegeben - alle acht galten damit als fehlend, und
+    der Lauf starb an einer harten Pruefung, obwohl die Gliederung
+    inhaltlich passte. Der Name ist unsere Sache, vom Modell brauchen wir
+    nur den "kern". Zuerst ueber den Namen zuordnen, sonst der Reihe nach.
+    """
+    rest = list(roh)
+    fertig = []
+    for i, name in enumerate(ABSCHNITTE):
+        treffer = None
+        for x in rest:
+            u = str(x.get("ueberschrift", "")).strip().lower()
+            if u.startswith(name.lower()) or name.lower().startswith(u[:12]):
+                treffer = x
+                break
+        if treffer is None and i < len(rest):
+            treffer = rest[i]
+        if treffer in rest:
+            rest.remove(treffer)
+        fertig.append({"ueberschrift": name,
+                       "kern": str((treffer or {}).get("kern", "")).strip()})
+    return fertig
+
+
 def erzeuge(thema, versuche=3):
     """
     Zweistufig, weil eine ganze Folge als ein JSON-Block das Ausgabelimit
@@ -401,7 +431,7 @@ def erzeuge(thema, versuche=3):
                          GERUEST_SYSTEM, 8000)
     begriffe = geruest.get("begriffe") or thema.replace(" vs ", "|").split("|")
     begriffe = [str(b).strip() for b in begriffe][:2]
-    absch_plan = geruest.get("abschnitte") or []
+    absch_plan = _ordne_bauplan(geruest.get("abschnitte") or [])
     print(f"  Bauplan: {len(absch_plan)} Abschnitte, Begriffe {begriffe}")
 
     # Wortbudget verteilen: Einstieg und Schluss kuerzer als die Dimensionen.
@@ -411,13 +441,7 @@ def erzeuge(thema, versuche=3):
 
     fertig = []
     for i, a in enumerate(absch_plan):
-        u = str(a.get("ueberschrift", "")).strip()
-        # Falls doch eine Erlaeuterung angehaengt wurde, auf den bekannten
-        # Namen zurueckschneiden statt die Folge zu verwerfen.
-        for name, _ in DIMENSIONEN:
-            if u.startswith(name):
-                u = name
-                break
+        u = a["ueberschrift"]
         worte = int(ziel * gewicht[i] / summe)
         sys_p = _abschnitt_system(begriffe, u, a.get("kern", ""), worte)
         for versuch in range(1, versuche + 1):
@@ -475,7 +499,7 @@ def erzeuge(thema, versuche=3):
     def _worte(a):
         return len(" ".join(s.get("text", "") for s in a["saetze"]).split())
 
-    for runde in range(2):
+    for runde in range(3):
         gesamt = sum(_worte(a) for a in folge["abschnitte"])
         if gesamt >= MIN_WOERTER:
             break
