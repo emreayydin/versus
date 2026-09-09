@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "monopoly-vs-oligopoly",
+  "thema": "Monopoly vs Oligopoly",
+  "begriffe": [
+    "Monopoly",
+    "Oligopoly"
+  ],
+  "ueberschrift": "Monopoly vs Oligopoly",
+  "titel": "Monopoly vs Oligopoly - What's the Difference?",
+  "beschreibung": "A monopoly means one company controls a market. An oligopoly means only a few do. This video explains how each one shapes the prices you pay, without telling you what to do about it.\n\n#shorts #monopoly #oligopoly #economics #competition\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "monopoly",
+    "oligopoly",
+    "market structure",
+    "competition",
+    "economics"
+  ],
+  "hashtags": [
+    "#monopoly",
+    "#oligopoly",
+    "#economics",
+    "#competition"
+  ],
+  "thumbnail": {
+    "zeile": "who sets the price",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "HIGHER",
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "WATCH",
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
