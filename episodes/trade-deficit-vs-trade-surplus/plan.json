@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "trade-deficit-vs-trade-surplus",
+  "thema": "Trade deficit vs Trade surplus",
+  "begriffe": [
+    "Trade Deficit",
+    "Trade Surplus"
+  ],
+  "ueberschrift": "Trade Deficit vs Trade Surplus",
+  "titel": "Trade Deficit vs Trade Surplus - What's the Difference?",
+  "beschreibung": "A trade deficit and a trade surplus sound like winning and losing, but the mechanics behind the numbers are more interesting than that. This video walks through what each one actually means, using the U.S. and Germany as examples, and shows the one sentence that separates the two.\n\n#shorts #tradedeficit #tradesurplus #economics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "trade deficit",
+    "trade surplus",
+    "economics",
+    "international trade",
+    "balance of payments"
+  ],
+  "hashtags": [
+    "#tradedeficit",
+    "#tradesurplus",
+    "#economics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who ends up owing",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "DEFICIT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          3000,
+          2000
+        ],
+        "achse": [
+          "Imports",
+          "Exports"
+        ],
+        "einheit": "$B"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "SURPLUS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

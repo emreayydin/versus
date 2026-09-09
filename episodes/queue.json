@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Trade deficit vs Trade surplus",
     "Progressive tax vs Regressive tax",
     "Direct tax vs Indirect tax",
     "Fiscal policy vs Monetary policy",
@@ -81,6 +80,7 @@
     "stock-vs-share",
     "hedge-fund-vs-mutual-fund",
     "public-company-vs-private-company",
-    "monopoly-vs-oligopoly"
+    "monopoly-vs-oligopoly",
+    "trade-deficit-vs-trade-surplus"
   ]
 }
