@@ -1,0 +1,117 @@
+{
+  "version": 2,
+  "slug": "wholesale-vs-retail",
+  "thema": "Wholesale vs Retail",
+  "begriffe": [
+    "Wholesale",
+    "Retail"
+  ],
+  "ueberschrift": "Wholesale vs Retail",
+  "titel": "Wholesale vs Retail - What's the Difference?",
+  "beschreibung": "The same product can carry two very different price tags depending on who buys it and how many at once. This video breaks down how wholesale and retail pricing actually work.\n\n#shorts #wholesale #retail #pricing #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "wholesale",
+    "retail",
+    "pricing",
+    "business basics",
+    "supply chain",
+    "economics explained"
+  ],
+  "hashtags": [
+    "#wholesale",
+    "#retail",
+    "#pricing",
+    "#economics",
+    "#business"
+  ],
+  "thumbnail": {
+    "zeile": "same shirt, two prices",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          8,
+          30
+        ],
+        "achse": [
+          "Wholesale",
+          "Retail"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "MARKUP",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}
