@@ -226,6 +226,12 @@ SEED = [
 
 # ------------------------------------------------------------------ Modell
 
+def anthropic_available():
+    """Anthropic wird nur explizit aktiviert und ist nicht erforderlich."""
+    enabled = os.environ.get("ANTHROPIC_ENABLED", "0").strip().lower()
+    return enabled in {"1", "true", "yes"} and bool(os.environ.get("ANTHROPIC_API_KEY"))
+
+
 def client():
     import anthropic
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -320,6 +326,18 @@ def pruefe(folge: dict) -> list[str]:
 
 def erzeuge(thema: str, versuche: int = 3) -> dict:
     """Schreiben lassen, pruefen, bei Maengeln mit der Mangelliste neu bitten."""
+    if not anthropic_available():
+        try:
+            from local_versus import generate_short
+        except ModuleNotFoundError:
+            from scripts.local_versus import generate_short
+        print("  Lokales Vergleichsskript aktiv - kein Anthropic-Schlüssel erforderlich.")
+        folge = generate_short(thema)
+        fehler = pruefe(folge)
+        if fehler:
+            raise SystemExit("Lokales Vergleichsskript unbrauchbar: " + "; ".join(fehler))
+        return folge
+
     letzte = []
     for versuch in range(1, versuche + 1):
         prompt = f'Write the episode for: "{thema}".'
@@ -364,6 +382,13 @@ def neue_themen(vorhanden: list[str], anzahl: int = 40) -> list[str]:
     Nachschub, bevor die Liste leer ist. Nachfuellen ist ein API-Aufruf,
     der scheitern kann - und dann steht die Produktion. Deshalb frueh.
     """
+    if not anthropic_available():
+        try:
+            from local_versus import new_topics
+        except ModuleNotFoundError:
+            from scripts.local_versus import new_topics
+        return new_topics(vorhanden, anzahl)
+
     schon = "\n".join(f"- {t}" for t in vorhanden[-120:])
     text = ask(
         f"Give me {anzahl} new comparison topics for an English channel about "

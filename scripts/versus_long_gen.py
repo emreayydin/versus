@@ -178,6 +178,12 @@ SEED = [
 ]
 
 
+def anthropic_available():
+    """Anthropic wird nur explizit aktiviert und ist nicht erforderlich."""
+    enabled = os.environ.get("ANTHROPIC_ENABLED", "0").strip().lower()
+    return enabled in {"1", "true", "yes"} and bool(os.environ.get("ANTHROPIC_API_KEY"))
+
+
 def client():
     import anthropic
     if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -427,6 +433,18 @@ def erzeuge(thema, versuche=3):
     Abschnitt einzeln - ein misslungener Abschnitt kostet so auch nur einen
     kleinen Aufruf statt der ganzen Folge.
     """
+    if not anthropic_available():
+        try:
+            from local_versus import generate_long
+        except ModuleNotFoundError:
+            from scripts.local_versus import generate_long
+        print("  Lokales Langformat aktiv - kein Anthropic-Schlüssel erforderlich.")
+        folge = generate_long(thema)
+        fehler = pruefe(folge)
+        if fehler:
+            raise SystemExit("Lokales Langformat unbrauchbar: " + "; ".join(fehler))
+        return folge
+
     geruest = frage_json(f'Plan the episode for: "{thema}".',
                          GERUEST_SYSTEM, 8000)
     begriffe = geruest.get("begriffe") or thema.replace(" vs ", "|").split("|")
@@ -605,7 +623,16 @@ def main():
     if a.next:
         offen = [t for t in q["offen"] if slugify(t) not in q["used"]]
         if not offen:
-            raise SystemExit("Themenvorrat leer.")
+            if not anthropic_available():
+                try:
+                    from local_versus import new_topics
+                except ModuleNotFoundError:
+                    from scripts.local_versus import new_topics
+                q["offen"].extend(new_topics(q["used"], 15))
+                schreibe_queue(q)
+                offen = [t for t in q["offen"] if slugify(t) not in q["used"]]
+            if not offen:
+                raise SystemExit("Themenvorrat leer.")
         thema = offen[0]
     elif a.thema:
         thema = a.thema

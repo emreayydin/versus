@@ -59,8 +59,8 @@ Jeder Punkt hier hat schon einmal einen Kanal gekostet.
    **Achtung beim Kanal-Wählen:** Der Zustimmungsbildschirm listet
    **Brand-Konto-Namen**, nicht Kanalnamen — und eine Kanalumbenennung
    benennt das Brand-Konto nicht mit um.
-4. **Anthropic-Guthaben im Auge behalten.** Ein leeres Konto killt alle
-   Bots gleichzeitig und lautlos (Fehler 400, „credit balance is too low").
+4. **Lokalen Generator verwenden.** Skripte und Themen kommen standardmäßig
+   aus einer lokalen Vergleichsbank; ein externer Textdienst ist nicht nötig.
 5. **Neuer Kanal, kein umgewidmeter.** Ein Kanal mit fremder Vorgeschichte
    trägt deren Signale weiter — siehe Lino → Strichrechnung.
 
@@ -68,7 +68,6 @@ Jeder Punkt hier hat schon einmal einen Kanal gekostet.
 
 | Secret | wofür |
 |---|---|
-| `ANTHROPIC_API_KEY` | Skripte schreiben |
 | `YOUTUBE_TOKEN_JSON` | Upload (`youtube.upload`) |
 | `YOUTUBE_ANALYTICS_TOKEN` | Zahlen lesen (`yt-analytics.readonly`) |
 

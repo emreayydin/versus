@@ -65,7 +65,7 @@ jobs:
           npm approve-scripts esbuild || true
           npm rebuild esbuild
           python -m venv venv
-          ./venv/bin/pip install --quiet edge-tts numpy anthropic \
+          ./venv/bin/pip install --quiet edge-tts numpy \
             google-api-python-client google-auth-oauthlib
 
       - name: Musikbett
@@ -73,10 +73,6 @@ jobs:
 
       - name: Langfassung bauen und veroeffentlichen
         env:
-          # Die Langfassung schreibt ihr Skript selbst - die alte
-          # Sammelfolge verkettete nur fertige Shorts und brauchte
-          # den Schluessel deshalb nie.
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           YOUTUBE_TOKEN_EN: ${{ secrets.YOUTUBE_TOKEN_EN }}
           KAPITEL: ${{ inputs.kapitel || '9' }}
           PRIVACY: ${{ inputs.privacy || 'public' }}
@@ -86,8 +82,8 @@ jobs:
             exit 0
           fi
           NAME="sammelfolge-$(date -u +%Y%m%d)"
-          # Kein Anthropic-Schluessel noetig: es werden nur vorhandene
-          # Kapitel verkettet, kein neues Skript geschrieben.
+          # Kein Anthropic-Schlüssel nötig: das neue Langformat wird lokal
+          # aus der kuratierten Vergleichsvorlage erzeugt.
           ./venv/bin/python scripts/versus_long_gen.py --next
           SLUG=$(./venv/bin/python -c "import json,pathlib; print(json.loads(pathlib.Path('episodes_lang/queue.json').read_text())['used'][-1])")
           ./venv/bin/python scripts/make_versus_long.py --episode "$SLUG"

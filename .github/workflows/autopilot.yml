@@ -77,7 +77,7 @@ jobs:
           npm approve-scripts esbuild || true
           npm rebuild esbuild
           python -m venv venv
-          ./venv/bin/pip install --quiet edge-tts numpy anthropic \
+          ./venv/bin/pip install --quiet edge-tts numpy \
             google-api-python-client google-auth-oauthlib
 
       - name: Musikbett erzeugen
@@ -85,7 +85,6 @@ jobs:
 
       - name: Folgen produzieren und veroeffentlichen
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           # publish.py sucht YOUTUBE_TOKEN_<LANG>. Der Kanal ist englisch,
           # also EN - nicht DE wie in der Vorlage aus doodle-finanz.
           YOUTUBE_TOKEN_EN: ${{ secrets.YOUTUBE_TOKEN_EN }}
@@ -120,8 +119,8 @@ jobs:
             GESCHAFFT=$((GESCHAFFT + 1))
           done
           # Nur abhaken, wenn wirklich etwas hochgeladen wurde. Am 09.09.
-          # fiel jedes Thema aus (Anthropic-Guthaben leer), der Lauf galt
-          # trotzdem als erledigt und sperrte den Rest des Tages aus.
+          # Früher fiel jedes Thema bei einem Textdienst-Fehler aus. Der
+          # lokale Generator hält den Lauf jetzt auch ohne API-Guthaben offen.
           if [ "$GESCHAFFT" -gt 0 ]; then
             ./venv/bin/python scripts/day_guard.py --mark
           else
