@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "angel-investor-vs-venture-capitalist",
+  "thema": "Angel investor vs Venture capitalist",
+  "begriffe": [
+    "Angel Investor",
+    "Venture Capitalist"
+  ],
+  "ueberschrift": "Angel vs Venture Capital",
+  "titel": "Angel Investor vs Venture Capitalist - What's the Difference?",
+  "beschreibung": "Two very different sources of startup money, explained side by side: who writes the check, how big it is, and who has to say yes before it moves.\n\n#shorts #angelinvestor #venturecapital #startupfunding #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "angel investor",
+    "venture capitalist",
+    "startup funding",
+    "seed funding",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#angelinvestor",
+    "#venturecapital",
+    "#startupfunding",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who risks what",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "OWN",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          50000,
+          5000000
+        ],
+        "achse": [
+          "Angel",
+          "VC"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}

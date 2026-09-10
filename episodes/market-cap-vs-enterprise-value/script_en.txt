@@ -1,0 +1,9 @@
+One price tag ignores debt. The other counts every cent of it.
+Both claim to show what a company is worth, but they measure different things.
+Market cap is the share price times the number of shares outstanding.
+A stock at fifty dollars with twenty million shares gives a market cap of one billion.
+Enterprise value starts from market cap, then adds debt and subtracts cash.
+With that debt and cash, enterprise value rises to one billion, one hundred fifty million.
+The difference is market cap prices the shares, enterprise value prices the whole business.
+This matters most when comparing companies that carry very different amounts of debt.
+Same company, two numbers, two different questions about what owning it really costs.

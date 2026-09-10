@@ -1,0 +1,10 @@
+A company can be worth two totally different numbers at the same time.
+One is written down. The other is decided by buyers and sellers.
+Book value adds up everything a company owns, then subtracts what it owes.
+It comes straight from the balance sheet, calculated once a quarter.
+Market value is what buyers actually pay for the whole company, right now.
+Multiply the share price by the number of shares, and that is market value.
+A company might show a book value of five hundred million and a market value of eight hundred million.
+The difference is that book value looks backward, while market value looks forward.
+When the two diverge sharply, investors start asking what the market sees that the books don't.
+One records the past cost, the other reflects today's judgment.

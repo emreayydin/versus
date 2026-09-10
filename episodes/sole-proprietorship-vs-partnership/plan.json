@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "slug": "sole-proprietorship-vs-partnership",
+  "thema": "Sole proprietorship vs Partnership",
+  "begriffe": [
+    "Sole proprietorship",
+    "Partnership"
+  ],
+  "ueberschrift": "Sole Proprietorship vs Partnership",
+  "titel": "Sole Proprietorship vs Partnership - What's the Difference?",
+  "beschreibung": "A calm explainer on how a sole proprietorship and a partnership actually differ in ownership, control, and who is on the hook for debts. No advice, just how the two structures work.\n\n#shorts #soleproprietorship #partnership #smallbusiness #entrepreneurship\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "sole proprietorship",
+    "partnership",
+    "business structures",
+    "small business basics",
+    "liability",
+    "starting a business"
+  ],
+  "hashtags": [
+    "#soleproprietorship",
+    "#partnership",
+    "#smallbusiness",
+    "#entrepreneurship",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who owns the risk",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "SOLO",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "PARTNERS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

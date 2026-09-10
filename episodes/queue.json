@@ -1,10 +1,5 @@
 {
   "offen": [
-    "Sole proprietorship vs Partnership",
-    "Angel investor vs Venture capitalist",
-    "IPO vs Direct listing",
-    "Market cap vs Enterprise value",
-    "Book value vs Market value",
     "APR vs Interest rate",
     "Secured loan vs Unsecured loan",
     "Credit union vs Bank",
@@ -81,6 +76,11 @@
     "fiscal-policy-vs-monetary-policy",
     "wholesale-vs-retail",
     "franchise-vs-startup",
-    "llc-vs-corporation"
+    "llc-vs-corporation",
+    "sole-proprietorship-vs-partnership",
+    "angel-investor-vs-venture-capitalist",
+    "ipo-vs-direct-listing",
+    "market-cap-vs-enterprise-value",
+    "book-value-vs-market-value"
   ]
 }

@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "slug": "book-value-vs-market-value",
+  "thema": "Book value vs Market value",
+  "begriffe": [
+    "Book value",
+    "Market value"
+  ],
+  "ueberschrift": "Book Value vs Market Value",
+  "titel": "Book Value vs Market Value - What's the Difference?",
+  "beschreibung": "A company can carry two very different price tags at once. This video explains what book value and market value actually measure, how each is calculated, and why they can drift apart.\n\n#shorts #bookvalue #marketvalue #investing #finance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "book value",
+    "market value",
+    "stock valuation",
+    "company valuation",
+    "investing basics"
+  ],
+  "hashtags": [
+    "#bookvalue",
+    "#marketvalue",
+    "#investing",
+    "#finance",
+    "#stocks"
+  ],
+  "thumbnail": {
+    "zeile": "two prices, one company",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "BOOK",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "MARKET",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          500,
+          800
+        ],
+        "achse": [
+          "Book value",
+          "Market value"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

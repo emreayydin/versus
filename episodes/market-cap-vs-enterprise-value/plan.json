@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "slug": "market-cap-vs-enterprise-value",
+  "thema": "Market cap vs Enterprise value",
+  "begriffe": [
+    "Market Cap",
+    "Enterprise Value"
+  ],
+  "ueberschrift": "Market Cap vs Enterprise Value",
+  "titel": "Market Cap vs Enterprise Value - What's the Difference?",
+  "beschreibung": "Two numbers both claim to show what a company is worth. Market cap prices the shares. Enterprise value prices the whole business, debt and cash included. This video walks through both with a simple example so the difference actually clicks.\n\n#shorts #markets #valuation #investing #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "market cap",
+    "enterprise value",
+    "stock valuation",
+    "company worth",
+    "finance basics"
+  ],
+  "hashtags": [
+    "#markets",
+    "#valuation",
+    "#investing",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "which price is real",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          1000,
+          1150
+        ],
+        "achse": [
+          "Market cap",
+          "Enterprise value"
+        ],
+        "einheit": "$m"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "WHOLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
