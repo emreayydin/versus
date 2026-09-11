@@ -1,8 +1,5 @@
 {
   "offen": [
-    "APR vs Interest rate",
-    "Secured loan vs Unsecured loan",
-    "Credit union vs Bank",
     "Debit vs Credit",
     "Overdraft vs Loan",
     "Currency vs Cryptocurrency",
@@ -81,6 +78,9 @@
     "angel-investor-vs-venture-capitalist",
     "ipo-vs-direct-listing",
     "market-cap-vs-enterprise-value",
-    "book-value-vs-market-value"
+    "book-value-vs-market-value",
+    "apr-vs-interest-rate",
+    "secured-loan-vs-unsecured-loan",
+    "credit-union-vs-bank"
   ]
 }
