@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "index-fund-vs-actively-managed-fund",
+  "thema": "Index fund vs Actively managed fund",
+  "begriffe": [
+    "Index fund",
+    "Actively managed fund"
+  ],
+  "ueberschrift": "Index fund vs Actively managed fund",
+  "titel": "Index fund vs Actively managed fund - What's the Difference?",
+  "beschreibung": "A calm comparison of Index fund and Actively managed fund. The episode explains the mechanism, the timing, and the main distinction. It is educational content, not financial advice.\n\n#shorts #indexfund #activelymanagedfund #personalfinance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Index fund",
+    "Actively managed fund",
+    "Personal finance",
+    "Economics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#indexfund",
+    "#activelymanagedfund",
+    "#personalfinance",
+    "#economics",
+    "#comparison"
+  ],
+  "thumbnail": {
+    "zeile": "same label?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    }
+  ]
+}

@@ -1,10 +1,5 @@
 {
   "offen": [
-    "Recession vs Correction",
-    "Bear trap vs Bull trap",
-    "Day trading vs Swing trading",
-    "Active investing vs Passive investing",
-    "Index fund vs Actively managed fund",
     "Capital gains tax vs Income tax",
     "Withholding tax vs Estimated tax",
     "Trust vs Will",
@@ -121,6 +116,11 @@
     "overdraft-vs-loan",
     "currency-vs-cryptocurrency",
     "stablecoin-vs-fiat-currency",
-    "inflation-vs-stagflation"
+    "inflation-vs-stagflation",
+    "recession-vs-correction",
+    "bear-trap-vs-bull-trap",
+    "day-trading-vs-swing-trading",
+    "active-investing-vs-passive-investing",
+    "index-fund-vs-actively-managed-fund"
   ]
 }

@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "day-trading-vs-swing-trading",
+  "thema": "Day trading vs Swing trading",
+  "begriffe": [
+    "Day trading",
+    "Swing trading"
+  ],
+  "ueberschrift": "Day trading vs Swing trading",
+  "titel": "Day trading vs Swing trading - What's the Difference?",
+  "beschreibung": "A calm comparison of Day trading and Swing trading. The episode explains the mechanism, the timing, and the main distinction. It is educational content, not financial advice.\n\n#shorts #daytrading #swingtrading #personalfinance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Day trading",
+    "Swing trading",
+    "Personal finance",
+    "Economics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#daytrading",
+    "#swingtrading",
+    "#personalfinance",
+    "#economics",
+    "#comparison"
+  ],
+  "thumbnail": {
+    "zeile": "same label?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    }
+  ]
+}
