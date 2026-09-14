@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Capital gains tax vs Income tax",
-    "Withholding tax vs Estimated tax",
-    "Trust vs Will",
     "401k loan vs 401k withdrawal",
     "Balance sheet vs Income statement",
     "Profit margin vs Markup",
@@ -121,6 +118,9 @@
     "bear-trap-vs-bull-trap",
     "day-trading-vs-swing-trading",
     "active-investing-vs-passive-investing",
-    "index-fund-vs-actively-managed-fund"
+    "index-fund-vs-actively-managed-fund",
+    "capital-gains-tax-vs-income-tax",
+    "withholding-tax-vs-estimated-tax",
+    "trust-vs-will"
   ]
 }

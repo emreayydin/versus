@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "withholding-tax-vs-estimated-tax",
+  "thema": "Withholding tax vs Estimated tax",
+  "begriffe": [
+    "Withholding tax",
+    "Estimated tax"
+  ],
+  "ueberschrift": "Withholding tax vs Estimated tax",
+  "titel": "Withholding tax vs Estimated tax - What's the Difference?",
+  "beschreibung": "A calm comparison of Withholding tax and Estimated tax. The episode explains the mechanism, the timing, and the main distinction. It is educational content, not financial advice.\n\n#shorts #withholdingtax #estimatedtax #personalfinance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Withholding tax",
+    "Estimated tax",
+    "Personal finance",
+    "Economics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#withholdingtax",
+    "#estimatedtax",
+    "#personalfinance",
+    "#economics",
+    "#comparison"
+  ],
+  "thumbnail": {
+    "zeile": "same label?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    }
+  ]
+}
