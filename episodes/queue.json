@@ -1,10 +1,5 @@
 {
   "offen": [
-    "401k loan vs 401k withdrawal",
-    "Balance sheet vs Income statement",
-    "Profit margin vs Markup",
-    "Working capital vs Net worth",
-    "Opportunity cost vs Sunk cost",
     "Stocks vs Bonds",
     "Saving vs Investing",
     "Debit card vs Credit card",
@@ -121,6 +116,11 @@
     "index-fund-vs-actively-managed-fund",
     "capital-gains-tax-vs-income-tax",
     "withholding-tax-vs-estimated-tax",
-    "trust-vs-will"
+    "trust-vs-will",
+    "401k-loan-vs-401k-withdrawal",
+    "balance-sheet-vs-income-statement",
+    "profit-margin-vs-markup",
+    "working-capital-vs-net-worth",
+    "opportunity-cost-vs-sunk-cost"
   ]
 }
