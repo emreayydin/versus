@@ -91,6 +91,26 @@ jobs:
             --publish --privacy "$PRIVACY"
           ./venv/bin/python scripts/day_guard.py --mark --name sammelfolge
 
+      # Ohne diesen Schritt ging beides verloren, was der Lauf sich merkt:
+      # das naechste Thema (episodes_lang/queue.json) und die Tagessperre
+      # (episodes/state.json). Folge: jeder Lauf nahm wieder "Saving vs
+      # Investing", und der Nachholversuch um 20 Uhr lud es am selben Tag ein
+      # zweites Mal hoch. Gleiches Muster wie in autopilot.yml.
+      - name: Stand zurueckschreiben
+        if: always()
+        run: |
+          git config user.name  "doodle-autopilot"
+          git config user.email "actions@github.com"
+          git add episodes/ episodes_lang/
+          git commit -m "Sammelfolge ${{ github.run_number }}" || echo "nichts zu committen"
+          for versuch in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && exit 0
+            echo "Push-Versuch $versuch abgewiesen, neuer Anlauf"
+            sleep $((versuch * 5))
+          done
+          echo "Stand liess sich nicht zurueckschreiben." >&2
+          exit 1
+
       - name: Kopie ablegen
         if: always()
         uses: actions/upload-artifact@v4
