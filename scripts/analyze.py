@@ -65,7 +65,11 @@ def credentials():
     from google.auth.transport.requests import Request
 
     roh = os.environ.get("YOUTUBE_ANALYTICS_TOKEN")
-    datei = TOKEN_DIR / "analytics_de.json"
+    # Der Kanal ist englisch; analytics_de.json stammt aus der doodle-finanz-
+    # Vorlage. Am 16.09. geprueft: analytics_en.json liefert die Video-IDs
+    # von The Difference Money.
+    datei = next((TOKEN_DIR / n for n in ("analytics_en.json", "analytics_de.json")
+                  if (TOKEN_DIR / n).exists()), TOKEN_DIR / "analytics_en.json")
 
     if roh:
         d = json.loads(roh)
