@@ -77,7 +77,7 @@ jobs:
           npm approve-scripts esbuild || true
           npm rebuild esbuild
           python -m venv venv
-          ./venv/bin/pip install --quiet edge-tts numpy \
+          ./venv/bin/pip install --quiet edge-tts numpy anthropic \
             google-api-python-client google-auth-oauthlib
 
       - name: Musikbett erzeugen
@@ -88,6 +88,11 @@ jobs:
           # publish.py sucht YOUTUBE_TOKEN_<LANG>. Der Kanal ist englisch,
           # also EN - nicht DE wie in der Vorlage aus doodle-finanz.
           YOUTUBE_TOKEN_EN: ${{ secrets.YOUTUBE_TOKEN_EN }}
+          # Die lokale Themenbank hat 46 Eintraege und war am 16.09. fast
+          # aufgebraucht. Mit KI kommen neue Themen und bessere Skripte; bei
+          # leerem Guthaben greift weiterhin die lokale Fassung.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_ENABLED: "1"
           ANZAHL: ${{ inputs.anzahl || '5' }}
           PRIVACY: ${{ inputs.privacy || 'public' }}
         run: |

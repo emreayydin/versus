@@ -199,21 +199,25 @@ def generate_long(topic: str) -> dict:
     }
 
 
+def _slug(text: str) -> str:
+    return re.sub(r"[^a-z0-9]+", "-", str(text).lower()).strip("-")[:48]
+
+
 def new_topics(vorhanden: list[str], count: int = 40) -> list[str]:
-    known = {str(item).strip().lower() for item in vorhanden}
+    """Nur echte, noch nicht benutzte Themen.
+
+    `vorhanden` mischt Titel ("Saving vs Investing") und Slugs
+    ("saving-vs-investing"). Frueher wurde nur klein geschrieben verglichen,
+    dadurch kamen benutzte Themen zurueck in die Liste - am 16.09. wurde so
+    eine Folge dreimal zusaetzlich hochgeladen. Ausserdem gab es Platzhalter
+    wie "Concept 1 vs Context 1"; lieber ein leerer Vorrat als so ein Video.
+    """
+    known = {_slug(item) for item in vorhanden}
     result = []
     for topic in LOCAL_TOPICS:
         if len(result) >= count:
             break
-        if topic.lower() not in known:
+        if _slug(topic) not in known:
             result.append(topic)
-            known.add(topic.lower())
-    index = 1
-    while len(result) < count:
-        topic = f"Concept {index} vs Context {index}"
-        index += 1
-        if topic.lower() in known:
-            continue
-        result.append(topic)
-        known.add(topic.lower())
+            known.add(_slug(topic))
     return result

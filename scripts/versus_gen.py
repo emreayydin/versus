@@ -326,18 +326,26 @@ def pruefe(folge: dict) -> list[str]:
 
 def erzeuge(thema: str, versuche: int = 3) -> dict:
     """Schreiben lassen, pruefen, bei Maengeln mit der Mangelliste neu bitten."""
-    if not anthropic_available():
+    if anthropic_available():
         try:
-            from local_versus import generate_short
-        except ModuleNotFoundError:
-            from scripts.local_versus import generate_short
-        print("  Lokales Vergleichsskript aktiv - kein Anthropic-Schlüssel erforderlich.")
-        folge = generate_short(thema)
-        fehler = pruefe(folge)
-        if fehler:
-            raise SystemExit("Lokales Vergleichsskript unbrauchbar: " + "; ".join(fehler))
-        return folge
+            return _erzeuge_ki(thema, versuche)
+        except Exception as fehler:  # noqa: BLE001 - Guthaben/Netz: lokal weiter
+            if isinstance(fehler, SystemExit):
+                raise
+            print(f"  KI nicht nutzbar ({type(fehler).__name__}: {fehler}) - lokale Fassung")
+    try:
+        from local_versus import generate_short
+    except ModuleNotFoundError:
+        from scripts.local_versus import generate_short
+    print("  Lokales Vergleichsskript aktiv.")
+    folge = generate_short(thema)
+    fehler = pruefe(folge)
+    if fehler:
+        raise SystemExit("Lokales Vergleichsskript unbrauchbar: " + "; ".join(fehler))
+    return folge
 
+
+def _erzeuge_ki(thema: str, versuche: int) -> dict:
     letzte = []
     for versuch in range(1, versuche + 1):
         prompt = f'Write the episode for: "{thema}".'
@@ -469,10 +477,18 @@ def main():
 
     q = lade_queue()
     if args.next:
+        # Offene Themen, deren Folge es schon gibt, fliegen raus. Sonst wird
+        # die Folge neu geschrieben, ihr Slug nicht erneut angehaengt, und
+        # used[-1] zeigt im Workflow auf die VORIGE Folge - die dann noch
+        # einmal hochgeladen wird (16.09.: dreimal "Opportunity cost").
+        benutzt = set(q["used"])
+        q["offen"] = [t for t in dict.fromkeys(q["offen"]) if slugify(t) not in benutzt]
         if len(q["offen"]) < 15:
             print("Themenliste wird nachgefuellt ...")
             try:
                 nachschub = neue_themen(q["offen"] + q["used"])
+                bekannt = benutzt | {slugify(t) for t in q["offen"]}
+                nachschub = [t for t in nachschub if slugify(t) not in bekannt]
                 q["offen"].extend(nachschub)
                 print(f"  {len(nachschub)} neue Themen")
             except Exception as fehler:
@@ -494,6 +510,11 @@ def main():
         print(json.dumps(folge, ensure_ascii=False, indent=2))
         return
 
+    if args.next and slugify(thema) in q["used"]:
+        # Letzte Sicherung - darf nach dem Filter oben nie greifen.
+        q["offen"] = [t for t in q["offen"] if slugify(t) != slugify(thema)]
+        schreibe_queue(q)
+        raise SystemExit(f"Folge {slugify(thema)} gibt es schon - nicht noch einmal")
     slug = schreibe(folge, thema)
 
     # Kein blindes append: Wird ein Thema neu erzeugt, stuende der Slug
