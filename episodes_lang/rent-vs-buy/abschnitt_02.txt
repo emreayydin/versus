@@ -1,0 +1,20 @@
+Under who pays whom, Rent and Buy answer different questions.
+Rent starts with one set of rules, while Buy starts with another.
+The who pays whom question looks at the payer and recipient for Rent.
+For Buy, the same question looks at a different money flow.
+That distinction matters because familiar labels can hide the mechanism.
+An example makes the relationship easier to follow.
+With Rent, the first side of the comparison sets the starting point.
+With Buy, the second side sets a different starting point.
+Neither label becomes more useful merely because it sounds familiar.
+The words Rent and Buy describe different positions in the same map.
+A clear map separates the terms before it compares their effects.
+If the question changes, Rent and Buy can lead to different answers.
+That is why a single number cannot tell the whole story.
+The first term, Rent, needs its own explanation.
+The second term, Buy, needs its own explanation too.
+Keeping both explanations visible prevents a false shortcut.
+In practice, Rent may appear beside Buy without being the same thing.
+The comparison works best when the wording stays precise.
+A viewer can then see where Rent ends and Buy begins.
+The next section can build on that boundary without changing it.

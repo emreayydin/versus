@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Rent vs Buy",
     "Debit card vs Credit card",
     "Assets vs Liabilities",
     "Inflation vs Deflation",
@@ -16,6 +15,7 @@
   ],
   "used": [
     "stocks-vs-bonds",
-    "saving-vs-investing"
+    "saving-vs-investing",
+    "rent-vs-buy"
   ]
 }
