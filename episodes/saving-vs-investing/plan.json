@@ -8,33 +8,33 @@
   ],
   "ueberschrift": "Saving vs Investing",
   "titel": "Saving vs Investing - What's the Difference?",
-  "beschreibung": "Saving and investing both start with the same money, but they follow very different paths. This video breaks down what actually separates keeping money safe from putting it to work, using simple examples and no jargon.\n\n#shorts #saving #investing #personalfinance #money\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "beschreibung": "A calm comparison of Saving and Investing. The episode explains the mechanism, the timing, and the main distinction. It is educational content, not financial advice.\n\n#shorts #saving #investing #personalfinance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
   "tags": [
-    "saving",
-    "investing",
-    "personal finance",
-    "money basics",
-    "interest rate",
-    "savings account"
+    "Saving",
+    "Investing",
+    "Personal finance",
+    "Economics",
+    "Comparison"
   ],
   "hashtags": [
     "#saving",
     "#investing",
     "#personalfinance",
-    "#money"
+    "#economics",
+    "#comparison"
   ],
   "thumbnail": {
-    "zeile": "safety or growth",
+    "zeile": "same label?",
     "zahl": null,
     "icon": "waage"
   },
   "bilder": [
     {
       "pose": "stehen",
-      "icon": null,
+      "icon": "waage",
       "diagramm": null,
       "wort": null,
-      "stimmung": 0.0,
+      "stimmung": -0.1,
       "haare": false
     },
     {
@@ -42,39 +42,7 @@
       "icon": null,
       "diagramm": null,
       "wort": null,
-      "stimmung": 0.0,
-      "haare": false
-    },
-    {
-      "pose": "sitzen",
-      "icon": "stapel",
-      "diagramm": null,
-      "wort": null,
-      "stimmung": 0.0,
-      "haare": false
-    },
-    {
-      "pose": "zeigen",
-      "icon": "prozent",
-      "diagramm": null,
-      "wort": null,
-      "stimmung": 0.0,
-      "haare": false
-    },
-    {
-      "pose": "achselzucken",
-      "icon": "runter",
-      "diagramm": null,
-      "wort": null,
-      "stimmung": -0.3,
-      "haare": false
-    },
-    {
-      "pose": "stehen",
-      "icon": "muenze",
-      "diagramm": null,
-      "wort": null,
-      "stimmung": 0.0,
+      "stimmung": -0.05,
       "haare": false
     },
     {
@@ -87,34 +55,50 @@
     },
     {
       "pose": "jubeln",
-      "icon": "kurve",
+      "icon": "balken",
       "diagramm": null,
       "wort": null,
-      "stimmung": 0.4,
-      "haare": false
-    },
-    {
-      "pose": "denken",
-      "icon": "waage",
-      "diagramm": null,
-      "wort": "TRADEOFF",
-      "stimmung": 0.0,
+      "stimmung": 0.05,
       "haare": false
     },
     {
       "pose": "sitzen",
-      "icon": "uhr",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
       "diagramm": null,
       "wort": null,
       "stimmung": 0.0,
       "haare": false
     },
     {
-      "pose": "stehen",
+      "pose": "zeigen",
       "icon": null,
       "diagramm": null,
       "wort": null,
-      "stimmung": 0.2,
+      "stimmung": 0.05,
       "haare": false
     }
   ]

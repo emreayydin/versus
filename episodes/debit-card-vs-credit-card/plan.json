@@ -3,37 +3,38 @@
   "slug": "debit-card-vs-credit-card",
   "thema": "Debit card vs Credit card",
   "begriffe": [
-    "Debit Card",
-    "Credit Card"
+    "Debit card",
+    "Credit card"
   ],
-  "ueberschrift": "Debit vs Credit Card",
-  "titel": "Debit Card vs Credit Card - What's the Difference?",
-  "beschreibung": "Two cards that look almost the same but move your money in completely different directions. This video breaks down what actually happens when you swipe a debit card versus a credit card, where the money comes from, and why one of them can affect your credit history and the other usually doesn't.\n\n#shorts #debitcard #creditcard #personalfinance #banking\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "ueberschrift": "Debit card vs Credit card",
+  "titel": "Debit card vs Credit card - What's the Difference?",
+  "beschreibung": "A calm comparison of Debit card and Credit card. The episode explains the mechanism, the timing, and the main distinction. It is educational content, not financial advice.\n\n#shorts #debitcard #creditcard #personalfinance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
   "tags": [
-    "debit card",
-    "credit card",
-    "personal finance",
-    "banking basics",
-    "credit history"
+    "Debit card",
+    "Credit card",
+    "Personal finance",
+    "Economics",
+    "Comparison"
   ],
   "hashtags": [
     "#debitcard",
     "#creditcard",
     "#personalfinance",
-    "#banking"
+    "#economics",
+    "#comparison"
   ],
   "thumbnail": {
-    "zeile": "who spends first",
+    "zeile": "same label?",
     "zahl": null,
     "icon": "waage"
   },
   "bilder": [
     {
       "pose": "stehen",
-      "icon": null,
+      "icon": "waage",
       "diagramm": null,
       "wort": null,
-      "stimmung": 0.0,
+      "stimmung": -0.1,
       "haare": false
     },
     {
@@ -41,27 +42,11 @@
       "icon": null,
       "diagramm": null,
       "wort": null,
-      "stimmung": 0.0,
-      "haare": false
-    },
-    {
-      "pose": "stehen",
-      "icon": "bank",
-      "diagramm": null,
-      "wort": null,
-      "stimmung": 0.0,
+      "stimmung": -0.05,
       "haare": false
     },
     {
       "pose": "zeigen",
-      "icon": "muenze",
-      "diagramm": null,
-      "wort": null,
-      "stimmung": 0.0,
-      "haare": false
-    },
-    {
-      "pose": "achselzucken",
       "icon": null,
       "diagramm": null,
       "wort": null,
@@ -69,23 +54,15 @@
       "haare": false
     },
     {
-      "pose": "stehen",
-      "icon": "bank",
+      "pose": "jubeln",
+      "icon": "balken",
       "diagramm": null,
       "wort": null,
-      "stimmung": 0.0,
+      "stimmung": 0.05,
       "haare": false
     },
     {
-      "pose": "zeigen",
-      "icon": "prozent",
-      "diagramm": null,
-      "wort": "INTEREST",
-      "stimmung": -0.2,
-      "haare": false
-    },
-    {
-      "pose": "denken",
+      "pose": "sitzen",
       "icon": "kurve",
       "diagramm": null,
       "wort": null,
@@ -93,27 +70,35 @@
       "haare": false
     },
     {
-      "pose": "stehen",
-      "icon": "waage",
-      "diagramm": null,
-      "wort": "TIMING",
-      "stimmung": 0.0,
-      "haare": false
-    },
-    {
-      "pose": "denken",
-      "icon": "uhr",
+      "pose": "achselzucken",
+      "icon": "stapel",
       "diagramm": null,
       "wort": null,
       "stimmung": -0.1,
       "haare": false
     },
     {
-      "pose": "sitzen",
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "denken",
       "icon": null,
       "diagramm": null,
       "wort": null,
-      "stimmung": 0.1,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
       "haare": false
     }
   ]
