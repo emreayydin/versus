@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "wants-vs-needs",
+  "thema": "wants-vs-needs",
+  "begriffe": [
+    "Needs",
+    "Wants"
+  ],
+  "ueberschrift": "Needs vs Wants",
+  "titel": "Needs vs Wants - What's the Difference?",
+  "beschreibung": "Every budget has these two categories, but most people mix them up. This video draws the line between what keeps you going and what makes life nicer, with no advice, just the mechanism behind the words.\n\n#shorts #needsvswants #budgeting #personalfinance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "needs vs wants",
+    "budgeting basics",
+    "personal finance",
+    "spending habits",
+    "money management"
+  ],
+  "hashtags": [
+    "#needsvswants",
+    "#budgeting",
+    "#personalfinance",
+    "#economics"
+  ],
+  "thumbnail": {
+    "zeile": "what you can't skip",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "NOW",
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "GONE",
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.5,
+      "haare": false
+    }
+  ]
+}

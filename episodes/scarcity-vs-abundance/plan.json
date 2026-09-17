@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "scarcity-vs-abundance",
+  "thema": "scarcity-vs-abundance",
+  "begriffe": [
+    "Scarcity",
+    "Abundance"
+  ],
+  "ueberschrift": "Scarcity vs Abundance",
+  "titel": "Scarcity vs Abundance - What's the Difference?",
+  "beschreibung": "Why does something useless cost a fortune while something you need to survive costs almost nothing? This episode breaks down the diamond-water paradox and shows how scarcity and abundance quietly set every price around you, from diamonds to money itself.\n\n#shorts #scarcity #abundance #economics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "scarcity",
+    "abundance",
+    "economics explained",
+    "diamond water paradox",
+    "value of money",
+    "supply and demand"
+  ],
+  "hashtags": [
+    "#scarcity",
+    "#abundance",
+    "#economics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who sets the price",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "RARE",
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "GOLD",
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}
