@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "hyperinflation-vs-inflation",
+  "thema": "hyperinflation-vs-inflation",
+  "begriffe": [
+    "Hyperinflation",
+    "Inflation"
+  ],
+  "ueberschrift": "Hyperinflation vs Inflation",
+  "titel": "Hyperinflation vs Inflation - What's the Difference?",
+  "beschreibung": "Both mean prices are rising, but the speed changes everything. This video breaks down what actually separates ordinary inflation from hyperinflation, with simple examples of how each one plays out.\n\n#shorts #inflation #hyperinflation #economics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "inflation",
+    "hyperinflation",
+    "economics",
+    "personalfinance",
+    "moneybasics"
+  ],
+  "hashtags": [
+    "#inflation",
+    "#hyperinflation",
+    "#economics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "one word two speeds",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "DAYS",
+      "stimmung": -0.4,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "SPEED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

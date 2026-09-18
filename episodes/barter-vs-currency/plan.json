@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "barter-vs-currency",
+  "thema": "barter-vs-currency",
+  "begriffe": [
+    "Barter",
+    "Currency"
+  ],
+  "ueberschrift": "Barter vs Currency",
+  "titel": "Barter vs Currency - What's the Difference?",
+  "beschreibung": "Before money, trade needed two people who wanted the exact same thing at the exact same time. This video walks through why barter is slow, how currency solves that problem, and where the real difference between the two sits.\n\n#shorts #barter #currency #money #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "barter",
+    "currency",
+    "money",
+    "economics",
+    "history of money"
+  ],
+  "hashtags": [
+    "#barter",
+    "#currency",
+    "#money",
+    "#economics"
+  ],
+  "thumbnail": {
+    "zeile": "when money enters",
+    "zahl": null,
+    "icon": "muenze"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "TRUST",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "MOVE",
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}

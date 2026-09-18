@@ -1,8 +1,5 @@
 {
   "offen": [
-    "barter-vs-currency",
-    "hyperinflation-vs-inflation",
-    "real-estate-vs-stocks",
     "crowdfunding-vs-venture-capital",
     "bootstrapping-vs-funding",
     "gross-margin-vs-net-margin",
@@ -121,6 +118,9 @@
     "working-capital-vs-net-worth",
     "opportunity-cost-vs-sunk-cost",
     "wants-vs-needs",
-    "scarcity-vs-abundance"
+    "scarcity-vs-abundance",
+    "barter-vs-currency",
+    "hyperinflation-vs-inflation",
+    "real-estate-vs-stocks"
   ]
 }
