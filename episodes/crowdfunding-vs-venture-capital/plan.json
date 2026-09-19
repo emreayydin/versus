@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "slug": "crowdfunding-vs-venture-capital",
+  "thema": "crowdfunding-vs-venture-capital",
+  "begriffe": [
+    "Crowdfunding",
+    "Venture Capital"
+  ],
+  "ueberschrift": "Crowdfunding vs Venture Capital",
+  "titel": "Crowdfunding vs Venture Capital - What's the Difference?",
+  "beschreibung": "Both can fund a startup before it earns a cent, but the people behind the money want very different things back. This video breaks down how crowdfunding and venture capital actually work, who gives the money, and what founders give up in return.\n\n#shorts #crowdfunding #venturecapital #startups #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "crowdfunding",
+    "venture capital",
+    "startup funding",
+    "equity",
+    "investing basics",
+    "how startups raise money"
+  ],
+  "hashtags": [
+    "#crowdfunding",
+    "#venturecapital",
+    "#startups",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who really owns it",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "EQUITY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "CONTROL",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

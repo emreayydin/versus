@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "bootstrapping-vs-funding",
+  "thema": "bootstrapping-vs-funding",
+  "begriffe": [
+    "Bootstrapping",
+    "Funding"
+  ],
+  "ueberschrift": "Bootstrapping vs Funding",
+  "titel": "Bootstrapping vs Funding - What's the Difference?",
+  "beschreibung": "Two ways to grow a company, one from its own cash, one from someone else's. This video explains how bootstrapping and funding actually work, without telling you which one to choose.\n\n#shorts #bootstrapping #funding #startups #entrepreneurship\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "bootstrapping",
+    "funding",
+    "startups",
+    "venture capital",
+    "entrepreneurship"
+  ],
+  "hashtags": [
+    "#bootstrapping",
+    "#funding",
+    "#startups",
+    "#entrepreneurship"
+  ],
+  "thumbnail": {
+    "zeile": "who owns what",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "SAVINGS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "INVESTORS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "RISK",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.4,
+      "haare": false
+    }
+  ]
+}

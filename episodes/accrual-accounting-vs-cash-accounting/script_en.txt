@@ -1,0 +1,11 @@
+How can a company report a profit while its bank account sits at zero?
+The answer lies in when money gets counted, not when it moves.
+Cash accounting counts money only when it actually lands in the account.
+Sell something today, get paid in sixty days, and it only counts in two months.
+That makes cash accounting simple, but slow to show what's really happening.
+Accrual accounting counts money the moment a deal is made, not when it's paid.
+Sell today, get paid in sixty days, and the sale still counts today.
+That gives a fuller picture, but it can hide when the cash is actually short.
+The difference is timing: cash counts money when it moves, accrual counts it when it's earned.
+Investors read accrual profit, but check cash flow to see if the cash is really there.
+Both describe the same business, just from two different clocks.

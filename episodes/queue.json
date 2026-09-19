@@ -1,10 +1,5 @@
 {
   "offen": [
-    "crowdfunding-vs-venture-capital",
-    "bootstrapping-vs-funding",
-    "gross-margin-vs-net-margin",
-    "accrual-accounting-vs-cash-accounting",
-    "fixed-income-vs-equity-income",
     "mortgage-vs-rent",
     "credit-limit-vs-credit-line",
     "secured-credit-card-vs-unsecured-credit-card",
@@ -121,6 +116,11 @@
     "scarcity-vs-abundance",
     "barter-vs-currency",
     "hyperinflation-vs-inflation",
-    "real-estate-vs-stocks"
+    "real-estate-vs-stocks",
+    "crowdfunding-vs-venture-capital",
+    "bootstrapping-vs-funding",
+    "gross-margin-vs-net-margin",
+    "accrual-accounting-vs-cash-accounting",
+    "fixed-income-vs-equity-income"
   ]
 }

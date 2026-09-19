@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "slug": "gross-margin-vs-net-margin",
+  "thema": "gross-margin-vs-net-margin",
+  "begriffe": [
+    "Gross Margin",
+    "Net Margin"
+  ],
+  "ueberschrift": "Gross Margin vs Net Margin",
+  "titel": "Gross Margin vs Net Margin - What's the Difference?",
+  "beschreibung": "Both are called profit margin, but they stop counting at very different points. This short explains what each one includes, what it leaves out, and why a company can look healthy on one and thin on the other.\n\n#shorts #grossmargin #netmargin #business #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "gross margin",
+    "net margin",
+    "profit margin",
+    "business finance",
+    "financial statements",
+    "how companies make money"
+  ],
+  "hashtags": [
+    "#grossmargin",
+    "#netmargin",
+    "#business",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "what survives?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          60,
+          10
+        ],
+        "achse": [
+          "Gross",
+          "Net"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.4,
+      "haare": false
+    }
+  ]
+}
