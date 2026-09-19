@@ -143,8 +143,20 @@ def generate_long(topic: str) -> dict:
     a, b = terms(topic)
     tags, hashtags = _tags(a, b)
     sections = []
-    opening = [
+    # Der erste Satz ist der Einstieg und darf hoechstens 110 Zeichen haben
+    # (MAX_HOOK in versus_long_gen). Bei langen Begriffen wie "Debit card vs
+    # Credit card" wurden es 111 - jede Sammelfolge scheiterte daran, weil das
+    # Thema vorne in der Warteschlange stand. Darum die laengste Fassung
+    # nehmen, die passt.
+    einstiege = [
         f"People often treat {a} and {b} as interchangeable. That shortcut hides the important difference.",
+        f"People often treat {a} and {b} as interchangeable. That hides the real difference.",
+        f"{a} and {b} are not interchangeable. Here is the difference.",
+        f"{a} vs {b}: the difference that matters.",
+    ]
+    einstieg = next((e for e in einstiege if len(e) <= 110), einstiege[-1][:110])
+    opening = [
+        einstieg,
         "They can appear together, but their roles are not identical.",
         "The first task is to name both terms clearly.",
         "A comparison becomes useful when the same question reaches two answers.",
