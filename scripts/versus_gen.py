@@ -401,7 +401,17 @@ def neue_themen(vorhanden: list[str], anzahl: int = 40) -> list[str]:
     text = ask(
         f"Give me {anzahl} new comparison topics for an English channel about "
         f"money and economics. Format strictly \"A vs B\", two things people "
-        f"genuinely confuse. No duplicates of these:\n{schon}\n\n"
+        f"genuinely confuse.\n"
+        f"Measured on this channel (20.09.2026): everyday money topics reach a "
+        f"median of 58 views, corporate accounting terms only 42. The best "
+        f"videos are Supply vs Demand (1,100), Income vs Wealth (1,000), "
+        f"Bear trap vs Bull trap (968), Debit vs Credit (481); the weakest are "
+        f"Working capital vs Net worth (1), Opportunity cost vs Sunk cost (4), "
+        f"Cash flow vs Profit (5).\n"
+        f"So pick pairs an ordinary person meets with their own money - pay, "
+        f"rent, cards, loans, taxes, insurance, saving, prices - or a market "
+        f"term they hear in the news. Avoid pure bookkeeping vocabulary.\n"
+        f"No duplicates of these:\n{schon}\n\n"
         f"Answer with a JSON array of strings, nothing else.",
         "You return only valid JSON. No prose.", max_tokens=2000)
     t = text.strip()

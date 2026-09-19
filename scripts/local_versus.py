@@ -19,30 +19,52 @@ DIMENSIONS = [
     "Taxes and costs", "Who each one suits",
 ]
 
+# Reihenfolge nach gemessener Leistung (20.09.2026): Themen aus dem Alltag
+# ("Salary vs Hourly wage", "Rent vs Buy") erreichen im Median 58 Aufrufe,
+# Buchhaltungsbegriffe ("Working capital vs Net worth") nur 42. Die besten
+# Videos des Kanals sind Supply vs Demand (1.100), Income vs Wealth (1.000),
+# Bear trap vs Bull trap (968), Debit vs Credit (481).
 LOCAL_TOPICS = [
-    "Stocks vs Bonds", "Saving vs Investing", "Debit card vs Credit card",
-    "Gross vs Net", "Interest vs Compound interest", "Inflation vs Deflation",
-    "ETF vs Mutual fund", "Rent vs Buy", "Fixed rate vs Variable rate",
-    "Income vs Wealth", "Assets vs Liabilities", "Bull market vs Bear market",
-    "Central bank vs Commercial bank", "Recession vs Depression",
-    "Nominal vs Real return", "Tax deduction vs Tax credit",
-    "Insurance vs Warranty", "Loan vs Lease", "Salary vs Hourly wage",
-    "Budget vs Forecast", "Cash flow vs Profit", "Revenue vs Profit",
-    "Value stock vs Growth stock", "Dividend vs Capital gain",
-    "Credit score vs Credit report", "Emergency fund vs Investment",
-    "Pension vs Annuity", "Term vs Whole life insurance",
-    "Checking account vs Savings account", "Gold vs Cash",
-    "Supply vs Demand", "Price vs Value", "Cost vs Expense",
-    "Bond yield vs Bond price", "Liquidity vs Solvency",
-    "Micro vs Macro economics", "Tariff vs Quota", "Import vs Export",
-    "GDP vs GNP", "Fixed cost vs Variable cost",
-    "Price vs Cost", "Salary vs Wage", "Revenue vs Cash flow",
-    "Risk vs Uncertainty", "Saving vs Spending", "Need vs Want",
+    # Alltag: Gehalt, Miete, Karte, Sparen, Steuern, Versicherung
+    "Salary vs Hourly wage", "Rent vs Buy", "Debit card vs Credit card",
+    "Gross vs Net", "Saving vs Investing", "Need vs Want",
+    "Saving vs Spending", "Tax deduction vs Tax credit",
+    "Checking account vs Savings account", "Insurance vs Warranty",
+    "Loan vs Lease", "Emergency fund vs Investment", "Credit score vs Credit report",
+    "Interest vs Compound interest", "Income vs Wealth", "Price vs Value",
+    "Term vs Whole life insurance", "Pension vs Annuity", "Gold vs Cash",
+    "Fixed rate vs Variable rate", "Inflation vs Deflation",
+    # Maerkte und Wirtschaft: immer noch anschaulich
+    "Supply vs Demand", "Bull market vs Bear market", "Stocks vs Bonds",
+    "ETF vs Mutual fund", "Recession vs Depression", "Value stock vs Growth stock",
+    "Dividend vs Capital gain", "Nominal vs Real return", "Import vs Export",
+    "Central bank vs Commercial bank", "Tariff vs Quota",
+    # Fachbegriffe: laufen messbar schlechter, bleiben als Reserve hinten
+    "Assets vs Liabilities", "Revenue vs Profit", "Cash flow vs Profit",
+    "Budget vs Forecast", "Fixed cost vs Variable cost", "Cost vs Expense",
+    "Liquidity vs Solvency", "Bond yield vs Bond price", "Revenue vs Cash flow",
+    "Micro vs Macro economics", "GDP vs GNP", "Risk vs Uncertainty",
+    "Price vs Cost", "Salary vs Wage",
 ]
 
 
 def terms(topic: str) -> tuple[str, str]:
-    parts = re.split(r"\s+vs\.?\s+", topic.strip(), maxsplit=1, flags=re.IGNORECASE)
+    """Beide Begriffe eines Themas, auch aus einer Slug-Schreibweise.
+
+    In episodes/queue.json stehen Themen teils als "mortgage-vs-rent". Ohne
+    Leerzeichen griff die Trennung nicht, und die lokale Fassung machte daraus
+    den Titel "The first term vs The second term". Aufgefallen am 20.09.2026.
+    """
+    text = topic.strip()
+    if not re.search(r"\s+vs\.?\s+", text, re.IGNORECASE) and re.search(r"-vs-", text, re.IGNORECASE):
+        text = re.sub(r"-vs-", " vs ", text, flags=re.IGNORECASE).replace("-", " ")
+        abkuerzungen = {"etf", "gdp", "gnp", "ira", "apr", "roi", "apy", "cd",
+                        "hsa", "llc", "ipo", "reit", "etn", "pe", "npv", "irr"}
+        text = " ".join(w.upper() if w.lower() in abkuerzungen
+                        else (w if w.isupper() else w.capitalize())
+                        for w in text.split())
+        text = re.sub(r"\bVs\b", "vs", text)
+    parts = re.split(r"\s+vs\.?\s+", text, maxsplit=1, flags=re.IGNORECASE)
     if len(parts) == 2 and all(part.strip() for part in parts):
         return parts[0].strip(), parts[1].strip()
     return "The first term", "The second term"
