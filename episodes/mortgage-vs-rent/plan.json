@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "slug": "mortgage-vs-rent",
+  "thema": "mortgage-vs-rent",
+  "begriffe": [
+    "Mortgage",
+    "Rent"
+  ],
+  "ueberschrift": "Mortgage vs Rent",
+  "titel": "Mortgage vs Rent - What's the Difference?",
+  "beschreibung": "A quick explainer on how renting and a mortgage differ in where your money actually goes, and why that difference matters most when you plan to stay somewhere for years.\n\n#shorts #mortgage #rent #realestate #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "mortgage",
+    "rent",
+    "housing",
+    "real estate",
+    "personal finance",
+    "home ownership"
+  ],
+  "hashtags": [
+    "#mortgage",
+    "#rent",
+    "#realestate",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who builds equity",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "RENT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "LOAN",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "EQUITY",
+      "stimmung": 0.4,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "secured-credit-card-vs-unsecured-credit-card",
+  "thema": "secured-credit-card-vs-unsecured-credit-card",
+  "begriffe": [
+    "Secured Credit Card",
+    "Unsecured Credit Card"
+  ],
+  "ueberschrift": "Secured vs Unsecured Credit Cards",
+  "titel": "Secured Credit Card vs Unsecured Credit Card - What's the Difference?",
+  "beschreibung": "Both cards look the same in your wallet, but one of them needs your money first. This video breaks down how secured and unsecured credit cards actually work, who carries the risk, and why that difference matters most when you're starting to build credit.\n\n#shorts #creditcards #personalfinance #creditscore #banking\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "secured credit card",
+    "unsecured credit card",
+    "credit score",
+    "personal finance",
+    "credit building"
+  ],
+  "hashtags": [
+    "#creditcards",
+    "#personalfinance",
+    "#creditscore",
+    "#banking"
+  ],
+  "thumbnail": {
+    "zeile": "who takes the risk",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "RISK",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

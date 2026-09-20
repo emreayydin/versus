@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "student-loan-vs-personal-loan",
+  "thema": "student-loan-vs-personal-loan",
+  "begriffe": [
+    "Student Loan",
+    "Personal Loan"
+  ],
+  "ueberschrift": "Student Loan vs Personal Loan",
+  "titel": "Student Loan vs Personal Loan - What's the Difference?",
+  "beschreibung": "A calm walkthrough of how student loans and personal loans differ in purpose, flexibility, and what happens when repayment gets hard. No advice, just how each one works.\n\n#shorts #studentloans #personalloans #debt #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "student loans",
+    "personal loans",
+    "borrowing money",
+    "interest rates",
+    "debt basics"
+  ],
+  "hashtags": [
+    "#studentloans",
+    "#personalloans",
+    "#debt",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who bends for you",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "FLEXIBILITY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

@@ -1,10 +1,5 @@
 {
   "offen": [
-    "mortgage-vs-rent",
-    "credit-limit-vs-credit-line",
-    "secured-credit-card-vs-unsecured-credit-card",
-    "payday-loan-vs-personal-loan",
-    "student-loan-vs-personal-loan",
     "debt-consolidation-vs-debt-settlement",
     "bankruptcy-vs-insolvency",
     "audit-vs-review",
@@ -121,6 +116,11 @@
     "bootstrapping-vs-funding",
     "gross-margin-vs-net-margin",
     "accrual-accounting-vs-cash-accounting",
-    "fixed-income-vs-equity-income"
+    "fixed-income-vs-equity-income",
+    "mortgage-vs-rent",
+    "credit-limit-vs-credit-line",
+    "secured-credit-card-vs-unsecured-credit-card",
+    "payday-loan-vs-personal-loan",
+    "student-loan-vs-personal-loan"
   ]
 }

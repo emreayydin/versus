@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "slug": "payday-loan-vs-personal-loan",
+  "thema": "payday-loan-vs-personal-loan",
+  "begriffe": [
+    "Payday Loan",
+    "Personal Loan"
+  ],
+  "ueberschrift": "Payday Loan vs Personal Loan",
+  "titel": "Payday Loan vs Personal Loan - What's the Difference?",
+  "beschreibung": "Two loans that both promise fast cash, but the cost and repayment time work completely differently. This video breaks down what a payday loan actually charges compared to a personal loan, and why the gap matters.\n\n#shorts #paydayloans #personalloans #debt #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "payday loan",
+    "personal loan",
+    "interest rates",
+    "debt",
+    "borrowing money",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#paydayloans",
+    "#personalloans",
+    "#debt",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "the cost of fast cash",
+    "zahl": "400",
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "400%",
+      "stimmung": -0.5,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.5,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
