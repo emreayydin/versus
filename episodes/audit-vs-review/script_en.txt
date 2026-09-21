@@ -1,0 +1,11 @@
+One accountant checks everything. The other mostly just asks questions.
+Both end with a report, but what stands behind it is very different.
+An audit is the deepest look at a company's financial statements.
+The accountant tests real transactions and confirms bank balances directly.
+It ends with a formal opinion on whether the numbers are fairly stated.
+A review is lighter and faster than an audit.
+The accountant reads the numbers and asks management about anything unusual.
+It compares figures to expectations, but never verifies the evidence itself.
+The difference is the level of assurance: an audit verifies, a review only asks.
+Banks and investors often require a full audit before approving large loans.
+Same financial statements, but one certifies them, the other just glances them over.

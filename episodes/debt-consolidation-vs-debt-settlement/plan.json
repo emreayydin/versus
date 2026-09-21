@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "debt-consolidation-vs-debt-settlement",
+  "thema": "debt-consolidation-vs-debt-settlement",
+  "begriffe": [
+    "Debt Consolidation",
+    "Debt Settlement"
+  ],
+  "ueberschrift": "Debt Consolidation vs Settlement",
+  "titel": "Debt Consolidation vs Debt Settlement - What's the Difference?",
+  "beschreibung": "A plain explanation of how debt consolidation and debt settlement actually work, what changes for the amount you owe, and why the two paths affect your credit differently.\n\n#shorts #debt #creditscore #personalfinance #debtsettlement\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "debt consolidation",
+    "debt settlement",
+    "personal finance",
+    "credit score",
+    "loans"
+  ],
+  "hashtags": [
+    "#debt",
+    "#creditscore",
+    "#personalfinance",
+    "#debtsettlement"
+  ],
+  "thumbnail": {
+    "zeile": "who repays what",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "COMBINE",
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "LESS OWED",
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.4,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

@@ -1,8 +1,5 @@
 {
   "offen": [
-    "debt-consolidation-vs-debt-settlement",
-    "bankruptcy-vs-insolvency",
-    "audit-vs-review",
     "shareholder-vs-stakeholder",
     "common-stock-vs-preferred-stock",
     "short-selling-vs-long-investing",
@@ -121,6 +118,9 @@
     "credit-limit-vs-credit-line",
     "secured-credit-card-vs-unsecured-credit-card",
     "payday-loan-vs-personal-loan",
-    "student-loan-vs-personal-loan"
+    "student-loan-vs-personal-loan",
+    "debt-consolidation-vs-debt-settlement",
+    "bankruptcy-vs-insolvency",
+    "audit-vs-review"
   ]
 }

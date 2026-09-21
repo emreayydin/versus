@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "bankruptcy-vs-insolvency",
+  "thema": "bankruptcy-vs-insolvency",
+  "begriffe": [
+    "Bankruptcy",
+    "Insolvency"
+  ],
+  "ueberschrift": "Bankruptcy vs Insolvency",
+  "titel": "Bankruptcy vs Insolvency - What's the Difference?",
+  "beschreibung": "People often use these two words as if they mean the same thing, but they don't. This video explains the line between insolvency, a financial condition, and bankruptcy, the legal process built to deal with it.\n\n#shorts #bankruptcy #insolvency #personalfinance #business\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "bankruptcy",
+    "insolvency",
+    "personal finance",
+    "business law",
+    "debt",
+    "financial literacy"
+  ],
+  "hashtags": [
+    "#bankruptcy",
+    "#insolvency",
+    "#personalfinance",
+    "#business"
+  ],
+  "thumbnail": {
+    "zeile": "which comes first",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "PROCESS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": "TEMPORARY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "COURT",
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}
