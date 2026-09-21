@@ -1,0 +1,20 @@
+Under risk, Debit card and Credit card answer different questions.
+Debit card starts with one set of rules, while Credit card starts with another.
+The risk question looks at uncertainty around the first term for Debit card.
+For Credit card, the same question looks at uncertainty around the second term.
+That distinction matters because familiar labels can hide the mechanism.
+An example makes the relationship easier to follow.
+With Debit card, the first side of the comparison sets the starting point.
+With Credit card, the second side sets a different starting point.
+Neither label becomes more useful merely because it sounds familiar.
+The words Debit card and Credit card describe different positions in the same map.
+A clear map separates the terms before it compares their effects.
+If the question changes, Debit card and Credit card can lead to different answers.
+That is why a single number cannot tell the whole story.
+The first term, Debit card, needs its own explanation.
+The second term, Credit card, needs its own explanation too.
+Keeping both explanations visible prevents a false shortcut.
+In practice, Debit card may appear beside Credit card without being the same thing.
+The comparison works best when the wording stays precise.
+A viewer can then see where Debit card ends and Credit card begins.
+The next section can build on that boundary without changing it.
