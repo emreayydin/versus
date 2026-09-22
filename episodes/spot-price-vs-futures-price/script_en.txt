@@ -1,0 +1,9 @@
+Why do two prices exist for the exact same barrel of oil?
+One is set right now. The other is a promise about a future date.
+The spot price is what someone pays to buy something today, right now.
+You hand over money, you get the goods, and the deal is done.
+The futures price is agreed today, for delivery weeks or months ahead.
+Both sides lock in that number now, even though nothing changes hands yet.
+The difference is timing: spot is a price for now, futures is a price for later.
+Farmers, airlines and traders use futures to know their costs before harvest or flight.
+Same product, two prices - one for today, one for a promise about tomorrow.

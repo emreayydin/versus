@@ -1,0 +1,11 @@
+One side lets you walk away. The other side means you have to follow through.
+Both let two people agree today on a price for tomorrow, but the deal itself works differently.
+An option gives the buyer the right, but not the obligation, to buy or sell later.
+If the price moves against them, they can simply let the option expire and lose only the fee they paid.
+That fee is called the premium, and it's the most someone can lose.
+A future is a binding contract, both sides commit to trading at a set price on a set date.
+If the price moves against you, you still have to buy or sell as agreed.
+There is no walking away, and the losses can be far larger than any fee.
+The difference is options buy you a choice, futures lock you into a commitment.
+This matters most when markets move fast, since one side's loss is capped and the other's isn't.
+Both let you agree on tomorrow's price today, but only one asks you to see it through.

@@ -1,10 +1,5 @@
 {
   "offen": [
-    "shareholder-vs-stakeholder",
-    "common-stock-vs-preferred-stock",
-    "short-selling-vs-long-investing",
-    "options-vs-futures",
-    "spot-price-vs-futures-price",
     "commodity-vs-currency",
     "exchange-rate-vs-interest-rate",
     "quantitative-easing-vs-quantitative-tightening",
@@ -121,6 +116,11 @@
     "student-loan-vs-personal-loan",
     "debt-consolidation-vs-debt-settlement",
     "bankruptcy-vs-insolvency",
-    "audit-vs-review"
+    "audit-vs-review",
+    "shareholder-vs-stakeholder",
+    "common-stock-vs-preferred-stock",
+    "short-selling-vs-long-investing",
+    "options-vs-futures",
+    "spot-price-vs-futures-price"
   ]
 }

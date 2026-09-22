@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "short-selling-vs-long-investing",
+  "thema": "short-selling-vs-long-investing",
+  "begriffe": [
+    "Short Selling",
+    "Long Investing"
+  ],
+  "ueberschrift": "Short Selling vs Long Investing",
+  "titel": "Short Selling vs Long Investing - What's the Difference?",
+  "beschreibung": "A simple explanation of how short selling and long investing work, and what separates betting on a rise from betting on a fall.\n\n#shorts #shortselling #investing #stockmarket #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "short selling",
+    "long investing",
+    "stock market",
+    "investing basics",
+    "risk"
+  ],
+  "hashtags": [
+    "#shortselling",
+    "#investing",
+    "#stockmarket",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "bet on the fall",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "UP",
+      "stimmung": 0.6,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "BORROW",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "PROFIT",
+      "stimmung": 0.5,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "UNLIMITED",
+      "stimmung": -0.5,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

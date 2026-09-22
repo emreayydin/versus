@@ -1,0 +1,11 @@
+One kind of stock gets paid first. The other gets paid more, if things go well.
+Both are called stock, but they play by different rules.
+Common stock gives you a piece of the company and a vote at shareholder meetings.
+Its dividend isn't fixed, it can grow, shrink, or vanish depending on profits.
+If the company does well, common stock usually captures most of that growth.
+Preferred stock pays a fixed dividend, agreed on in advance.
+That dividend gets paid before common shareholders see any money.
+In exchange, preferred shares usually come without a vote and with limited upside.
+The difference is what you trade: preferred swaps upside for a fixed, earlier payment.
+In a bad year, preferred holders can still get paid while common holders may get nothing.
+Same word, stock, but two different promises about who gets paid, and when.

@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "slug": "shareholder-vs-stakeholder",
+  "thema": "shareholder-vs-stakeholder",
+  "begriffe": [
+    "Shareholder",
+    "Stakeholder"
+  ],
+  "ueberschrift": "Shareholder vs Stakeholder",
+  "titel": "Shareholder vs Stakeholder - What's the Difference?",
+  "beschreibung": "Every company talks about both, but only one of them owns a piece of it. This video breaks down what actually separates a shareholder from a stakeholder, using simple examples instead of jargon.\n\n#shorts #shareholder #stakeholder #corporatefinance #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "shareholder",
+    "stakeholder",
+    "corporate finance",
+    "business basics",
+    "investing terms",
+    "company ownership"
+  ],
+  "hashtags": [
+    "#shareholder",
+    "#stakeholder",
+    "#corporatefinance",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "owner or affected?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "OWNS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "OWNERSHIP",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

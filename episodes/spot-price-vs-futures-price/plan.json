@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "spot-price-vs-futures-price",
+  "thema": "spot-price-vs-futures-price",
+  "begriffe": [
+    "Spot Price",
+    "Futures Price"
+  ],
+  "ueberschrift": "Spot Price vs Futures Price",
+  "titel": "Spot Price vs Futures Price - What's the Difference?",
+  "beschreibung": "Why does the same barrel of oil have two different prices? This video breaks down the difference between the spot price you pay today and the futures price agreed for later, with a simple explanation of who uses each and why.\n\n#shorts #spotprice #futures #commodities #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "spot price",
+    "futures price",
+    "commodities trading",
+    "finance basics",
+    "how futures work"
+  ],
+  "hashtags": [
+    "#spotprice",
+    "#futures",
+    "#commodities",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "price now vs later",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "NOW",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "TIMING",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}
