@@ -1,0 +1,20 @@
+Under taxes and costs, Assets and Liabilities answer different questions.
+Assets starts with one set of rules, while Liabilities starts with another.
+The taxes and costs question looks at the first cost structure for Assets.
+For Liabilities, the same question looks at a different cost structure.
+That distinction matters because familiar labels can hide the mechanism.
+An example makes the relationship easier to follow.
+With Assets, the first side of the comparison sets the starting point.
+With Liabilities, the second side sets a different starting point.
+Neither label becomes more useful merely because it sounds familiar.
+The words Assets and Liabilities describe different positions in the same map.
+A clear map separates the terms before it compares their effects.
+If the question changes, Assets and Liabilities can lead to different answers.
+That is why a single number cannot tell the whole story.
+The first term, Assets, needs its own explanation.
+The second term, Liabilities, needs its own explanation too.
+Keeping both explanations visible prevents a false shortcut.
+In practice, Assets may appear beside Liabilities without being the same thing.
+The comparison works best when the wording stays precise.
+A viewer can then see where Assets ends and Liabilities begins.
+The next section can build on that boundary without changing it.
