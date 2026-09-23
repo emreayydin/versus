@@ -1,8 +1,5 @@
 {
   "offen": [
-    "commodity-vs-currency",
-    "exchange-rate-vs-interest-rate",
-    "quantitative-easing-vs-quantitative-tightening",
     "deficit-spending-vs-balanced-budget",
     "national-debt-vs-budget-deficit",
     "subsidy-vs-tax-break",
@@ -121,6 +118,9 @@
     "common-stock-vs-preferred-stock",
     "short-selling-vs-long-investing",
     "options-vs-futures",
-    "spot-price-vs-futures-price"
+    "spot-price-vs-futures-price",
+    "commodity-vs-currency",
+    "exchange-rate-vs-interest-rate",
+    "quantitative-easing-vs-quantitative-tightening"
   ]
 }

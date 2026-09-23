@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "quantitative-easing-vs-quantitative-tightening",
+  "thema": "quantitative-easing-vs-quantitative-tightening",
+  "begriffe": [
+    "Quantitative Easing",
+    "Quantitative Tightening"
+  ],
+  "ueberschrift": "Quantitative Easing vs Tightening",
+  "titel": "Quantitative Easing vs Quantitative Tightening - What's the Difference?",
+  "beschreibung": "A simple explanation of quantitative easing and quantitative tightening, the two tools central banks use to add or remove money from the economy, and how each one changes interest rates and asset prices.\n\n#shorts #quantitativeeasing #quantitativetightening #centralbanks #monetarypolicy\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "quantitative easing",
+    "quantitative tightening",
+    "central banks",
+    "monetary policy",
+    "interest rates"
+  ],
+  "hashtags": [
+    "#quantitativeeasing",
+    "#quantitativetightening",
+    "#centralbanks",
+    "#monetarypolicy"
+  ],
+  "thumbnail": {
+    "zeile": "money in, money out",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "QE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "QT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "DIRECTION",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

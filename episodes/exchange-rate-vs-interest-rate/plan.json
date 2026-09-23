@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "exchange-rate-vs-interest-rate",
+  "thema": "exchange-rate-vs-interest-rate",
+  "begriffe": [
+    "Exchange Rate",
+    "Interest Rate"
+  ],
+  "ueberschrift": "Exchange Rate vs Interest Rate",
+  "titel": "Exchange Rate vs Interest Rate - What's the Difference?",
+  "beschreibung": "One number tells you what your money is worth in another currency. The other tells you what it earns at home. This video breaks down the line between the exchange rate and the interest rate, and how central banks use one to move the other.\n\n#shorts #exchangerate #interestrate #currency #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "exchange rate",
+    "interest rate",
+    "currency",
+    "economics",
+    "finance",
+    "central bank"
+  ],
+  "hashtags": [
+    "#exchangerate",
+    "#interestrate",
+    "#currency",
+    "#economics"
+  ],
+  "thumbnail": {
+    "zeile": "worth vs earnings",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "PRICIER",
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "REWARD",
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "TIME",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

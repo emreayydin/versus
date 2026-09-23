@@ -1,0 +1,11 @@
+One of them you can eat, burn, or build with. The other only buys things.
+The difference explains why one can run out, and the other can be printed.
+A commodity is a raw physical good, like wheat, oil, or copper.
+Its value comes from what people can actually do with it.
+There is only so much of it, and producing more takes time and real cost.
+A currency is a token that people agree to accept in trade, like the dollar.
+It has no use on its own, you can't eat it or build with it.
+Its value depends on trust in the issuer, and how much of it exists.
+The difference is that a commodity's value comes from use, a currency's value comes from trust.
+This distinction matters most when trust in a currency weakens and prices shift.
+One is mined or grown, the other is issued and managed.
