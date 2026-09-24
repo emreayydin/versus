@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "slug": "deficit-spending-vs-balanced-budget",
+  "thema": "deficit-spending-vs-balanced-budget",
+  "begriffe": [
+    "Deficit Spending",
+    "Balanced Budget"
+  ],
+  "ueberschrift": "Deficit Spending vs Balanced Budget",
+  "titel": "Deficit Spending vs Balanced Budget - What's the Difference?",
+  "beschreibung": "Two ways governments handle money: one borrows to cover the gap, the other spends only what it collects. This video explains what deficit spending and a balanced budget actually mean, how each affects national debt, and where the real difference lies. No advice, just the mechanics.\n\n#shorts #deficitspending #balancedbudget #economics #nationaldebt\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "deficit spending",
+    "balanced budget",
+    "government debt",
+    "fiscal policy",
+    "national debt",
+    "economics explained"
+  ],
+  "hashtags": [
+    "#deficitspending",
+    "#balancedbudget",
+    "#economics",
+    "#nationaldebt",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who borrows tomorrow",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "DEBT",
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

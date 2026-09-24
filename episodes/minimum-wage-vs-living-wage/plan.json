@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "minimum-wage-vs-living-wage",
+  "thema": "minimum-wage-vs-living-wage",
+  "begriffe": [
+    "Minimum wage",
+    "Living wage"
+  ],
+  "ueberschrift": "Minimum Wage vs Living Wage",
+  "titel": "Minimum Wage vs Living Wage - What's the Difference?",
+  "beschreibung": "Two numbers claim to answer what work should pay, but they are built from completely different starting points. This video explains how the minimum wage and the living wage are actually calculated, and why they can end up so far apart.\n\n#shorts #minimumwage #livingwage #economics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "minimum wage",
+    "living wage",
+    "wages",
+    "economics",
+    "cost of living"
+  ],
+  "hashtags": [
+    "#minimumwage",
+    "#livingwage",
+    "#economics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "two definitions",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "LAW",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "COSTS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

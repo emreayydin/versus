@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "subsidy-vs-tax-break",
+  "thema": "subsidy-vs-tax-break",
+  "begriffe": [
+    "Subsidy",
+    "Tax Break"
+  ],
+  "ueberschrift": "Subsidy vs Tax Break",
+  "titel": "Subsidy vs Tax Break - What's the Difference?",
+  "beschreibung": "A subsidy pays money out. A tax break lets someone keep money they owed. Both change what something costs, but they show up in completely different places in a government's books. This video walks through how each one works, with no advice on either.\n\n#shorts #subsidy #taxbreak #economics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "subsidy",
+    "tax break",
+    "government spending",
+    "taxes",
+    "economics",
+    "public finance"
+  ],
+  "hashtags": [
+    "#subsidy",
+    "#taxbreak",
+    "#economics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who really pays",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "CUT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "NO CASH",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

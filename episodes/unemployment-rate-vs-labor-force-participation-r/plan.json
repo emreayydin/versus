@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "unemployment-rate-vs-labor-force-participation-r",
+  "thema": "unemployment-rate-vs-labor-force-participation-rate",
+  "begriffe": [
+    "Unemployment Rate",
+    "Labor Force Participation Rate"
+  ],
+  "ueberschrift": "Unemployment vs Participation Rate",
+  "titel": "Unemployment Rate vs Labor Force Participation Rate - What's the Difference?",
+  "beschreibung": "Two labor market numbers that sound similar but count completely different people. This episode explains why the unemployment rate can fall for a reason that has nothing to do with more people working, and what the labor force participation rate actually measures instead.\n\n#shorts #unemployment #laborforce #economics #jobmarket\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "unemployment rate",
+    "labor force participation rate",
+    "economics",
+    "job market",
+    "macroeconomics"
+  ],
+  "hashtags": [
+    "#unemployment",
+    "#laborforce",
+    "#economics",
+    "#jobmarket"
+  ],
+  "thumbnail": {
+    "zeile": "who counts as jobless",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "QUIT",
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

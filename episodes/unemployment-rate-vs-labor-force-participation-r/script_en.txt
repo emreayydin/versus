@@ -1,0 +1,9 @@
+Why can the unemployment rate fall while fewer people are actually working?
+Two numbers claim to measure the same job market, but they count very different people.
+The unemployment rate only counts people without a job who are actively searching for one.
+The moment someone stops looking for work, this rate simply forgets they exist.
+The labor force participation rate counts everyone who either works or wants to.
+It shows how many working age people are engaged with the job market at all.
+The difference is that one rate erases people who gave up, the other keeps counting them.
+This is why unemployment can drop for the wrong reason, simply because people stopped trying.
+Together, the two numbers show not just who has a job, but who is even trying to get one.

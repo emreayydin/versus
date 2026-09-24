@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "slug": "national-debt-vs-budget-deficit",
+  "thema": "national-debt-vs-budget-deficit",
+  "begriffe": [
+    "Budget Deficit",
+    "National Debt"
+  ],
+  "ueberschrift": "National Debt vs Budget Deficit",
+  "titel": "National Debt vs Budget Deficit - What's the Difference?",
+  "beschreibung": "Two numbers government reports use constantly, and most people mix them up. This video shows what a budget deficit actually measures, how it differs from the national debt, and why a government can lower one while the other keeps rising. No opinions on policy, just the mechanics of how the two numbers connect.\n\n#shorts #nationaldebt #budgetdeficit #economics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "national debt",
+    "budget deficit",
+    "government spending",
+    "economics explained",
+    "public finance"
+  ],
+  "hashtags": [
+    "#nationaldebt",
+    "#budgetdeficit",
+    "#economics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "one year vs all years",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "DEFICIT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          2,
+          1
+        ],
+        "achse": [
+          "Spending",
+          "Taxes"
+        ],
+        "einheit": "$T"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "DEBT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
