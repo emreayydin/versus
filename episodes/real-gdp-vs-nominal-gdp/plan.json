@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "real-gdp-vs-nominal-gdp",
+  "thema": "real-gdp-vs-nominal-gdp",
+  "begriffe": [
+    "Real GDP",
+    "Nominal GDP"
+  ],
+  "ueberschrift": "Real GDP vs Nominal GDP",
+  "titel": "Real GDP vs Nominal GDP - What's the Difference?",
+  "beschreibung": "A short explainer on how real GDP and nominal GDP differ, and why the gap between them matters when reading economic news.\n\n#shorts #realgdp #nominalgdp #economics #macroeconomics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Real GDP",
+    "Nominal GDP",
+    "GDP growth",
+    "inflation",
+    "economic indicators"
+  ],
+  "hashtags": [
+    "#realgdp",
+    "#nominalgdp",
+    "#economics",
+    "#macroeconomics"
+  ],
+  "thumbnail": {
+    "zeile": "price or growth?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "NOMINAL",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "REAL",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.5,
+      "haare": false
+    }
+  ]
+}

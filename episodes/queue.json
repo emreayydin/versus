@@ -1,8 +1,5 @@
 {
   "offen": [
-    "cpi-vs-ppi",
-    "leading-indicator-vs-lagging-indicator",
-    "real-gdp-vs-nominal-gdp",
     "microloan-vs-microfinance",
     "escrow-vs-down-payment",
     "amortization-vs-depreciation",
@@ -121,6 +118,9 @@
     "national-debt-vs-budget-deficit",
     "subsidy-vs-tax-break",
     "minimum-wage-vs-living-wage",
-    "unemployment-rate-vs-labor-force-participation-r"
+    "unemployment-rate-vs-labor-force-participation-r",
+    "cpi-vs-ppi",
+    "leading-indicator-vs-lagging-indicator",
+    "real-gdp-vs-nominal-gdp"
   ]
 }

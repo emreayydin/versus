@@ -1,0 +1,9 @@
+One number grows because the economy did. The other grows because prices did.
+Both are called GDP growth, and the gap between them can be huge.
+Nominal GDP adds up everything produced, valued at today's prices.
+If prices rise five percent and output stays flat, nominal GDP still climbs five percent.
+Real GDP takes the same output but values it at prices from a fixed base year.
+That strips out inflation, so it only rises when the economy actually makes more.
+The difference is what moves the number: real output or rising prices.
+Economists watch real GDP to see actual growth, not just prices catching up.
+Nominal tells you the size of the number. Real tells you the size of the economy.
