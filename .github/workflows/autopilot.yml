@@ -93,7 +93,10 @@ jobs:
           # leerem Guthaben greift weiterhin die lokale Fassung.
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           ANTHROPIC_ENABLED: "1"
-          ANZAHL: ${{ inputs.anzahl || '5' }}
+          # Drei Erklaervideos pro Tag (Emres Vorgabe, 20.09.). Dazu kommen
+          # drei Vergleichsvideos aus difference_money_ranking.yml; zusammen
+          # 6 x 1.600 = 9.600 der 10.000 Kontingenteinheiten des Projekts.
+          ANZAHL: ${{ inputs.anzahl || '3' }}
           PRIVACY: ${{ inputs.privacy || 'public' }}
         run: |
           set -e
@@ -106,7 +109,9 @@ jobs:
           # braucht sammelfolge.yml 1.650 Einheiten vom Tageskontingent.
           DOW=$(date -u +%u)
           case "$DOW" in
-            1|3|5) ANZAHL=3 ; echo "Sammelfolgen-Tag: nur $ANZAHL Shorts" ;;
+            # Sammelfolge kostet 1.650 Einheiten: 2 Erklaer- + 3 Vergleichs-
+            # videos + Sammelfolge = 9.650.
+            1|3|5) ANZAHL=2 ; echo "Sammelfolgen-Tag: nur $ANZAHL Shorts" ;;
           esac
           GESCHAFFT=0
           for i in $(seq 1 "$ANZAHL"); do

@@ -19,32 +19,37 @@ DIMENSIONS = [
     "Taxes and costs", "Who each one suits",
 ]
 
-# Reihenfolge nach gemessener Leistung (20.09.2026): Themen aus dem Alltag
-# ("Salary vs Hourly wage", "Rent vs Buy") erreichen im Median 58 Aufrufe,
-# Buchhaltungsbegriffe ("Working capital vs Net worth") nur 42. Die besten
-# Videos des Kanals sind Supply vs Demand (1.100), Income vs Wealth (1.000),
-# Bear trap vs Bull trap (968), Debit vs Credit (481).
+# Emre am 20.09.2026: die Erklaervideos sollen auch schwerere Finanzthemen
+# behandeln. Deshalb wechseln sich hier zwei Sorten ab:
+#   Alltag  - Gehalt, Miete, Karte, Steuern (Median 58 Aufrufe)
+#   Schwer  - Optionen, Anleihen, Risikomasse (Fachbegriffe lagen bei 42)
+# Der Wechsel haelt den Kanal verstaendlich und deckt trotzdem die harten
+# Themen ab. Pflicht bleibt: jedes schwere Thema wird in Alltagssprache und
+# an einer echten Situation erklaert, nie im Fachjargon.
 LOCAL_TOPICS = [
-    # Alltag: Gehalt, Miete, Karte, Sparen, Steuern, Versicherung
-    "Salary vs Hourly wage", "Rent vs Buy", "Debit card vs Credit card",
-    "Gross vs Net", "Saving vs Investing", "Need vs Want",
-    "Saving vs Spending", "Tax deduction vs Tax credit",
-    "Checking account vs Savings account", "Insurance vs Warranty",
-    "Loan vs Lease", "Emergency fund vs Investment", "Credit score vs Credit report",
-    "Interest vs Compound interest", "Income vs Wealth", "Price vs Value",
-    "Term vs Whole life insurance", "Pension vs Annuity", "Gold vs Cash",
-    "Fixed rate vs Variable rate", "Inflation vs Deflation",
-    # Maerkte und Wirtschaft: immer noch anschaulich
-    "Supply vs Demand", "Bull market vs Bear market", "Stocks vs Bonds",
-    "ETF vs Mutual fund", "Recession vs Depression", "Value stock vs Growth stock",
-    "Dividend vs Capital gain", "Nominal vs Real return", "Import vs Export",
-    "Central bank vs Commercial bank", "Tariff vs Quota",
-    # Fachbegriffe: laufen messbar schlechter, bleiben als Reserve hinten
-    "Assets vs Liabilities", "Revenue vs Profit", "Cash flow vs Profit",
-    "Budget vs Forecast", "Fixed cost vs Variable cost", "Cost vs Expense",
-    "Liquidity vs Solvency", "Bond yield vs Bond price", "Revenue vs Cash flow",
-    "Micro vs Macro economics", "GDP vs GNP", "Risk vs Uncertainty",
-    "Price vs Cost", "Salary vs Wage",
+    "Salary vs Hourly wage", "Call option vs Put option",
+    "Rent vs Buy", "Bond yield vs Bond price",
+    "Debit card vs Credit card", "Alpha vs Beta",
+    "Gross vs Net", "Duration vs Maturity",
+    "Saving vs Investing", "Margin vs Leverage",
+    "Tax deduction vs Tax credit", "Systematic vs Unsystematic risk",
+    "Checking account vs Savings account", "Market order vs Limit order",
+    "Insurance vs Warranty", "Bid vs Ask spread",
+    "Loan vs Lease", "Yield to maturity vs Coupon rate",
+    "Emergency fund vs Investment", "Book value vs Market value",
+    "Credit score vs Credit report", "Spot price vs Futures price",
+    "Interest vs Compound interest", "Hedging vs Speculation",
+    "Income vs Wealth", "Dollar cost averaging vs Lump sum",
+    "Price vs Value", "Sharpe ratio vs Volatility",
+    "Term vs Whole life insurance", "Nominal vs Real return",
+    "Pension vs Annuity", "Dividend vs Capital gain",
+    "Gold vs Cash", "Liquidity vs Solvency",
+    "Fixed rate vs Variable rate", "Bull market vs Bear market",
+    "Inflation vs Deflation", "Value stock vs Growth stock",
+    "Supply vs Demand", "Assets vs Liabilities",
+    "Stocks vs Bonds", "Revenue vs Profit",
+    "ETF vs Mutual fund", "Cash flow vs Profit",
+    "Recession vs Depression", "Central bank vs Commercial bank",
 ]
 
 

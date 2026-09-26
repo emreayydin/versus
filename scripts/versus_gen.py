@@ -99,6 +99,18 @@ Calm and concrete. No ad-speak, no exclamation chains, no "crazy" or
 "insane". You are talking to someone smart who simply hasn't met the topic
 yet. Address them as "you".
 
+HARD TOPICS STAY UNDERSTANDABLE
+Half the topics are advanced on purpose (options, bond yields, duration,
+leverage, risk measures). Measured on this channel, jargon-heavy episodes
+reach a median of 42 views against 58 for everyday ones - the topic may be
+hard, the words may not. So for every advanced pair:
+  - open with a situation the viewer recognises, not with the term
+    ("You bought at 10. A year later it is 12. Two people call that a
+    different kind of gain.")
+  - introduce each technical word the first time it appears, in one clause
+  - use one concrete number example instead of a formula
+  - never more than two technical terms in the same sentence
+
 THE FIRST SENTENCE DECIDES EVERYTHING
 A vertical video is swiped away if the first sentence doesn't hold. At most
 {MAX_HOOK} characters, and it must do one of three things:
@@ -408,9 +420,11 @@ def neue_themen(vorhanden: list[str], anzahl: int = 40) -> list[str]:
         f"Bear trap vs Bull trap (968), Debit vs Credit (481); the weakest are "
         f"Working capital vs Net worth (1), Opportunity cost vs Sunk cost (4), "
         f"Cash flow vs Profit (5).\n"
-        f"So pick pairs an ordinary person meets with their own money - pay, "
-        f"rent, cards, loans, taxes, insurance, saving, prices - or a market "
-        f"term they hear in the news. Avoid pure bookkeeping vocabulary.\n"
+        f"Return a 50/50 mix: half everyday money pairs an ordinary person "
+        f"meets (pay, rent, cards, loans, taxes, insurance, saving, prices), "
+        f"half harder finance concepts (options, bonds, yields, risk measures, "
+        f"valuation, derivatives, leverage). Skip pure bookkeeping vocabulary "
+        f"such as accrual vs cash accounting.\n"
         f"No duplicates of these:\n{schon}\n\n"
         f"Answer with a JSON array of strings, nothing else.",
         "You return only valid JSON. No prose.", max_tokens=2000)
