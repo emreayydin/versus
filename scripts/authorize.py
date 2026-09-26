@@ -27,6 +27,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 UPLOAD_SCOPE = "https://www.googleapis.com/auth/youtube.upload"
 ANALYTICS_SCOPE = "https://www.googleapis.com/auth/yt-analytics.readonly"
+READ_SCOPE = "https://www.googleapis.com/auth/youtube.readonly"
 
 
 def main():
@@ -36,6 +37,8 @@ def main():
     ap.add_argument("--secrets", default=str(ROOT / "client_secrets.json"))
     ap.add_argument("--analytics", action="store_true",
                     help="Lesezugriff auf die Zahlen statt Upload-Recht")
+    ap.add_argument("--mit-kanalpruefung", action="store_true",
+                    help="Upload UND Kanal-Lesezugriff in einem Token")
     args = ap.parse_args()
 
     secrets = pathlib.Path(args.secrets)
@@ -58,6 +61,16 @@ def main():
         scopes = [ANALYTICS_SCOPE]
         target = token_dir / f"analytics_{args.lang}.json"
         secret_name = "YOUTUBE_ANALYTICS_TOKEN"
+    elif args.mit_kanalpruefung:
+        # Der Vergleichs-Workflow im Repo youtube-shorts-bot laedt auf ZWEI
+        # Kanaele hoch und prueft deshalb vor jedem Upload die Kanal-ID
+        # (VERIFY_CHANNEL_ID=true). Dafuer reicht das reine Upload-Recht
+        # nicht; ohne Lesezugriff schlaegt die Pruefung fehl. Nur fuer
+        # diesen Fall - die taeglichen Uploads hier nutzen weiter das
+        # Token mit einem einzigen Recht.
+        scopes = [UPLOAD_SCOPE, READ_SCOPE]
+        target = token_dir / f"youtube_{args.lang}_mit_kanalpruefung.json"
+        secret_name = "DIFFERENCE_MONEY_YOUTUBE_TOKEN_JSON"
     else:
         scopes = [UPLOAD_SCOPE]
         target = token_dir / f"youtube_{args.lang}.json"
