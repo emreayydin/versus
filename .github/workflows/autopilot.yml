@@ -38,9 +38,9 @@ on:
   workflow_dispatch:
     inputs:
       anzahl:
-        description: "Wie viele Folgen (max 5, siehe Kontingent oben)"
+        description: "Wie viele Folgen (Standard 3, siehe Kontingent unten)"
         required: false
-        default: "5"
+        default: "3"
       privacy:
         description: "private | unlisted | public"
         required: false
