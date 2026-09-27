@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "slug": "sinking-fund-vs-reserve-fund",
+  "thema": "sinking-fund-vs-reserve-fund",
+  "begriffe": [
+    "Sinking Fund",
+    "Reserve Fund"
+  ],
+  "ueberschrift": "Sinking Fund vs Reserve Fund",
+  "titel": "Sinking Fund vs Reserve Fund - What's the Difference?",
+  "beschreibung": "Two funds that both set money aside, but for very different reasons. One is built around a known debt and a fixed date, the other around costs nobody can predict. We walk through a simple bond example and a building repair example to show where the line actually is.\n\n#shorts #sinkingfund #reservefund #bonds #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "sinking fund",
+    "reserve fund",
+    "corporate finance",
+    "bonds",
+    "hoa reserve",
+    "personal finance"
+  ],
+  "hashtags": [
+    "#sinkingfund",
+    "#reservefund",
+    "#bonds",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "fact or chance",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "100K",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "20K/YR",
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

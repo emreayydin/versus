@@ -1,0 +1,132 @@
+{
+  "version": 2,
+  "slug": "escrow-vs-down-payment",
+  "thema": "escrow-vs-down-payment",
+  "begriffe": [
+    "Escrow",
+    "Down Payment"
+  ],
+  "ueberschrift": "Escrow vs Down Payment",
+  "titel": "Escrow vs Down Payment - What's the Difference?",
+  "beschreibung": "Two amounts of money show up when you buy a house, and people mix them up constantly. This episode explains what a down payment actually buys you, what escrow actually holds, and why confusing the two can leave you staring at your closing papers confused.\n\n#shorts #escrow #downpayment #homebuying #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "escrow",
+    "down payment",
+    "home buying",
+    "mortgage",
+    "real estate",
+    "closing costs"
+  ],
+  "hashtags": [
+    "#escrow",
+    "#downpayment",
+    "#homebuying",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "who holds the money",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          200000,
+          160000
+        ],
+        "achse": [
+          "Price",
+          "Loan"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "EQUITY",
+      "stimmung": 0.4,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
