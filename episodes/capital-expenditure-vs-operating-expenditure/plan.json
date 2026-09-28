@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "slug": "capital-expenditure-vs-operating-expenditure",
+  "thema": "capital-expenditure-vs-operating-expenditure",
+  "begriffe": [
+    "Capital Expenditure",
+    "Operating Expenditure"
+  ],
+  "ueberschrift": "CapEx vs OpEx",
+  "titel": "Capital Expenditure vs Operating Expenditure - What's the Difference?",
+  "beschreibung": "A truck you buy sits on the books for years. A truck you rent disappears from the numbers this month. This episode explains the line between capital expenditure and operating expenditure, why it changes how profitable a company looks, and where the split actually shows up in the numbers.\n\n#shorts #capex #opex #accounting #business\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "capital expenditure",
+    "operating expenditure",
+    "capex",
+    "opex",
+    "accounting",
+    "business finance"
+  ],
+  "hashtags": [
+    "#capex",
+    "#opex",
+    "#accounting",
+    "#business",
+    "#finance"
+  ],
+  "thumbnail": {
+    "zeile": "spend now or later",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "CAPEX",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "OPEX",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "TIMING",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    }
+  ]
+}

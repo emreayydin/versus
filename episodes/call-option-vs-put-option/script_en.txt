@@ -1,0 +1,10 @@
+One option pays you when a price goes up. The other pays when it goes down.
+Both work the same way, but they bet on opposite directions.
+Imagine a stock trading at fifty dollars today.
+A call option lets you buy it later at a fixed price, say fifty five, even if it climbs higher.
+If the price rises to eighty, you still pay fifty five and keep the gain.
+A put option works the other way, it lets you sell at a fixed price, even if the market drops.
+If that same stock falls to thirty, you can still sell at fifty five and avoid the loss.
+The difference is simple, a call profits from a rise, a put profits from a fall.
+Traders use calls to bet on growth and puts to protect against a downturn.
+Both are tools for betting on direction, just pointed in opposite ways.

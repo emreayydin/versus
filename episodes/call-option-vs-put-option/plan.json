@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "slug": "call-option-vs-put-option",
+  "thema": "Call option vs Put option",
+  "begriffe": [
+    "Call option",
+    "Put option"
+  ],
+  "ueberschrift": "Call vs Put Options",
+  "titel": "Call Option vs Put Option - What's the Difference?",
+  "beschreibung": "A simple explanation of call options and put options, the two basic bets you can make on a stock's price, with one concrete number example for each.\n\n#shorts #options #calloption #putoption #investing\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "call option",
+    "put option",
+    "options basics",
+    "stock market explained",
+    "derivatives explained"
+  ],
+  "hashtags": [
+    "#options",
+    "#calloption",
+    "#putoption",
+    "#investing",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "bet up or down",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "STRIKE",
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.6,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

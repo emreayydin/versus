@@ -1,7 +1,5 @@
 {
   "offen": [
-    "capital-expenditure-vs-operating-expenditure",
-    "Call option vs Put option",
     "Overdraft fee vs Late fee",
     "Alpha vs Beta",
     "Layaway vs Installment plan",
@@ -169,6 +167,8 @@
     "escrow-vs-down-payment",
     "amortization-vs-depreciation",
     "sinking-fund-vs-reserve-fund",
-    "trade-war-vs-trade-agreement"
+    "trade-war-vs-trade-agreement",
+    "capital-expenditure-vs-operating-expenditure",
+    "call-option-vs-put-option"
   ]
 }
