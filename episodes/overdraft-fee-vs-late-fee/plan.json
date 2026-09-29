@@ -1,0 +1,121 @@
+{
+  "version": 2,
+  "slug": "overdraft-fee-vs-late-fee",
+  "thema": "Overdraft fee vs Late fee",
+  "begriffe": [
+    "Overdraft fee",
+    "Late fee"
+  ],
+  "ueberschrift": "Overdraft Fee vs Late Fee",
+  "titel": "Overdraft Fee vs Late Fee - What's the Difference?",
+  "beschreibung": "Two fees that feel identical but come from completely different causes. This video explains what actually triggers an overdraft fee versus a late fee, with a simple number example for each, so you can see where the line between them really sits.\n\n#shorts #overdraftfee #latefee #personalfinance #banking\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "overdraft fee",
+    "late fee",
+    "bank fees",
+    "personal finance",
+    "banking basics"
+  ],
+  "hashtags": [
+    "#overdraftfee",
+    "#latefee",
+    "#personalfinance",
+    "#banking",
+    "#fees"
+  ],
+  "thumbnail": {
+    "zeile": "too little vs too late",
+    "zahl": "35",
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "$35",
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "layaway-vs-installment-plan",
+  "thema": "Layaway vs Installment plan",
+  "begriffe": [
+    "Layaway",
+    "Installment plan"
+  ],
+  "ueberschrift": "Layaway vs Installment Plan",
+  "titel": "Layaway vs Installment Plan - What's the Difference?",
+  "beschreibung": "Two ways to pay for something over time, but only one lets you take it home right away. This video breaks down how layaway and installment plans differ in ownership, timing, and risk - no advice, just the mechanics.\n\n#shorts #layaway #installmentplan #personalfinance #creditscore\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "layaway",
+    "installment plan",
+    "personal finance",
+    "credit",
+    "consumer finance"
+  ],
+  "hashtags": [
+    "#layaway",
+    "#installmentplan",
+    "#personalfinance",
+    "#creditscore"
+  ],
+  "thumbnail": {
+    "zeile": "who owns it first",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "HOLD",
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "TODAY",
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "CREDIT",
+      "stimmung": -0.4,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

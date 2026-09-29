@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Overdraft fee vs Late fee",
-    "Alpha vs Beta",
-    "Layaway vs Installment plan",
     "Duration vs Maturity",
     "Cashback vs Rewards points",
     "Margin vs Leverage",
@@ -169,6 +166,9 @@
     "sinking-fund-vs-reserve-fund",
     "trade-war-vs-trade-agreement",
     "capital-expenditure-vs-operating-expenditure",
-    "call-option-vs-put-option"
+    "call-option-vs-put-option",
+    "overdraft-fee-vs-late-fee",
+    "alpha-vs-beta",
+    "layaway-vs-installment-plan"
   ]
 }

@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "alpha-vs-beta",
+  "thema": "Alpha vs Beta",
+  "begriffe": [
+    "Alpha",
+    "Beta"
+  ],
+  "ueberschrift": "Alpha vs Beta",
+  "titel": "Alpha vs Beta - What's the Difference?",
+  "beschreibung": "Alpha and beta are two numbers used to judge how an investment fund performed. Alpha measures the extra return a manager adds beyond what the market itself explains. Beta measures how much a fund moves compared to the market, whether up or down. This video walks through both with one simple number example, so you can see what each one is actually measuring, without telling you what to buy or sell.\n\n#shorts #alpha #beta #investing #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "alpha",
+    "beta",
+    "investing basics",
+    "fund performance",
+    "risk and return"
+  ],
+  "hashtags": [
+    "#alpha",
+    "#beta",
+    "#investing",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "skill vs risk",
+    "zahl": "1.2",
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "ALPHA",
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "BETA",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
