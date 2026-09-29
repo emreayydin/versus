@@ -1,0 +1,20 @@
+Under time, Fixed rate and Variable rate answer different questions.
+Fixed rate starts with one set of rules, while Variable rate starts with another.
+The time question looks at the first timeline for Fixed rate.
+For Variable rate, the same question looks at a different timeline.
+That distinction matters because familiar labels can hide the mechanism.
+An example makes the relationship easier to follow.
+With Fixed rate, the first side of the comparison sets the starting point.
+With Variable rate, the second side sets a different starting point.
+Neither label becomes more useful merely because it sounds familiar.
+The words Fixed rate and Variable rate describe different positions in the same map.
+A clear map separates the terms before it compares their effects.
+If the question changes, Fixed rate and Variable rate can lead to different answers.
+That is why a single number cannot tell the whole story.
+The first term, Fixed rate, needs its own explanation.
+The second term, Variable rate, needs its own explanation too.
+Keeping both explanations visible prevents a false shortcut.
+In practice, Fixed rate may appear beside Variable rate without being the same thing.
+The comparison works best when the wording stays precise.
+A viewer can then see where Fixed rate ends and Variable rate begins.
+The next section can build on that boundary without changing it.

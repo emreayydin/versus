@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Fixed rate vs Variable rate",
     "Income vs Wealth",
     "Revenue vs Profit",
     "Nominal vs Real return",
@@ -16,6 +15,7 @@
     "debit-card-vs-credit-card",
     "assets-vs-liabilities",
     "inflation-vs-deflation",
-    "etf-vs-mutual-fund"
+    "etf-vs-mutual-fund",
+    "fixed-rate-vs-variable-rate"
   ]
 }
