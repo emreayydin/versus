@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Income vs Wealth",
     "Revenue vs Profit",
     "Nominal vs Real return",
     "Term vs Whole life insurance",
@@ -16,6 +15,7 @@
     "assets-vs-liabilities",
     "inflation-vs-deflation",
     "etf-vs-mutual-fund",
-    "fixed-rate-vs-variable-rate"
+    "fixed-rate-vs-variable-rate",
+    "income-vs-wealth"
   ]
 }
