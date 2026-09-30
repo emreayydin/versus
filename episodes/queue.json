@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Duration vs Maturity",
-    "Cashback vs Rewards points",
     "Margin vs Leverage",
     "Prepaid card vs Debit card",
     "Systematic vs Unsystematic risk",
@@ -169,6 +167,8 @@
     "call-option-vs-put-option",
     "overdraft-fee-vs-late-fee",
     "alpha-vs-beta",
-    "layaway-vs-installment-plan"
+    "layaway-vs-installment-plan",
+    "duration-vs-maturity",
+    "cashback-vs-rewards-points"
   ]
 }

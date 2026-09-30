@@ -1,0 +1,10 @@
+Two bonds both repay in ten years. Only one of them reacts hard when rates move.
+The difference sits in one word: when you actually get your money back.
+Maturity is the day a bond returns its full face value to you.
+A ten-year bond matures in ten years, that date never changes.
+Duration measures how much a bond's price moves when interest rates shift.
+It counts in years too, but it weighs every payment you get before the end.
+A ten-year bond with yearly coupons has a shorter duration than a ten-year zero-coupon bond.
+The difference is that maturity is a date, duration is a measure of risk.
+That gap matters when rates rise, the higher the duration, the harder the price falls.
+So two bonds can share the same maturity and still carry very different risk.

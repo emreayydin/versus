@@ -1,0 +1,125 @@
+{
+  "version": 2,
+  "slug": "duration-vs-maturity",
+  "thema": "Duration vs Maturity",
+  "begriffe": [
+    "Duration",
+    "Maturity"
+  ],
+  "ueberschrift": "Duration vs Maturity",
+  "titel": "Duration vs Maturity - What's the Difference?",
+  "beschreibung": "Two bonds can mature on the same day and still carry very different interest rate risk. This episode explains the difference between a bond's maturity date and its duration, using a simple coupon versus zero-coupon example.\n\n#shorts #bonds #duration #maturity #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "bonds",
+    "duration",
+    "maturity",
+    "interest rates",
+    "fixed income",
+    "bond risk"
+  ],
+  "hashtags": [
+    "#bonds",
+    "#duration",
+    "#maturity",
+    "#personalfinance",
+    "#investing"
+  ],
+  "thumbnail": {
+    "zeile": "fixed date, moving risk",
+    "zahl": "10",
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "FIXED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          7,
+          10
+        ],
+        "achse": [
+          "coupon bond",
+          "zero-coupon bond"
+        ],
+        "einheit": "years"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -1.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
