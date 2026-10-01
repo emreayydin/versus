@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Margin vs Leverage",
-    "Prepaid card vs Debit card",
-    "Systematic vs Unsystematic risk",
     "Grace period vs Due date",
     "Market order vs Limit order",
     "Co-signer vs Guarantor",
@@ -169,6 +166,9 @@
     "alpha-vs-beta",
     "layaway-vs-installment-plan",
     "duration-vs-maturity",
-    "cashback-vs-rewards-points"
+    "cashback-vs-rewards-points",
+    "margin-vs-leverage",
+    "prepaid-card-vs-debit-card",
+    "systematic-vs-unsystematic-risk"
   ]
 }

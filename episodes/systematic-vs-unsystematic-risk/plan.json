@@ -1,0 +1,120 @@
+{
+  "version": 2,
+  "slug": "systematic-vs-unsystematic-risk",
+  "thema": "Systematic vs Unsystematic risk",
+  "begriffe": [
+    "Systematic risk",
+    "Unsystematic risk"
+  ],
+  "ueberschrift": "Systematic vs Unsystematic Risk",
+  "titel": "Systematic vs Unsystematic Risk - What's the Difference?",
+  "beschreibung": "Two kinds of risk hide inside every stock. One can be spread away across companies, the other cannot. This video breaks down what systematic and unsystematic risk actually mean, with a simple example of a scandal versus a market-wide rate move, so the difference between them finally clicks.\n\n#shorts #investing #risk #diversification #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "systematic risk",
+    "unsystematic risk",
+    "diversification",
+    "investing basics",
+    "risk management"
+  ],
+  "hashtags": [
+    "#investing",
+    "#risk",
+    "#diversification",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "spread it or not",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "UNSYSTEMATIC",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": "SYSTEMATIC",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

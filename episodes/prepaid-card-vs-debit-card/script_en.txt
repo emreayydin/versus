@@ -1,0 +1,9 @@
+One card is linked to your bank account. The other one isn't linked to anything.
+Both look the same at checkout, but what happens behind the scenes is different.
+A prepaid card holds a fixed amount of money that you loaded onto it yourself.
+Load fifty dollars onto it, and you can spend exactly fifty dollars before it's empty.
+A debit card is wired directly into your bank account, checking it in real time.
+Spend forty dollars, and your bank balance drops by forty dollars immediately.
+The difference is where the money actually sits before you ever spend it.
+This matters if a card is lost: a prepaid card can only lose what was loaded on it.
+Both pay for coffee the same way. Only one is tied to everything else you own.

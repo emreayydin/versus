@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "margin-vs-leverage",
+  "thema": "Margin vs Leverage",
+  "begriffe": [
+    "Margin",
+    "Leverage"
+  ],
+  "ueberschrift": "Margin vs Leverage",
+  "titel": "Margin vs Leverage - What's the Difference?",
+  "beschreibung": "Two words traders use almost interchangeably, but they describe different things. This episode breaks down what margin actually is, what leverage measures, and how the two connect using one simple number example.\n\n#shorts #margin #leverage #personalfinance #investing\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "margin",
+    "leverage",
+    "trading basics",
+    "investing terms",
+    "borrowed money"
+  ],
+  "hashtags": [
+    "#margin",
+    "#leverage",
+    "#personalfinance",
+    "#investing"
+  ],
+  "thumbnail": {
+    "zeile": "deposit vs multiple",
+    "zahl": "5",
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "MARGIN",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          10000,
+          2000
+        ],
+        "achse": [
+          "Position",
+          "Margin"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "LEVERAGE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "5:1",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

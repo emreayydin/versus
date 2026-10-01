@@ -1,0 +1,10 @@
+One word is the deposit you post. The other is what that deposit lets you do.
+By the end, you will see how one number creates the other.
+Margin is the cash your broker asks you to put up before you trade.
+To control ten thousand dollars of stock, a broker might ask for two thousand as margin.
+That two thousand sits as collateral, a kind of deposit against the trade.
+Leverage is the ratio between what you control and what you actually own.
+Ten thousand controlled with two thousand of your own means five to one leverage.
+The difference is margin is the deposit, leverage is the multiple that deposit buys.
+This matters most when prices move, because leverage multiplies both gains and losses.
+Same trade, two numbers: one shows what you paid, the other shows how far it can swing.

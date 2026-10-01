@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "prepaid-card-vs-debit-card",
+  "thema": "Prepaid card vs Debit card",
+  "begriffe": [
+    "Prepaid card",
+    "Debit card"
+  ],
+  "ueberschrift": "Prepaid vs Debit Card",
+  "titel": "Prepaid Card vs Debit Card - What's the Difference?",
+  "beschreibung": "Both swipe the same way at checkout, but one is tied to your bank account and one isn't tied to anything at all. This video walks through what actually happens behind the scenes when you pay with each one, using a simple number example.\n\n#shorts #prepaidcard #debitcard #personalfinance #banking\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "prepaid card",
+    "debit card",
+    "personal finance",
+    "banking basics",
+    "money explained"
+  ],
+  "hashtags": [
+    "#prepaidcard",
+    "#debitcard",
+    "#personalfinance",
+    "#banking"
+  ],
+  "thumbnail": {
+    "zeile": "where's the money?",
+    "zahl": null,
+    "icon": "muenze"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "LOADED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "LINKED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    }
+  ]
+}
