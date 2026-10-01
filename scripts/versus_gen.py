@@ -336,8 +336,25 @@ def pruefe(folge: dict) -> list[str]:
     return m
 
 
+def bank_skripte() -> dict:
+    """Fertige Skripte aus scripts/skript_bank.py, nach Slug (seit 01.10.2026)."""
+    try:
+        from skript_bank import SKRIPTE
+    except ModuleNotFoundError:
+        from scripts.skript_bank import SKRIPTE
+    return {slugify(f["thema"]): f for f in SKRIPTE}
+
+
 def erzeuge(thema: str, versuche: int = 3) -> dict:
     """Schreiben lassen, pruefen, bei Maengeln mit der Mangelliste neu bitten."""
+    fertig = bank_skripte().get(slugify(thema))
+    if fertig:
+        folge = {k: v for k, v in fertig.items() if k != "thema"}
+        fehler = pruefe(folge)
+        if not fehler:
+            print("  Skript aus der Sammlung.")
+            return folge
+        print(f"  Sammlungsskript verworfen: {'; '.join(fehler[:4])}")
     if anthropic_available():
         try:
             return _erzeuge_ki(thema, versuche)
@@ -519,9 +536,15 @@ def main():
                 # Kein Abbruch: Solange noch offene Themen da sind, ist ein
                 # gescheitertes Nachfuellen kein Grund, den Lauf zu killen.
                 print(f"  Nachfuellen fehlgeschlagen ({type(fehler).__name__}), weiter mit dem Vorrat")
+        # Themen mit fertigem Skript zuerst - auch solche, die noch nicht in
+        # der Liste stehen. Ohne Skript springt die blasse Vorlage ein.
+        bank = bank_skripte()
+        offen_slugs = {slugify(t) for t in q["offen"]}
+        q["offen"][:0] = [f["thema"] for s, f in bank.items()
+                          if s not in benutzt and s not in offen_slugs]
         if not q["offen"]:
             raise SystemExit("Themenvorrat leer.")
-        thema = q["offen"][0]
+        thema = next((t for t in q["offen"] if slugify(t) in bank), q["offen"][0])
     elif args.thema:
         thema = args.thema
     else:

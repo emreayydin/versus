@@ -88,11 +88,10 @@ jobs:
           # publish.py sucht YOUTUBE_TOKEN_<LANG>. Der Kanal ist englisch,
           # also EN - nicht DE wie in der Vorlage aus doodle-finanz.
           YOUTUBE_TOKEN_EN: ${{ secrets.YOUTUBE_TOKEN_EN }}
-          # Die lokale Themenbank hat 46 Eintraege und war am 16.09. fast
-          # aufgebraucht. Mit KI kommen neue Themen und bessere Skripte; bei
-          # leerem Guthaben greift weiterhin die lokale Fassung.
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          ANTHROPIC_ENABLED: "1"
+          # Kostenlos seit 01.10.2026: Skripte kommen aus scripts/skript_bank.py
+          # (woechentlich vom Kanal-Agenten nachgefuellt), sonst aus der
+          # lokalen Vorlage. Keine bezahlte API.
+          ANTHROPIC_ENABLED: "0"
           # Drei Erklaervideos pro Tag (Emres Vorgabe, 20.09.). Dazu kommen
           # drei Vergleichsvideos aus difference_money_ranking.yml; zusammen
           # 6 x 1.600 = 9.600 der 10.000 Kontingenteinheiten des Projekts.
