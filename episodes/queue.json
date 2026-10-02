@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Grace period vs Due date",
-    "Market order vs Limit order",
     "Co-signer vs Guarantor",
     "Bid vs Ask spread",
     "Refinance vs Consolidate",
@@ -165,6 +163,8 @@
     "cashback-vs-rewards-points",
     "margin-vs-leverage",
     "prepaid-card-vs-debit-card",
-    "systematic-vs-unsystematic-risk"
+    "systematic-vs-unsystematic-risk",
+    "grace-period-vs-due-date",
+    "market-order-vs-limit-order"
   ]
 }

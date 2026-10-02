@@ -1,0 +1,10 @@
+Two people click buy on the same share. One gets it now, the other gets their price.
+Which one you get depends on the order type.
+A market order says: buy or sell right away at the best price available.
+It almost always goes through, but in a fast market the price can be a bit worse than expected.
+A limit order says: only at this price or better.
+Set a limit of fifty dollars, and you will never pay fifty one for that share.
+But if the price never reaches fifty, the order may simply never be filled.
+The difference: a market order guarantees the trade, a limit order guarantees the price.
+It matters most for shares that trade rarely, where prices can jump between two trades.
+Market order means certainty about speed. Limit order means certainty about price.
