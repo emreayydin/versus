@@ -1,0 +1,10 @@
+Buy a share and sell it a second later. You already lost money. Here is why.
+Every price on a screen is really two prices.
+The bid is the highest price a buyer is currently willing to pay.
+The ask is the lowest price a seller is currently willing to accept.
+If the bid is ninety nine dollars ninety and the ask is a hundred ten, the gap is twenty cents.
+You buy at the ask and sell at the bid, so a round trip right away costs you that gap.
+The difference: the bid is what you get when you sell, the ask is what you pay when you buy.
+The gap is called the spread, and it is wider for things that are traded rarely.
+It matters for frequent trading, where small spreads add up to real costs.
+The bid is the buyer's price. The ask is the seller's price. The spread lives in between.

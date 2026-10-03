@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Co-signer vs Guarantor",
-    "Bid vs Ask spread",
-    "Refinance vs Consolidate",
     "Yield to maturity vs Coupon rate",
     "Lease vs Finance",
     "Hedging vs Speculation",
@@ -165,6 +162,9 @@
     "prepaid-card-vs-debit-card",
     "systematic-vs-unsystematic-risk",
     "grace-period-vs-due-date",
-    "market-order-vs-limit-order"
+    "market-order-vs-limit-order",
+    "co-signer-vs-guarantor",
+    "bid-vs-ask-spread",
+    "refinance-vs-consolidate"
   ]
 }

@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "bid-vs-ask-spread",
+  "thema": "Bid vs Ask spread",
+  "begriffe": [
+    "Bid",
+    "Ask"
+  ],
+  "ueberschrift": "Bid vs Ask",
+  "titel": "Bid vs Ask - What's the Difference?",
+  "beschreibung": "Bid versus ask and the spread between them: the cost you pay on every trade, explained with a twenty-cent example.\n\n#shorts #stockmarket #bidask #spread #investing101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Bid",
+    "Ask",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#stockmarket",
+    "#bidask",
+    "#spread",
+    "#investing101"
+  ],
+  "thumbnail": {
+    "zeile": "the hidden cost",
+    "zahl": "20¢",
+    "icon": "schere"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "BID",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "ASK",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          99.9,
+          100.1
+        ],
+        "achse": [
+          "bid",
+          "ask"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": "SPREAD",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
