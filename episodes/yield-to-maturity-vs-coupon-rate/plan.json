@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "yield-to-maturity-vs-coupon-rate",
+  "thema": "Yield to maturity vs Coupon rate",
+  "begriffe": [
+    "Yield to maturity",
+    "Coupon rate"
+  ],
+  "ueberschrift": "Yield to Maturity vs Coupon",
+  "titel": "Yield to maturity vs Coupon rate - What's the Difference?",
+  "beschreibung": "Yield to maturity versus coupon rate: why a five percent bond can earn you more or less than five percent.\n\n#shorts #bonds #yield #fixedincome #investing101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Yield to maturity",
+    "Coupon rate",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#bonds",
+    "#yield",
+    "#fixedincome",
+    "#investing101"
+  ],
+  "thumbnail": {
+    "zeile": "same bond, two rates",
+    "zahl": "5%",
+    "icon": "prozent"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "COUPON",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "YIELD",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          900,
+          1000
+        ],
+        "achse": [
+          "price paid",
+          "paid back"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

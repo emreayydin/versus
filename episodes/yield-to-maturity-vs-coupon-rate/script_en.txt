@@ -1,0 +1,10 @@
+A bond says five percent on the label. You might still earn more, or less.
+That is because a bond has two different rates.
+The coupon rate is the fixed interest the bond pays on its face value, usually a thousand dollars.
+A five percent coupon pays fifty dollars a year, no matter what the bond costs later.
+Yield to maturity is the yearly return you get if you buy at today's price and hold until the end.
+Buy that bond for nine hundred dollars, and you also gain a hundred at the end, so your yield is above five.
+The difference: the coupon rate is fixed by the bond, the yield to maturity depends on the price you pay.
+When market rates rise, bond prices fall, and yields climb above the coupon.
+It matters when comparing bonds, because the coupon alone hides what you actually earn.
+The coupon is what the bond pays. The yield is what you earn at the price you paid.
