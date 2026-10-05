@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Discount vs Rebate",
-    "Dollar cost averaging vs Lump sum",
     "Tip vs Service charge",
     "Sharpe ratio vs Volatility",
     "Allowance vs Salary",
@@ -165,6 +163,8 @@
     "refinance-vs-consolidate",
     "yield-to-maturity-vs-coupon-rate",
     "lease-vs-finance",
-    "hedging-vs-speculation"
+    "hedging-vs-speculation",
+    "discount-vs-rebate",
+    "dollar-cost-averaging-vs-lump-sum"
   ]
 }

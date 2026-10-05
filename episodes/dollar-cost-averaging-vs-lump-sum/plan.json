@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "dollar-cost-averaging-vs-lump-sum",
+  "thema": "Dollar cost averaging vs Lump sum",
+  "begriffe": [
+    "Dollar cost averaging",
+    "Lump sum"
+  ],
+  "ueberschrift": "Averaging vs Lump Sum",
+  "titel": "Dollar cost averaging vs Lump sum - What's the Difference?",
+  "beschreibung": "Dollar cost averaging versus lump sum investing: how each works and what historical research found. Educational, not advice.\n\n#shorts #dollarcostaveraging #investing101 #lumpsum #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Dollar cost averaging",
+    "Lump sum",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#dollarcostaveraging",
+    "#investing101",
+    "#lumpsum",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "all now or bit by bit",
+    "zahl": "2/3",
+    "icon": "uhr"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "ALL AT ONCE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "MONTHLY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          67,
+          33
+        ],
+        "achse": [
+          "lump sum ahead",
+          "averaging ahead"
+        ],
+        "einheit": "%"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
