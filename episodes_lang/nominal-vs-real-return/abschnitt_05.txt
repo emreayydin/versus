@@ -1,0 +1,20 @@
+Under taxes and costs, Nominal and Real return answer different questions.
+Nominal starts with one set of rules, while Real return starts with another.
+The taxes and costs question looks at the first cost structure for Nominal.
+For Real return, the same question looks at a different cost structure.
+That distinction matters because familiar labels can hide the mechanism.
+An example makes the relationship easier to follow.
+With Nominal, the first side of the comparison sets the starting point.
+With Real return, the second side sets a different starting point.
+Neither label becomes more useful merely because it sounds familiar.
+The words Nominal and Real return describe different positions in the same map.
+A clear map separates the terms before it compares their effects.
+If the question changes, Nominal and Real return can lead to different answers.
+That is why a single number cannot tell the whole story.
+The first term, Nominal, needs its own explanation.
+The second term, Real return, needs its own explanation too.
+Keeping both explanations visible prevents a false shortcut.
+In practice, Nominal may appear beside Real return without being the same thing.
+The comparison works best when the wording stays precise.
+A viewer can then see where Nominal ends and Real return begins.
+The next section can build on that boundary without changing it.

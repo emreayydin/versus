@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Nominal vs Real return",
     "Term vs Whole life insurance",
     "Pension vs Annuity",
     "Value stock vs Growth stock",
@@ -16,6 +15,7 @@
     "etf-vs-mutual-fund",
     "fixed-rate-vs-variable-rate",
     "income-vs-wealth",
-    "revenue-vs-profit"
+    "revenue-vs-profit",
+    "nominal-vs-real-return"
   ]
 }
