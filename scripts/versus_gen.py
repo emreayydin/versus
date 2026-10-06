@@ -342,7 +342,17 @@ def bank_skripte() -> dict:
         from skript_bank import SKRIPTE
     except ModuleNotFoundError:
         from scripts.skript_bank import SKRIPTE
-    return {slugify(f["thema"]): f for f in SKRIPTE}
+    try:  # von Gemini montags nachgefuellt (scripts/skript_bank_nachfuellen.py)
+        from skript_bank_neu import SKRIPTE_NEU
+    except ImportError:
+        try:
+            from scripts.skript_bank_neu import SKRIPTE_NEU
+        except ImportError:
+            SKRIPTE_NEU = []
+    bank = {}
+    for f in list(SKRIPTE) + list(SKRIPTE_NEU):
+        bank.setdefault(slugify(f["thema"]), f)
+    return bank
 
 
 def erzeuge(thema: str, versuche: int = 3) -> dict:
