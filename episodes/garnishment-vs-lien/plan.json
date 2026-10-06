@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "garnishment-vs-lien",
+  "thema": "Garnishment vs Lien",
+  "begriffe": [
+    "Garnishment",
+    "Lien"
+  ],
+  "ueberschrift": "Garnishment vs Lien",
+  "titel": "Garnishment vs Lien - What's the Difference?",
+  "beschreibung": "Garnishment versus lien: taking money from wages versus a legal claim on property. Educational, not legal advice.\n\n#shorts #debt #lien #garnishment #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Garnishment",
+    "Lien",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#debt",
+    "#lien",
+    "#garnishment",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "income or property",
+    "zahl": null,
+    "icon": "bank"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": "GARNISH",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "LIEN",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

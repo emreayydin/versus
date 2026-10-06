@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "renters-insurance-vs-homeowners-insurance",
+  "thema": "Renters insurance vs Homeowners insurance",
+  "begriffe": [
+    "Renters insurance",
+    "Homeowners insurance"
+  ],
+  "ueberschrift": "Renters vs Homeowners Insurance",
+  "titel": "Renters insurance vs Homeowners insurance - What's the Difference?",
+  "beschreibung": "Renters insurance versus homeowners insurance: belongings and liability versus the building itself.\n\n#shorts #rentersinsurance #homeinsurance #insurance #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Renters insurance",
+    "Homeowners insurance",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#rentersinsurance",
+    "#homeinsurance",
+    "#insurance",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "walls or stuff",
+    "zahl": null,
+    "icon": "haus"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "RENTER",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "OWNER",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

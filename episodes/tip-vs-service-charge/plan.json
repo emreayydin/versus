@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "tip-vs-service-charge",
+  "thema": "Tip vs Service charge",
+  "begriffe": [
+    "Tip",
+    "Service charge"
+  ],
+  "ueberschrift": "Tip vs Service charge",
+  "titel": "Tip vs Service charge - What's the Difference?",
+  "beschreibung": "Tip versus service charge: what is voluntary, what is a fee, and who the money belongs to in the US.\n\n#shorts #tipping #restaurants #moneybasics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Tip",
+    "Service charge",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#tipping",
+    "#restaurants",
+    "#moneybasics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "your choice or not",
+    "zahl": "18%",
+    "icon": "korb"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "TIP",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": "FEE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

@@ -1,11 +1,8 @@
 {
   "offen": [
-    "Tip vs Service charge",
     "Sharpe ratio vs Volatility",
     "Allowance vs Salary",
     "Side hustle vs Part-time job",
-    "Garnishment vs Lien",
-    "Renters insurance vs Homeowners insurance",
     "Health insurance vs Life insurance",
     "Copay vs Deductible",
     "Subscription vs Membership",
@@ -165,6 +162,9 @@
     "lease-vs-finance",
     "hedging-vs-speculation",
     "discount-vs-rebate",
-    "dollar-cost-averaging-vs-lump-sum"
+    "dollar-cost-averaging-vs-lump-sum",
+    "tip-vs-service-charge",
+    "garnishment-vs-lien",
+    "renters-insurance-vs-homeowners-insurance"
   ]
 }
