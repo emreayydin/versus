@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Pension vs Annuity",
     "Value stock vs Growth stock",
     "Liquidity vs Solvency"
   ],
@@ -16,6 +15,7 @@
     "income-vs-wealth",
     "revenue-vs-profit",
     "nominal-vs-real-return",
-    "term-vs-whole-life-insurance"
+    "term-vs-whole-life-insurance",
+    "pension-vs-annuity"
   ]
 }
