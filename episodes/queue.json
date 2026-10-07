@@ -4,7 +4,6 @@
     "Allowance vs Salary",
     "Side hustle vs Part-time job",
     "Health insurance vs Life insurance",
-    "Copay vs Deductible",
     "Subscription vs Membership",
     "Sale price vs Clearance price",
     "Coupon vs Voucher",
@@ -12,7 +11,6 @@
     "Volatility vs Risk",
     "Yield curve vs Interest rate",
     "Arbitrage vs Speculation",
-    "Forward contract vs Futures contract",
     "Swap vs Option",
     "Credit default swap vs Insurance",
     "Value at risk vs Standard deviation",
@@ -165,6 +163,8 @@
     "dollar-cost-averaging-vs-lump-sum",
     "tip-vs-service-charge",
     "garnishment-vs-lien",
-    "renters-insurance-vs-homeowners-insurance"
+    "renters-insurance-vs-homeowners-insurance",
+    "copay-vs-deductible",
+    "forward-contract-vs-futures-contract"
   ]
 }

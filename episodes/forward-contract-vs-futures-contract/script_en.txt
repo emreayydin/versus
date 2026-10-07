@@ -1,0 +1,10 @@
+Both lock in a price today for a later deal. One is private, one trades on an exchange.
+That one detail changes almost everything about how they work.
+A forward contract is a private agreement between two parties, written to fit their needs.
+It is usually settled once, at the end, and each side depends on the other to keep its word.
+A futures contract is standardized and traded on an exchange.
+Gains and losses are settled every day, and a clearinghouse stands between the two sides.
+The difference: a forward is a custom private deal, a futures contract is a standardized exchange product.
+That is why futures carry less risk that the other side fails to pay.
+It matters for companies hedging prices, who must choose flexibility or safety.
+A forward is tailor made. A futures contract is off the rack, with a referee.
