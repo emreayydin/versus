@@ -45,6 +45,7 @@ def main():
     fehlend = args.anzahl if args.anzahl is not None else min(PRO_LAUF, max(0, ZIEL - len(frisch)))
     print(f"Frische Skripte: {len(frisch)}, Ziel {ZIEL}, fehlen {fehlend}")
     if not fehlend:
+        g.bericht("The Difference Money", len(frisch), 0, 0, 6, 3)
         return
 
     themen = [t for t in dict.fromkeys(q["offen"])
@@ -107,6 +108,7 @@ def main():
                          "(scripts/skript_bank_nachfuellen.py). Nicht von Hand ordnen.")
     print(f"Ergebnis: {len(neu)} neu, {verworfen} verworfen, "
           f"noch fehlend {max(0, fehlend - len(neu))}")
+    g.bericht("The Difference Money", len(frisch), len(neu), fehlend, 6, 3)
 
 
 if __name__ == "__main__":
