@@ -1,8 +1,9 @@
-"""The Difference Money: Skriptsammlung montags mit Gemini auffuellen (GitHub).
+"""The Difference Money: Skriptsammlung taeglich kostenlos auffuellen (GitHub).
 
-Fuer offene Themen ohne fertiges Skript schreibt Gemini eine Folge nach den
+Fuer offene Themen ohne fertiges Skript schreibt eine Gratis-KI (ki_kern.py:
+Groq, Mistral, Gemini mit Wechsel) eine Folge nach den
 Kanalregeln (SYSTEM aus versus_gen.py). Jede Folge muss pruefe() bestehen
-und wird danach gegen zwei Wikipedia-Artikel gegengelesen (gemini_kern.py).
+und wird danach gegen zwei Wikipedia-Artikel gegengelesen.
 Neue Skripte landen in scripts/skript_bank_neu.py.
 
     ./venv/bin/python scripts/skript_bank_nachfuellen.py
@@ -16,11 +17,12 @@ from pathlib import Path
 HIER = Path(__file__).resolve().parent
 sys.path.insert(0, str(HIER))
 
-import gemini_kern as g  # noqa: E402
+import ki_kern as g  # noqa: E402
 import versus_gen as v  # noqa: E402
 
 NEU_DATEI = HIER / "skript_bank_neu.py"
 ZIEL = int(os.environ.get("SKRIPT_ZIEL", "21"))
+PRO_LAUF = int(os.environ.get("PRO_LAUF", "6"))
 MAX_THEMEN = 40
 
 ZUSATZ = """
@@ -40,7 +42,7 @@ def main():
     benutzt = set(q["used"])
     bank = v.bank_skripte()
     frisch = [s for s in bank if s not in benutzt]
-    fehlend = args.anzahl if args.anzahl is not None else max(0, ZIEL - len(frisch))
+    fehlend = args.anzahl if args.anzahl is not None else min(PRO_LAUF, max(0, ZIEL - len(frisch)))
     print(f"Frische Skripte: {len(frisch)}, Ziel {ZIEL}, fehlen {fehlend}")
     if not fehlend:
         return
@@ -77,7 +79,9 @@ def main():
             verworfen += 1
             print("  verworfen:", "; ".join(maengel[:3]))
             continue
-        belege = "\n\n".join(f"[{w}]\n{g.wiki_text(w, 8000)}" for w in (folge.get("wikipedia") or [])[:2])
+        stichworte = thema + " " + " ".join(str(x.get("text", "")) for x in folge["saetze"])
+        belege = "\n\n".join(f"[{w}]\n{g.wiki_text(w, stichworte)}"
+                             for w in (folge.get("wikipedia") or [])[:2])
         if len(belege) < 400:
             verworfen += 1
             print("  verworfen: kein Wikipedia-Artikel gefunden")
@@ -99,7 +103,7 @@ def main():
 
     if neu:
         g.schreibe_modul(NEU_DATEI, "SKRIPTE_NEU", list(SKRIPTE_NEU) + neu,
-                         "Von Gemini geschriebene, gepruefte Vergleichsskripte "
+                         "Automatisch geschriebene, gegen Wikipedia gepruefte Vergleichsskripte "
                          "(scripts/skript_bank_nachfuellen.py). Nicht von Hand ordnen.")
     print(f"Ergebnis: {len(neu)} neu, {verworfen} verworfen, "
           f"noch fehlend {max(0, fehlend - len(neu))}")
