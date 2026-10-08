@@ -1,0 +1,10 @@
+A thousand dollars today and a thousand in a year are not worth the same.
+Two simple ideas explain why, and they are mirror images.
+Future value asks: what will money today grow into, at a given interest rate?
+A thousand dollars at five percent becomes one thousand fifty dollars after a year.
+Present value asks the reverse: what is money in the future worth today?
+At five percent, one thousand fifty dollars next year is worth a thousand today.
+The difference: future value moves money forward in time, present value moves it back.
+It matters for loans, pensions and investments, which all compare money at different times.
+The higher the rate, the less a future payment is worth today.
+Future value grows money forward. Present value discounts it back to today.

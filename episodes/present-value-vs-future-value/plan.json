@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "present-value-vs-future-value",
+  "thema": "Present value vs Future value",
+  "begriffe": [
+    "Present value",
+    "Future value"
+  ],
+  "ueberschrift": "Present value vs Future value",
+  "titel": "Present value vs Future value - What's the Difference?",
+  "beschreibung": "Present value versus future value with one simple five percent example: the time value of money explained.\n\n#shorts #timevalueofmoney #finance101 #interest #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Present value",
+    "Future value",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#timevalueofmoney",
+    "#finance101",
+    "#interest",
+    "#economics"
+  ],
+  "thumbnail": {
+    "zeile": "money has a clock",
+    "zahl": null,
+    "icon": "uhr"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "FUTURE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          1000,
+          1050
+        ],
+        "achse": [
+          "today",
+          "in one year"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "PRESENT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

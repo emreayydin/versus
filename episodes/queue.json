@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Sharpe ratio vs Volatility",
-    "Allowance vs Salary",
     "Side hustle vs Part-time job",
     "Health insurance vs Life insurance",
     "Subscription vs Membership",
@@ -16,7 +14,6 @@
     "Value at risk vs Standard deviation",
     "Sharpe ratio vs Sortino ratio",
     "Discount rate vs Interest rate",
-    "Present value vs Future value",
     "Intrinsic value vs Market value",
     "Liquidity risk vs Credit risk",
     "Convertible bond vs Straight bond"
@@ -165,6 +162,9 @@
     "garnishment-vs-lien",
     "renters-insurance-vs-homeowners-insurance",
     "copay-vs-deductible",
-    "forward-contract-vs-futures-contract"
+    "forward-contract-vs-futures-contract",
+    "present-value-vs-future-value",
+    "sharpe-ratio-vs-volatility",
+    "allowance-vs-salary"
   ]
 }
