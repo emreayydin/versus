@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Side hustle vs Part-time job",
-    "Health insurance vs Life insurance",
     "Subscription vs Membership",
     "Sale price vs Clearance price",
     "Coupon vs Voucher",
@@ -165,6 +163,8 @@
     "forward-contract-vs-futures-contract",
     "present-value-vs-future-value",
     "sharpe-ratio-vs-volatility",
-    "allowance-vs-salary"
+    "allowance-vs-salary",
+    "side-hustle-vs-part-time-job",
+    "health-insurance-vs-life-insurance"
   ]
 }

@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "side-hustle-vs-part-time-job",
+  "thema": "Side hustle vs Part-time job",
+  "begriffe": [
+    "Side hustle",
+    "Part-time job"
+  ],
+  "ueberschrift": "Side hustle vs Part-time job",
+  "titel": "Side hustle vs Part-time job - What's the Difference?",
+  "beschreibung": "A calm comparison of Side hustle and Part-time job. The episode explains the mechanism, the timing, and the main distinction. It is educational content, not financial advice.\n\n#shorts #sidehustle #parttimejob #personalfinance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Side hustle",
+    "Part-time job",
+    "Personal finance",
+    "Economics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#sidehustle",
+    "#parttimejob",
+    "#personalfinance",
+    "#economics",
+    "#comparison"
+  ],
+  "thumbnail": {
+    "zeile": "same label?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    }
+  ]
+}
