@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Value stock vs Growth stock",
     "Liquidity vs Solvency"
   ],
   "used": [
@@ -16,6 +15,7 @@
     "revenue-vs-profit",
     "nominal-vs-real-return",
     "term-vs-whole-life-insurance",
-    "pension-vs-annuity"
+    "pension-vs-annuity",
+    "value-stock-vs-growth-stock"
   ]
 }
