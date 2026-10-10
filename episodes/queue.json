@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Subscription vs Membership",
-    "Sale price vs Clearance price",
-    "Coupon vs Voucher",
     "Wire transfer vs Bank transfer",
     "Volatility vs Risk",
     "Yield curve vs Interest rate",
@@ -165,6 +162,9 @@
     "sharpe-ratio-vs-volatility",
     "allowance-vs-salary",
     "side-hustle-vs-part-time-job",
-    "health-insurance-vs-life-insurance"
+    "health-insurance-vs-life-insurance",
+    "subscription-vs-membership",
+    "sale-price-vs-clearance-price",
+    "coupon-vs-voucher"
   ]
 }

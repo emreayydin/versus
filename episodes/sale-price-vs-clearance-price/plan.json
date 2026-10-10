@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "slug": "sale-price-vs-clearance-price",
+  "thema": "Sale price vs Clearance price",
+  "begriffe": [
+    "Sale price",
+    "Clearance price"
+  ],
+  "ueberschrift": "Sale price vs Clearance price",
+  "titel": "Sale price vs Clearance price - What's the Difference?",
+  "beschreibung": "A calm comparison of Sale price and Clearance price. The episode explains the mechanism, the timing, and the main distinction. It is educational content, not financial advice.\n\n#shorts #saleprice #clearanceprice #personalfinance #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Sale price",
+    "Clearance price",
+    "Personal finance",
+    "Economics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#saleprice",
+    "#clearanceprice",
+    "#personalfinance",
+    "#economics",
+    "#comparison"
+  ],
+  "thumbnail": {
+    "zeile": "same label?",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.05,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.05,
+      "haare": false
+    }
+  ]
+}
