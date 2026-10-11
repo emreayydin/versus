@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Wire transfer vs Bank transfer",
-    "Volatility vs Risk",
-    "Yield curve vs Interest rate",
     "Arbitrage vs Speculation",
     "Swap vs Option",
     "Credit default swap vs Insurance",
@@ -165,6 +162,9 @@
     "health-insurance-vs-life-insurance",
     "subscription-vs-membership",
     "sale-price-vs-clearance-price",
-    "coupon-vs-voucher"
+    "coupon-vs-voucher",
+    "wire-transfer-vs-bank-transfer",
+    "volatility-vs-risk",
+    "yield-curve-vs-interest-rate"
   ]
 }
