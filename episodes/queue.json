@@ -1,14 +1,7 @@
 {
   "offen": [
-    "Arbitrage vs Speculation",
     "Swap vs Option",
-    "Credit default swap vs Insurance",
-    "Value at risk vs Standard deviation",
-    "Sharpe ratio vs Sortino ratio",
-    "Discount rate vs Interest rate",
-    "Intrinsic value vs Market value",
-    "Liquidity risk vs Credit risk",
-    "Convertible bond vs Straight bond"
+    "Intrinsic value vs Market value"
   ],
   "used": [
     "stocks-vs-bonds",
