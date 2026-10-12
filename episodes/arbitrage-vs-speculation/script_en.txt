@@ -1,0 +1,9 @@
+Two traders both buy gold. One already knows the profit, the other is hoping.
+That is the line between two words people mix up all the time.
+Arbitrage means buying and selling the same thing at the same time in two places.
+Gold costs one thousand in one market and one thousand and five in another. Buy low, sell high, at once.
+Speculation means buying because you expect the price to move later.
+If the price rises, you win. If it falls, you lose. Nothing is locked in.
+The difference: arbitrage uses a price gap that exists now, speculation bets on a price that may come.
+Real arbitrage gaps are tiny and close fast, because computers hunt for them all day.
+Arbitrage profits from a gap. Speculation profits only if the guess is right.

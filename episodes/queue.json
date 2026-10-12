@@ -1,5 +1,24 @@
 {
   "offen": [
+    "Minimum payment vs Statement balance",
+    "Sharpe ratio vs Sortino ratio",
+    "Pre-qualification vs Pre-approval",
+    "Credit default swap vs Insurance",
+    "Certificate of deposit vs Savings account",
+    "Convertible bond vs Straight bond",
+    "Credit freeze vs Fraud alert",
+    "Implied volatility vs Historical volatility",
+    "Balance transfer vs Cash advance",
+    "Liquidity risk vs Credit risk",
+    "Bonus vs Raise",
+    "Covered call vs Naked call",
+    "APY vs APR",
+    "Value at risk vs Standard deviation",
+    "Shrinkflation vs Inflation",
+    "Discount rate vs Interest rate",
+    "Gift card vs Store credit",
+    "Short squeeze vs Margin call",
+    "Unit price vs Sticker price",
     "Swap vs Option",
     "Intrinsic value vs Market value"
   ],
@@ -158,6 +177,8 @@
     "coupon-vs-voucher",
     "wire-transfer-vs-bank-transfer",
     "volatility-vs-risk",
-    "yield-curve-vs-interest-rate"
+    "yield-curve-vs-interest-rate",
+    "hard-inquiry-vs-soft-inquiry",
+    "arbitrage-vs-speculation"
   ]
 }

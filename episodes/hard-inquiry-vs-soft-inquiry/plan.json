@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "hard-inquiry-vs-soft-inquiry",
+  "thema": "Hard inquiry vs Soft inquiry",
+  "begriffe": [
+    "Hard inquiry",
+    "Soft inquiry"
+  ],
+  "ueberschrift": "Hard inquiry vs Soft inquiry",
+  "titel": "Hard inquiry vs Soft inquiry - What's the Difference?",
+  "beschreibung": "Hard inquiry versus soft inquiry: which credit checks can lower your score and which never do.\n\n#shorts #creditscore #credit #personalfinance #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Hard inquiry",
+    "Soft inquiry",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#creditscore",
+    "#credit",
+    "#personalfinance",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "who looked?",
+    "zahl": null,
+    "icon": "balken"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "HARD",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": "SOFT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
