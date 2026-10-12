@@ -1,7 +1,5 @@
 {
-  "offen": [
-    "Liquidity vs Solvency"
-  ],
+  "offen": [],
   "used": [
     "stocks-vs-bonds",
     "saving-vs-investing",
@@ -16,6 +14,7 @@
     "nominal-vs-real-return",
     "term-vs-whole-life-insurance",
     "pension-vs-annuity",
-    "value-stock-vs-growth-stock"
+    "value-stock-vs-growth-stock",
+    "liquidity-vs-solvency"
   ]
 }
