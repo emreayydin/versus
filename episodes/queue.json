@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Pre-qualification vs Pre-approval",
     "Credit default swap vs Insurance",
     "Certificate of deposit vs Savings account",
     "Convertible bond vs Straight bond",
@@ -179,6 +178,7 @@
     "hard-inquiry-vs-soft-inquiry",
     "arbitrage-vs-speculation",
     "minimum-payment-vs-statement-balance",
-    "sharpe-ratio-vs-sortino-ratio"
+    "sharpe-ratio-vs-sortino-ratio",
+    "pre-qualification-vs-pre-approval"
   ]
 }
