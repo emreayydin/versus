@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Minimum payment vs Statement balance",
     "Sharpe ratio vs Sortino ratio",
     "Pre-qualification vs Pre-approval",
     "Credit default swap vs Insurance",
@@ -179,6 +178,7 @@
     "volatility-vs-risk",
     "yield-curve-vs-interest-rate",
     "hard-inquiry-vs-soft-inquiry",
-    "arbitrage-vs-speculation"
+    "arbitrage-vs-speculation",
+    "minimum-payment-vs-statement-balance"
   ]
 }

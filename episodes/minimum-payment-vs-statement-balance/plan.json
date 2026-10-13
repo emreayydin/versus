@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "minimum-payment-vs-statement-balance",
+  "thema": "Minimum payment vs Statement balance",
+  "begriffe": [
+    "Minimum payment",
+    "Statement balance"
+  ],
+  "ueberschrift": "Minimum payment vs Statement balance",
+  "titel": "Minimum payment vs Statement balance - What's the Difference?",
+  "beschreibung": "Minimum payment versus statement balance on a credit card: what each number means and what paying only the minimum costs.\n\n#shorts #creditcard #interest #personalfinance #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Minimum payment",
+    "Statement balance",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#creditcard",
+    "#interest",
+    "#personalfinance",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "pay what?",
+    "zahl": "24%",
+    "icon": "prozent"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "BALANCE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "MINIMUM",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          0,
+          20
+        ],
+        "achse": [
+          "paid in full",
+          "minimum only"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
