@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "convertible-bond-vs-straight-bond",
+  "thema": "Convertible bond vs Straight bond",
+  "begriffe": [
+    "Convertible bond",
+    "Straight bond"
+  ],
+  "ueberschrift": "Convertible bond vs Straight bond",
+  "titel": "Convertible bond vs Straight bond - What's the Difference?",
+  "beschreibung": "Convertible bond versus straight bond: plain interest versus a lower coupon plus the right to convert into shares.\n\n#shorts #bonds #convertiblebond #investing101 #finance101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Convertible bond",
+    "Straight bond",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#bonds",
+    "#convertiblebond",
+    "#investing101",
+    "#finance101"
+  ],
+  "thumbnail": {
+    "zeile": "bond with a door",
+    "zahl": null,
+    "icon": "stapel"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "STRAIGHT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          50,
+          20
+        ],
+        "achse": [
+          "straight bond",
+          "convertible"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "CONVERTIBLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

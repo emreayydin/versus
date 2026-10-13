@@ -1,0 +1,9 @@
+It works like insurance against a default, but nobody calls it insurance.
+And that small detail mattered a lot in two thousand eight.
+With insurance, you pay a premium and get paid if something you own is damaged.
+A credit default swap works similarly: you pay a fee, and get paid if a borrower defaults.
+But with a swap, you do not need to own the bond. You can bet on someone else's debt.
+Insurance companies must hold reserves, while swap sellers long faced far lighter rules.
+The difference: insurance protects something you own, a credit default swap is a contract you can trade.
+In the two thousand eight crisis, the insurer AIG had sold so many swaps it needed a government rescue.
+Insurance covers a loss you have. A credit default swap pays out on a default anyone can bet on.

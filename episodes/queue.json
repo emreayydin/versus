@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Credit default swap vs Insurance",
-    "Certificate of deposit vs Savings account",
-    "Convertible bond vs Straight bond",
     "Credit freeze vs Fraud alert",
     "Implied volatility vs Historical volatility",
     "Balance transfer vs Cash advance",
@@ -179,6 +176,9 @@
     "arbitrage-vs-speculation",
     "minimum-payment-vs-statement-balance",
     "sharpe-ratio-vs-sortino-ratio",
-    "pre-qualification-vs-pre-approval"
+    "pre-qualification-vs-pre-approval",
+    "credit-default-swap-vs-insurance",
+    "certificate-of-deposit-vs-savings-account",
+    "convertible-bond-vs-straight-bond"
   ]
 }
