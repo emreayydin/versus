@@ -1,0 +1,10 @@
+Two funds earn the same return. One ratio calls them equal, the other does not.
+Both ratios ask the same question: how much return did you get for the risk?
+The Sharpe ratio divides the extra return by how much the returns swing, up and down.
+So a fund that jumps up a lot gets punished just like one that drops a lot.
+The Sortino ratio only counts the swings below a target, the ones that actually hurt.
+Big jumps up are not treated as risk at all.
+The difference: Sharpe counts all volatility as risk, Sortino only counts the downside.
+A fund with rare drops and big rallies looks better under Sortino than under Sharpe.
+Neither ratio predicts the future. Both only describe what already happened.
+Sharpe asks how bumpy the ride was. Sortino asks how often it went downhill.

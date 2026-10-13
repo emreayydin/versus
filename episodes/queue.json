@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Sharpe ratio vs Sortino ratio",
     "Pre-qualification vs Pre-approval",
     "Credit default swap vs Insurance",
     "Certificate of deposit vs Savings account",
@@ -179,6 +178,7 @@
     "yield-curve-vs-interest-rate",
     "hard-inquiry-vs-soft-inquiry",
     "arbitrage-vs-speculation",
-    "minimum-payment-vs-statement-balance"
+    "minimum-payment-vs-statement-balance",
+    "sharpe-ratio-vs-sortino-ratio"
   ]
 }
