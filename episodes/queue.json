@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Credit freeze vs Fraud alert",
-    "Implied volatility vs Historical volatility",
     "Balance transfer vs Cash advance",
     "Liquidity risk vs Credit risk",
     "Bonus vs Raise",
@@ -179,6 +177,8 @@
     "pre-qualification-vs-pre-approval",
     "credit-default-swap-vs-insurance",
     "certificate-of-deposit-vs-savings-account",
-    "convertible-bond-vs-straight-bond"
+    "convertible-bond-vs-straight-bond",
+    "credit-freeze-vs-fraud-alert",
+    "implied-volatility-vs-historical-volatility"
   ]
 }

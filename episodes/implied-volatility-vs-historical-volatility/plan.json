@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "implied-volatility-vs-historical-volatility",
+  "thema": "Implied volatility vs Historical volatility",
+  "begriffe": [
+    "Implied volatility",
+    "Historical volatility"
+  ],
+  "ueberschrift": "Implied vs Historical volatility",
+  "titel": "Implied volatility vs Historical volatility - What's the Difference?",
+  "beschreibung": "Implied volatility versus historical volatility: what prices did in the past versus what option prices expect next.\n\n#shorts #options #volatility #vix #finance101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Implied volatility",
+    "Historical volatility",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#options",
+    "#volatility",
+    "#vix",
+    "#finance101"
+  ],
+  "thumbnail": {
+    "zeile": "past vs priced in",
+    "zahl": null,
+    "icon": "kurve"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "HISTORICAL",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "IMPLIED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

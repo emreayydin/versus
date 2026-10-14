@@ -1,0 +1,10 @@
+One volatility number looks backward. The other is hidden inside option prices.
+Traders watch both, and they rarely agree.
+Historical volatility measures how much a price actually moved over a past period.
+If a stock swung about one percent a day last month, that is already known.
+Implied volatility is worked out from today's option prices.
+Expensive options mean the market expects bigger moves ahead.
+The difference: historical volatility is measured from the past, implied volatility is priced for the future.
+Before big news, like earnings, implied volatility often climbs above historical.
+The VIX, often called the fear index, is built from implied volatility on S and P five hundred options.
+Historical volatility is the weather report. Implied volatility is the forecast.
