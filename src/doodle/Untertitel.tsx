@@ -98,10 +98,10 @@ export const Untertitel: React.FC<{
               color: aktiv ? (hell ? TINTE : PAPIER) : hell ? PAPIER : TINTE,
               backgroundColor: aktiv ? (hell ? PAPIER : TINTE) : "transparent",
               borderRadius: groesse * 0.14,
-              padding: aktiv ? `${groesse * 0.04}px ${groesse * 0.14}px` : 0,
-              // Ohne den Rahmen springt die Zeile in dem Moment, in dem ein
-              // Wort seinen Kasten bekommt.
-              outline: aktiv ? "none" : `${groesse * 0.14}px solid transparent`,
+              // Reserve the same box for every word. An outline does not
+              // occupy layout space; adding padding only to the spoken word
+              // changed line wrapping on every syllable.
+              padding: `${groesse * 0.04}px ${groesse * 0.14}px`,
             }}
           >
             {w.word}

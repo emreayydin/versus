@@ -1,7 +1,7 @@
 import { Composition } from "remotion";
 import { DoodleEpisode } from "./doodle/DoodleEpisode";
 import { Avatar, Banner } from "./Branding";
-import { Thumbnail } from "./Thumbnail";
+import { Thumbnail, type ThumbProps } from "./Thumbnail";
 import thumb from "./data/thumb.json";
 import { DoodleLang, langFrames } from "./doodle/DoodleLang";
 import lang from "./data/lang.json";
@@ -50,7 +50,7 @@ export const RemotionRoot: React.FC = () => {
     <Composition
       id="Thumbnail"
       component={Thumbnail}
-      defaultProps={thumb as { zeile: string; zahl?: string }}
+      defaultProps={{ ...thumb, zahl: thumb.zahl ?? undefined } as ThumbProps}
       durationInFrames={1}
       fps={FPS}
       width={1280}
