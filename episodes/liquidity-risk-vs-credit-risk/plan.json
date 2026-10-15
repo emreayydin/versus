@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "slug": "liquidity-risk-vs-credit-risk",
+  "thema": "Liquidity risk vs Credit risk",
+  "begriffe": [
+    "Liquidity risk",
+    "Credit risk"
+  ],
+  "ueberschrift": "Liquidity risk vs Credit risk",
+  "titel": "Liquidity risk vs Credit risk - What's the Difference?",
+  "beschreibung": "Liquidity risk versus credit risk: losing money because a borrower does not pay versus because you cannot sell in time.\n\n#shorts #risk #finance101 #bonds #investing101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Liquidity risk",
+    "Credit risk",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#risk",
+    "#finance101",
+    "#bonds",
+    "#investing101"
+  ],
+  "thumbnail": {
+    "zeile": "can't sell vs won't pay",
+    "zahl": null,
+    "icon": "waage"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "CREDIT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "LIQUIDITY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "haus",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          300000,
+          255000
+        ],
+        "achse": [
+          "fair value",
+          "sold this week"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

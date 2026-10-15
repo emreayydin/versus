@@ -1,0 +1,104 @@
+{
+  "version": 2,
+  "slug": "balance-transfer-vs-cash-advance",
+  "thema": "Balance transfer vs Cash advance",
+  "begriffe": [
+    "Balance transfer",
+    "Cash advance"
+  ],
+  "ueberschrift": "Balance transfer vs Cash advance",
+  "titel": "Balance transfer vs Cash advance - What's the Difference?",
+  "beschreibung": "Balance transfer versus cash advance: moving existing card debt versus taking cash at a higher rate with no grace period.\n\n#shorts #creditcard #debt #balancetransfer #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Balance transfer",
+    "Cash advance",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#creditcard",
+    "#debt",
+    "#balancetransfer",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "move it or take it",
+    "zahl": null,
+    "icon": "muenze"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "TRANSFER",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "CASH",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

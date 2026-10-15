@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Balance transfer vs Cash advance",
-    "Liquidity risk vs Credit risk",
-    "Bonus vs Raise",
     "Covered call vs Naked call",
     "APY vs APR",
     "Value at risk vs Standard deviation",
@@ -179,6 +176,9 @@
     "certificate-of-deposit-vs-savings-account",
     "convertible-bond-vs-straight-bond",
     "credit-freeze-vs-fraud-alert",
-    "implied-volatility-vs-historical-volatility"
+    "implied-volatility-vs-historical-volatility",
+    "balance-transfer-vs-cash-advance",
+    "liquidity-risk-vs-credit-risk",
+    "bonus-vs-raise"
   ]
 }
