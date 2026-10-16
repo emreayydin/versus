@@ -349,8 +349,12 @@ def bank_skripte() -> dict:
             from scripts.skript_bank_neu import SKRIPTE_NEU
         except ImportError:
             SKRIPTE_NEU = []
+    try:  # Monatsvorrat ab 16.10.2026
+        from skript_bank_monat import SKRIPTE_MONAT
+    except ModuleNotFoundError:
+        from scripts.skript_bank_monat import SKRIPTE_MONAT
     bank = {}
-    for f in list(SKRIPTE) + list(SKRIPTE_NEU):
+    for f in list(SKRIPTE) + list(SKRIPTE_MONAT) + list(SKRIPTE_NEU):
         bank.setdefault(slugify(f["thema"]), f)
     return bank
 
