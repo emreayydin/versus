@@ -1,0 +1,10 @@
+Two traders sell the same option. One risk is limited, the other has no ceiling.
+The only difference is what they already own.
+Selling a call option means you collect money now, and promise to sell shares at a set price.
+A covered call means you already own those shares.
+If the price jumps, you hand over your shares and miss the extra gain, but you lose nothing more.
+A naked call means you sold the promise without owning the shares.
+If the price jumps, you have to buy at the new price, and in theory there is no limit to how high.
+The difference: a covered call caps your upside, a naked call opens unlimited loss.
+That is why brokers allow naked calls only for approved accounts with strict margin rules.
+A covered call trades away some gain. A naked call can take far more than you collected.

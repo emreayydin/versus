@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Covered call vs Naked call",
-    "APY vs APR",
     "Value at risk vs Standard deviation",
     "Shrinkflation vs Inflation",
     "Discount rate vs Interest rate",
@@ -179,6 +177,8 @@
     "implied-volatility-vs-historical-volatility",
     "balance-transfer-vs-cash-advance",
     "liquidity-risk-vs-credit-risk",
-    "bonus-vs-raise"
+    "bonus-vs-raise",
+    "covered-call-vs-naked-call",
+    "apy-vs-apr"
   ]
 }

@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "apy-vs-apr",
+  "thema": "APY vs APR",
+  "begriffe": [
+    "APY",
+    "APR"
+  ],
+  "ueberschrift": "APY vs APR",
+  "titel": "APY vs APR - What's the Difference?",
+  "beschreibung": "APY versus APR: the yearly rate without compounding versus the rate that counts interest on interest, with an example.\n\n#shorts #interest #apy #apr #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "APY",
+    "APR",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#interest",
+    "#apy",
+    "#apr",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "same rate, two numbers",
+    "zahl": "12.7%",
+    "icon": "prozent"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "APR",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "APY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          12,
+          12.68
+        ],
+        "achse": [
+          "APR",
+          "APY"
+        ],
+        "einheit": "%"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

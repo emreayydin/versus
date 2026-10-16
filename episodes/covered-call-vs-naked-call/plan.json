@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "covered-call-vs-naked-call",
+  "thema": "Covered call vs Naked call",
+  "begriffe": [
+    "Covered call",
+    "Naked call"
+  ],
+  "ueberschrift": "Covered call vs Naked call",
+  "titel": "Covered call vs Naked call - What's the Difference?",
+  "beschreibung": "Covered call versus naked call: selling an option against shares you own versus selling one with unlimited risk.\n\n#shorts #options #coveredcall #risk #finance101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Covered call",
+    "Naked call",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#options",
+    "#coveredcall",
+    "#risk",
+    "#finance101"
+  ],
+  "thumbnail": {
+    "zeile": "capped or unlimited",
+    "zahl": null,
+    "icon": "schere"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "CALL",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "COVERED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "NAKED",
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

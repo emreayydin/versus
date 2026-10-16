@@ -1,0 +1,10 @@
+Twelve percent on a loan can cost more than twelve percent. The label tells you why.
+Two short words, and the gap between them is compounding.
+APR, the annual percentage rate, is the yearly rate without counting interest on interest.
+On loans and cards, it can also include some fees, so you can compare offers.
+APY, the annual percentage yield, includes compounding, the interest earned on earlier interest.
+Twelve percent APR charged monthly works out to about twelve point seven percent APY.
+The difference: APR leaves compounding out, APY counts it in.
+That is why banks often show APY on savings, where the bigger number looks better.
+Comparing offers only works when both use the same measure.
+APR is the rate on paper. APY is what the rate adds up to in a year.
