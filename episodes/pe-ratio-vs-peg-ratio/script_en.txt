@@ -1,0 +1,10 @@
+Two stocks cost twenty times their profit. One may still be the cheaper one.
+A second number explains why.
+The PE ratio is the share price divided by the profit per share over a year.
+A PE of twenty means you pay twenty dollars for every dollar of yearly profit.
+The PEG ratio divides that PE by how fast profits are expected to grow.
+PE twenty with twenty percent growth gives a PEG of one. With five percent growth, it is four.
+The difference: the PE ratio looks at profit today, the PEG ratio adds expected growth.
+But growth is only a forecast, so the PEG can be wrong when the forecast is.
+It matters when comparing companies that grow at very different speeds.
+PE asks how expensive it is now. PEG asks how expensive it is for the growth you get.

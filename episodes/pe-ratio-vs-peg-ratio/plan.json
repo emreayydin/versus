@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "pe-ratio-vs-peg-ratio",
+  "thema": "PE ratio vs PEG ratio",
+  "begriffe": [
+    "PE ratio",
+    "PEG ratio"
+  ],
+  "ueberschrift": "PE Ratio vs PEG Ratio",
+  "titel": "PE ratio vs PEG ratio - What's the Difference?",
+  "beschreibung": "PE ratio versus PEG ratio: price compared with today's profit versus price compared with expected growth.\n\n#shorts #stocks #valuation #peratio #investing101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "PE ratio",
+    "PEG ratio",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#stocks",
+    "#valuation",
+    "#peratio",
+    "#investing101"
+  ],
+  "thumbnail": {
+    "zeile": "price vs growth",
+    "zahl": null,
+    "icon": "balken"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "PE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "PEG",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          1,
+          4
+        ],
+        "achse": [
+          "20% growth",
+          "5% growth"
+        ],
+        "einheit": ""
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

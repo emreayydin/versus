@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "fixed-expenses-vs-discretionary-spending",
+  "thema": "Fixed expenses vs Discretionary spending",
+  "begriffe": [
+    "Fixed expenses",
+    "Discretionary spending"
+  ],
+  "ueberschrift": "Fixed vs Discretionary",
+  "titel": "Fixed expenses vs Discretionary spending - What's the Difference?",
+  "beschreibung": "Fixed expenses versus discretionary spending: committed monthly bills versus the choices you make every day.\n\n#shorts #budgeting #personalfinance #saving #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Fixed expenses",
+    "Discretionary spending",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#budgeting",
+    "#personalfinance",
+    "#saving",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "must vs want",
+    "zahl": null,
+    "icon": "korb"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "FIXED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "CHOICE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
