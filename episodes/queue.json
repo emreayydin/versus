@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Dividend yield vs Payout ratio",
-    "W-2 vs 1099",
     "ROE vs ROA",
     "Tax refund vs Tax return",
     "Free cash flow vs Operating cash flow",
@@ -237,6 +235,8 @@
     "apy-vs-apr",
     "down-payment-vs-closing-costs",
     "pe-ratio-vs-peg-ratio",
-    "fixed-expenses-vs-discretionary-spending"
+    "fixed-expenses-vs-discretionary-spending",
+    "dividend-yield-vs-payout-ratio",
+    "w-2-vs-1099"
   ]
 }
