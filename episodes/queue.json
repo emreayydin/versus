@@ -1,8 +1,5 @@
 {
   "offen": [
-    "ROE vs ROA",
-    "Tax refund vs Tax return",
-    "Free cash flow vs Operating cash flow",
     "New car vs Used car",
     "EBITDA vs Net income",
     "Brand name vs Generic",
@@ -237,6 +234,9 @@
     "pe-ratio-vs-peg-ratio",
     "fixed-expenses-vs-discretionary-spending",
     "dividend-yield-vs-payout-ratio",
-    "w-2-vs-1099"
+    "w-2-vs-1099",
+    "roe-vs-roa",
+    "tax-refund-vs-tax-return",
+    "free-cash-flow-vs-operating-cash-flow"
   ]
 }

@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "free-cash-flow-vs-operating-cash-flow",
+  "thema": "Free cash flow vs Operating cash flow",
+  "begriffe": [
+    "Free cash flow",
+    "Operating cash flow"
+  ],
+  "ueberschrift": "Free vs Operating Cash Flow",
+  "titel": "Free cash flow vs Operating cash flow - What's the Difference?",
+  "beschreibung": "Free cash flow versus operating cash flow: cash from the business versus cash left after investing in it.\n\n#shorts #cashflow #finance #stocks #accounting\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Free cash flow",
+    "Operating cash flow",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#cashflow",
+    "#finance",
+    "#stocks",
+    "#accounting"
+  ],
+  "thumbnail": {
+    "zeile": "cash after building",
+    "zahl": null,
+    "icon": "stapel"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "OPERATING",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": "FREE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          100,
+          30
+        ],
+        "achse": [
+          "operating",
+          "free"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

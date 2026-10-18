@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "roe-vs-roa",
+  "thema": "ROE vs ROA",
+  "begriffe": [
+    "ROE",
+    "ROA"
+  ],
+  "ueberschrift": "ROE vs ROA",
+  "titel": "ROE vs ROA - What's the Difference?",
+  "beschreibung": "ROE versus ROA: return on owners' money versus return on all assets, and how debt changes the picture.\n\n#shorts #finance #stocks #roe #investing101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "ROE",
+    "ROA",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#finance",
+    "#stocks",
+    "#roe",
+    "#investing101"
+  ],
+  "thumbnail": {
+    "zeile": "own money vs all",
+    "zahl": null,
+    "icon": "prozent"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "ROE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "ROA",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "hoch",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          10,
+          50
+        ],
+        "achse": [
+          "ROA",
+          "ROE"
+        ],
+        "einheit": "%"
+      },
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

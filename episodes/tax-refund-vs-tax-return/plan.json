@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "tax-refund-vs-tax-return",
+  "thema": "Tax refund vs Tax return",
+  "begriffe": [
+    "Tax refund",
+    "Tax return"
+  ],
+  "ueberschrift": "Tax refund vs Tax return",
+  "titel": "Tax refund vs Tax return - What's the Difference?",
+  "beschreibung": "Tax refund versus tax return: the form you file versus the overpaid money you get back.\n\n#shorts #taxes #taxrefund #moneybasics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Tax refund",
+    "Tax return",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#taxes",
+    "#taxrefund",
+    "#moneybasics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "form vs money",
+    "zahl": null,
+    "icon": "bank"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "RETURN",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "REFUND",
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
