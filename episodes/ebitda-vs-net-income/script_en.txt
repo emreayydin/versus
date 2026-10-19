@@ -1,0 +1,10 @@
+One profit on the slide, a smaller one in the report. Both can be true.
+They stop at different lines.
+EBITDA is earnings before interest, taxes, depreciation and amortization.
+It shows how much the core business earns before those costs.
+Net income is what remains after every cost, including interest, taxes and depreciation.
+A firm with fifty million EBITDA might keep only fifteen million as net income.
+The difference: EBITDA ignores financing and wear on equipment, net income includes everything.
+That is why heavily indebted companies like to talk about EBITDA.
+It matters because interest and worn-out machines are real costs that still need cash.
+EBITDA is the operating view. Net income is the bottom line.

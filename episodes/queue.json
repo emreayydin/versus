@@ -1,7 +1,5 @@
 {
   "offen": [
-    "New car vs Used car",
-    "EBITDA vs Net income",
     "Brand name vs Generic",
     "Treasury bond vs Corporate bond",
     "Joint account vs Individual account",
@@ -237,6 +235,8 @@
     "w-2-vs-1099",
     "roe-vs-roa",
     "tax-refund-vs-tax-return",
-    "free-cash-flow-vs-operating-cash-flow"
+    "free-cash-flow-vs-operating-cash-flow",
+    "new-car-vs-used-car",
+    "ebitda-vs-net-income"
   ]
 }

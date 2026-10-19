@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "ebitda-vs-net-income",
+  "thema": "EBITDA vs Net income",
+  "begriffe": [
+    "EBITDA",
+    "Net income"
+  ],
+  "ueberschrift": "EBITDA vs Net income",
+  "titel": "EBITDA vs Net income - What's the Difference?",
+  "beschreibung": "EBITDA versus net income: profit before interest, taxes and depreciation versus what is left after all of it.\n\n#shorts #accounting #ebitda #finance #stocks\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "EBITDA",
+    "Net income",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#accounting",
+    "#ebitda",
+    "#finance",
+    "#stocks"
+  ],
+  "thumbnail": {
+    "zeile": "before vs after",
+    "zahl": null,
+    "icon": "schere"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": "EBITDA",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": "NET",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          50,
+          15
+        ],
+        "achse": [
+          "EBITDA",
+          "net income"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
