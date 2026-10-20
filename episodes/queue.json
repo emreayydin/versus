@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Brand name vs Generic",
-    "Treasury bond vs Corporate bond",
-    "Joint account vs Individual account",
     "Stock split vs Reverse split",
     "HSA vs FSA",
     "In the money vs Out of the money",
@@ -237,6 +234,9 @@
     "tax-refund-vs-tax-return",
     "free-cash-flow-vs-operating-cash-flow",
     "new-car-vs-used-car",
-    "ebitda-vs-net-income"
+    "ebitda-vs-net-income",
+    "brand-name-vs-generic",
+    "treasury-bond-vs-corporate-bond",
+    "joint-account-vs-individual-account"
   ]
 }
