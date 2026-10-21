@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "stock-split-vs-reverse-split",
+  "thema": "Stock split vs Reverse split",
+  "begriffe": [
+    "Stock split",
+    "Reverse split"
+  ],
+  "ueberschrift": "Stock split vs Reverse split",
+  "titel": "Stock split vs Reverse split - What's the Difference?",
+  "beschreibung": "Stock split versus reverse split: more cheaper shares versus fewer pricier shares, with the same total value.\n\n#shorts #stocks #stocksplit #investing101 #finance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Stock split",
+    "Reverse split",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#stocks",
+    "#stocksplit",
+    "#investing101",
+    "#finance"
+  ],
+  "thumbnail": {
+    "zeile": "more or fewer slices",
+    "zahl": null,
+    "icon": "stapel"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": "SPLIT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "REVERSE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

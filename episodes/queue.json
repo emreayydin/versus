@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Stock split vs Reverse split",
-    "HSA vs FSA",
     "In the money vs Out of the money",
     "Gig work vs Full-time job",
     "Stock buyback vs Dividend",
@@ -237,6 +235,8 @@
     "ebitda-vs-net-income",
     "brand-name-vs-generic",
     "treasury-bond-vs-corporate-bond",
-    "joint-account-vs-individual-account"
+    "joint-account-vs-individual-account",
+    "stock-split-vs-reverse-split",
+    "hsa-vs-fsa"
   ]
 }

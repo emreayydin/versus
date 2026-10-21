@@ -1,0 +1,10 @@
+A share price drops from one thousand to one hundred overnight, and nobody lost a cent.
+That is a stock split. Its mirror image tells a different story.
+In a stock split, each share is divided into several cheaper shares.
+In a ten for one split, one share at one thousand becomes ten shares at one hundred.
+A reverse split combines several shares into one more expensive share.
+Ten shares at fifty cents become one share at five dollars.
+The difference: a split makes more, cheaper shares, a reverse split makes fewer, pricier ones.
+In both cases, the total value you own stays the same at that moment.
+It matters as a signal: reverse splits often come from companies whose price has fallen very low.
+A split cuts the pizza into more slices. A reverse split glues slices back together.
