@@ -1,0 +1,10 @@
+Two options on the same stock. One already has real value, the other is pure hope.
+Traders describe this with three little words.
+An option is in the money when using it today would be worth something.
+A call to buy at ninety while the stock trades at one hundred is ten dollars in the money.
+An option is out of the money when using it today would be pointless.
+A call to buy at one hundred twenty, with the stock at one hundred, has no value right now.
+The difference: in the money options have value today, out of the money options only have time.
+Out of the money options are cheaper, but many expire worthless.
+It matters because the price of an option is part real value and part time value.
+In the money is worth something now. Out of the money is a bet on what happens later.

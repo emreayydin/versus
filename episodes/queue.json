@@ -1,8 +1,5 @@
 {
   "offen": [
-    "In the money vs Out of the money",
-    "Gig work vs Full-time job",
-    "Stock buyback vs Dividend",
     "Liability vs Full coverage",
     "Investment grade vs Junk bond",
     "Cost-of-living raise vs Merit raise",
@@ -237,6 +234,9 @@
     "treasury-bond-vs-corporate-bond",
     "joint-account-vs-individual-account",
     "stock-split-vs-reverse-split",
-    "hsa-vs-fsa"
+    "hsa-vs-fsa",
+    "in-the-money-vs-out-of-the-money",
+    "gig-work-vs-full-time-job",
+    "stock-buyback-vs-dividend"
   ]
 }
