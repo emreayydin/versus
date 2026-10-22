@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "cost-of-living-raise-vs-merit-raise",
+  "thema": "Cost-of-living raise vs Merit raise",
+  "begriffe": [
+    "Cost-of-living raise",
+    "Merit raise"
+  ],
+  "ueberschrift": "Cost-of-Living vs Merit Raise",
+  "titel": "Cost-of-living raise vs Merit raise - What's the Difference?",
+  "beschreibung": "Cost-of-living raise versus merit raise: keeping up with inflation versus getting ahead of it.\n\n#shorts #salary #raise #inflation #career\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Cost-of-living raise",
+    "Merit raise",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#salary",
+    "#raise",
+    "#inflation",
+    "#career"
+  ],
+  "thumbnail": {
+    "zeile": "keep up or move up",
+    "zahl": null,
+    "icon": "hoch"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "COLA",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "MERIT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

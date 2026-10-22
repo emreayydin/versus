@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Liability vs Full coverage",
-    "Investment grade vs Junk bond",
-    "Cost-of-living raise vs Merit raise",
     "Short-term vs Long-term capital gains",
     "Credit utilization vs Payment history",
     "Large cap vs Small cap",
@@ -237,6 +234,9 @@
     "hsa-vs-fsa",
     "in-the-money-vs-out-of-the-money",
     "gig-work-vs-full-time-job",
-    "stock-buyback-vs-dividend"
+    "stock-buyback-vs-dividend",
+    "liability-vs-full-coverage",
+    "investment-grade-vs-junk-bond",
+    "cost-of-living-raise-vs-merit-raise"
   ]
 }
