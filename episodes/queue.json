@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Short-term vs Long-term capital gains",
-    "Credit utilization vs Payment history",
     "Large cap vs Small cap",
     "Buy-now-pay-later vs Credit card",
     "Rate hike vs Rate cut",
@@ -237,6 +235,8 @@
     "stock-buyback-vs-dividend",
     "liability-vs-full-coverage",
     "investment-grade-vs-junk-bond",
-    "cost-of-living-raise-vs-merit-raise"
+    "cost-of-living-raise-vs-merit-raise",
+    "short-term-vs-long-term-capital-gains",
+    "credit-utilization-vs-payment-history"
   ]
 }
