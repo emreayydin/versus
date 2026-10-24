@@ -1,0 +1,10 @@
+A giant and a tiny firm can both be listed. Size changes everything.
+Investors sort companies by market value.
+Large cap usually means a market value above ten billion dollars.
+These companies tend to be established, with steady sales and many investors watching them.
+Small cap usually means roughly two hundred fifty million to two billion dollars.
+They can grow faster, but their prices often swing more and they fail more often.
+The difference: large caps trade more stability, small caps trade more growth potential and more risk.
+The exact size limits vary between index providers.
+It matters when building a mix, because the two often behave differently.
+Large cap is the giant. Small cap is the fast but fragile climber.

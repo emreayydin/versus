@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Large cap vs Small cap",
-    "Buy-now-pay-later vs Credit card",
-    "Rate hike vs Rate cut",
     "Robo-advisor vs Financial advisor",
     "Lottery lump sum vs Annuity",
     "REIT vs Rental property",
@@ -237,6 +234,9 @@
     "investment-grade-vs-junk-bond",
     "cost-of-living-raise-vs-merit-raise",
     "short-term-vs-long-term-capital-gains",
-    "credit-utilization-vs-payment-history"
+    "credit-utilization-vs-payment-history",
+    "large-cap-vs-small-cap",
+    "buy-now-pay-later-vs-credit-card",
+    "rate-hike-vs-rate-cut"
   ]
 }
