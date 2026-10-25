@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "reit-vs-rental-property",
+  "thema": "REIT vs Rental property",
+  "begriffe": [
+    "REIT",
+    "Rental property"
+  ],
+  "ueberschrift": "REIT vs Rental property",
+  "titel": "REIT vs Rental property - What's the Difference?",
+  "beschreibung": "REIT versus rental property: owning one property yourself versus owning shares of many. Educational, not advice.\n\n#shorts #realestate #reit #rentalproperty #investing101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "REIT",
+    "Rental property",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#realestate",
+    "#reit",
+    "#rentalproperty",
+    "#investing101"
+  ],
+  "thumbnail": {
+    "zeile": "landlord or shareholder",
+    "zahl": null,
+    "icon": "haus"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "LANDLORD",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "REIT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+One manages money with an algorithm for a small fee. The other is a person you can call.
+Here is what each one actually does.
+A robo-advisor is an online service that builds and rebalances a portfolio automatically.
+It usually charges a low yearly fee, often well under one percent.
+A financial advisor is a person who can also help with taxes, retirement or estate planning.
+Personal advice often costs more, through fees or commissions.
+The difference: a robo-advisor automates one portfolio, a financial advisor can look at your whole situation.
+Some advisors are fiduciaries, meaning they must act in the client's best interest.
+It matters to ask how someone is paid, because that can shape the advice.
+A robo is a smart autopilot. An advisor is a co-pilot you can talk to.

@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Robo-advisor vs Financial advisor",
-    "Lottery lump sum vs Annuity",
-    "REIT vs Rental property",
     "Price match vs Price adjustment",
     "Federal funds rate vs Prime rate",
     "Beneficiary vs Executor",
@@ -237,6 +234,9 @@
     "credit-utilization-vs-payment-history",
     "large-cap-vs-small-cap",
     "buy-now-pay-later-vs-credit-card",
-    "rate-hike-vs-rate-cut"
+    "rate-hike-vs-rate-cut",
+    "robo-advisor-vs-financial-advisor",
+    "lottery-lump-sum-vs-annuity",
+    "reit-vs-rental-property"
   ]
 }
