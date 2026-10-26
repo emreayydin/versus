@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Price match vs Price adjustment",
-    "Federal funds rate vs Prime rate",
     "Beneficiary vs Executor",
     "Delta vs Theta",
     "Month-to-month vs Fixed-term lease",
@@ -237,6 +235,8 @@
     "rate-hike-vs-rate-cut",
     "robo-advisor-vs-financial-advisor",
     "lottery-lump-sum-vs-annuity",
-    "reit-vs-rental-property"
+    "reit-vs-rental-property",
+    "price-match-vs-price-adjustment",
+    "federal-funds-rate-vs-prime-rate"
   ]
 }

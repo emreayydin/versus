@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "federal-funds-rate-vs-prime-rate",
+  "thema": "Federal funds rate vs Prime rate",
+  "begriffe": [
+    "Federal funds rate",
+    "Prime rate"
+  ],
+  "ueberschrift": "Fed Funds Rate vs Prime Rate",
+  "titel": "Federal funds rate vs Prime rate - What's the Difference?",
+  "beschreibung": "Federal funds rate versus prime rate: the rate between banks versus the base rate for many customer loans.\n\n#shorts #interestrates #federalreserve #economics #creditcard\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Federal funds rate",
+    "Prime rate",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#interestrates",
+    "#federalreserve",
+    "#economics",
+    "#creditcard"
+  ],
+  "thumbnail": {
+    "zeile": "banks vs you",
+    "zahl": null,
+    "icon": "prozent"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "FED FUNDS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "PRIME",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

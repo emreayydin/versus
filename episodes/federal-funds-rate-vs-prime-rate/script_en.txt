@@ -1,0 +1,10 @@
+The Fed moves one rate, and your card interest follows. Here is the chain.
+Two rates sit at the start of it.
+The federal funds rate is what banks charge each other for overnight loans.
+The Federal Reserve sets a target range for it.
+The prime rate is what banks charge their most reliable business customers.
+By convention, it is usually about three percentage points above the federal funds rate.
+The difference: the federal funds rate is between banks, the prime rate is a base for loans to customers.
+Many credit cards and home equity lines are priced as prime plus a margin.
+It matters because a Fed move usually reaches variable-rate loans quickly.
+Fed funds is the wholesale price. Prime is the retail starting point.
