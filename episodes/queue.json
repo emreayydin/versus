@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Beneficiary vs Executor",
-    "Delta vs Theta",
-    "Month-to-month vs Fixed-term lease",
     "Rebalancing vs Buy and hold",
     "Cash vs Card",
     "Emerging markets vs Developed markets",
@@ -237,6 +234,9 @@
     "lottery-lump-sum-vs-annuity",
     "reit-vs-rental-property",
     "price-match-vs-price-adjustment",
-    "federal-funds-rate-vs-prime-rate"
+    "federal-funds-rate-vs-prime-rate",
+    "beneficiary-vs-executor",
+    "delta-vs-theta",
+    "month-to-month-vs-fixed-term-lease"
   ]
 }

@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "month-to-month-vs-fixed-term-lease",
+  "thema": "Month-to-month vs Fixed-term lease",
+  "begriffe": [
+    "Month-to-month",
+    "Fixed-term lease"
+  ],
+  "ueberschrift": "Month-to-Month vs Fixed Lease",
+  "titel": "Month-to-month vs Fixed-term lease - What's the Difference?",
+  "beschreibung": "Month-to-month versus fixed-term lease: flexibility for tenants and landlords versus locked-in rent.\n\n#shorts #renting #lease #housing #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Month-to-month",
+    "Fixed-term lease",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#renting",
+    "#lease",
+    "#housing",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "flexible or locked",
+    "zahl": null,
+    "icon": "haus"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "12 MONTHS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "MONTHLY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

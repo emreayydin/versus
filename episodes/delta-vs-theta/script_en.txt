@@ -1,0 +1,10 @@
+An option can lose money even when the stock does nothing. Two Greek letters explain why.
+They measure two different forces on the price.
+Delta shows how much an option's price moves when the stock moves one dollar.
+A delta of zero point five means the option gains about fifty cents per dollar the stock rises.
+Theta shows how much value an option loses each day just from time passing.
+A theta of minus five cents means about five cents less value per day, all else equal.
+The difference: delta measures sensitivity to the stock price, theta measures the cost of time.
+Time decay usually speeds up as the expiration date gets close.
+It matters because an option buyer needs the move to come soon enough.
+Delta is about direction. Theta is the clock ticking against the buyer.
