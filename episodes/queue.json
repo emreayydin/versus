@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Rebalancing vs Buy and hold",
-    "Cash vs Card",
     "Emerging markets vs Developed markets",
     "ATM fee vs Foreign transaction fee",
     "Leveraged ETF vs Regular ETF",
@@ -237,6 +235,8 @@
     "federal-funds-rate-vs-prime-rate",
     "beneficiary-vs-executor",
     "delta-vs-theta",
-    "month-to-month-vs-fixed-term-lease"
+    "month-to-month-vs-fixed-term-lease",
+    "rebalancing-vs-buy-and-hold",
+    "cash-vs-card"
   ]
 }
