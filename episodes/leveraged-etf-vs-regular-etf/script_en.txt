@@ -1,0 +1,10 @@
+An index rises ten percent over a month. A two times leveraged fund can still miss twenty.
+The reason is a single word: daily.
+A regular ETF simply tracks an index, so it moves up and down with it.
+A leveraged ETF uses borrowing or derivatives to multiply the index's daily move, for example by two.
+Up ten percent then down ten percent leaves the index at ninety-nine.
+The two times fund goes up twenty then down twenty, and ends at ninety-six.
+The difference: a regular ETF tracks the index over time, a leveraged ETF only multiplies each single day.
+In choppy markets, this daily reset slowly eats into returns.
+It matters because leveraged funds are built for short holding periods.
+A regular ETF follows the road. A leveraged ETF follows it day by day, with a magnifying glass.

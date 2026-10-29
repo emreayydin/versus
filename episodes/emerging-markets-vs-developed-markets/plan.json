@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "emerging-markets-vs-developed-markets",
+  "thema": "Emerging markets vs Developed markets",
+  "begriffe": [
+    "Emerging markets",
+    "Developed markets"
+  ],
+  "ueberschrift": "Emerging vs Developed",
+  "titel": "Emerging markets vs Developed markets - What's the Difference?",
+  "beschreibung": "Emerging markets versus developed markets: growth potential versus stability, and the role of currency risk.\n\n#shorts #globalmarkets #emergingmarkets #economics #investing101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Emerging markets",
+    "Developed markets",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#globalmarkets",
+    "#emergingmarkets",
+    "#economics",
+    "#investing101"
+  ],
+  "thumbnail": {
+    "zeile": "growth vs stability",
+    "zahl": null,
+    "icon": "kurve"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "DEVELOPED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "EMERGING",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

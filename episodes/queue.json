@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Emerging markets vs Developed markets",
-    "ATM fee vs Foreign transaction fee",
-    "Leveraged ETF vs Regular ETF",
     "Premium vs Deductible",
     "Currency peg vs Floating exchange rate",
     "Savings bond vs Treasury bill",
@@ -237,6 +234,9 @@
     "delta-vs-theta",
     "month-to-month-vs-fixed-term-lease",
     "rebalancing-vs-buy-and-hold",
-    "cash-vs-card"
+    "cash-vs-card",
+    "emerging-markets-vs-developed-markets",
+    "atm-fee-vs-foreign-transaction-fee",
+    "leveraged-etf-vs-regular-etf"
   ]
 }

@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "leveraged-etf-vs-regular-etf",
+  "thema": "Leveraged ETF vs Regular ETF",
+  "begriffe": [
+    "Leveraged ETF",
+    "Regular ETF"
+  ],
+  "ueberschrift": "Leveraged vs Regular ETF",
+  "titel": "Leveraged ETF vs Regular ETF - What's the Difference?",
+  "beschreibung": "Leveraged ETF versus regular ETF: why daily resetting means a 2x fund does not double the long-term return.\n\n#shorts #etf #leverage #investing101 #risk\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Leveraged ETF",
+    "Regular ETF",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#etf",
+    "#leverage",
+    "#investing101",
+    "#risk"
+  ],
+  "thumbnail": {
+    "zeile": "daily multiplier",
+    "zahl": null,
+    "icon": "hoch"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "1X",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "2X",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          99,
+          96
+        ],
+        "achse": [
+          "regular",
+          "2x"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
