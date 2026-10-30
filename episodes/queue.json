@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Premium vs Deductible",
-    "Currency peg vs Floating exchange rate",
     "Savings bond vs Treasury bill",
     "Stop-loss vs Stop-limit",
     "Pawn loan vs Title loan",
@@ -237,6 +235,8 @@
     "cash-vs-card",
     "emerging-markets-vs-developed-markets",
     "atm-fee-vs-foreign-transaction-fee",
-    "leveraged-etf-vs-regular-etf"
+    "leveraged-etf-vs-regular-etf",
+    "premium-vs-deductible",
+    "currency-peg-vs-floating-exchange-rate"
   ]
 }
