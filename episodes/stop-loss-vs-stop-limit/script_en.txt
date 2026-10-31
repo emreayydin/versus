@@ -1,0 +1,10 @@
+A stock drops fast overnight. One order gets you out, the other might leave you stuck.
+Both are meant to limit losses.
+A stop-loss order turns into a market order once the price hits your stop.
+You get out, but possibly at a worse price if the stock gaps down.
+A stop-limit order turns into a limit order at your stop, with a minimum price you accept.
+If the price falls below that limit before filling, the order may not execute at all.
+The difference: a stop-loss guarantees an exit, a stop-limit guarantees a minimum price.
+Neither one protects against every situation in a fast market.
+It matters most for stocks that can jump on news.
+A stop-loss says get me out. A stop-limit says get me out, but not below this.

@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "pawn-loan-vs-title-loan",
+  "thema": "Pawn loan vs Title loan",
+  "begriffe": [
+    "Pawn loan",
+    "Title loan"
+  ],
+  "ueberschrift": "Pawn loan vs Title loan",
+  "titel": "Pawn loan vs Title loan - What's the Difference?",
+  "beschreibung": "Pawn loan versus title loan: what you put up as security, what you can lose and why costs are high.\n\n#shorts #loans #debt #moneybasics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Pawn loan",
+    "Title loan",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#loans",
+    "#debt",
+    "#moneybasics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "what you put up",
+    "zahl": null,
+    "icon": "schere"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "PAWN",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "TITLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

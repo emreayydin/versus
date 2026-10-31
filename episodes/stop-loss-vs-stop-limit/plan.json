@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "stop-loss-vs-stop-limit",
+  "thema": "Stop-loss vs Stop-limit",
+  "begriffe": [
+    "Stop-loss",
+    "Stop-limit"
+  ],
+  "ueberschrift": "Stop-loss vs Stop-limit",
+  "titel": "Stop-loss vs Stop-limit - What's the Difference?",
+  "beschreibung": "Stop-loss versus stop-limit orders: a guaranteed exit versus a guaranteed minimum price. Educational only.\n\n#shorts #trading101 #stockmarket #orders #risk\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Stop-loss",
+    "Stop-limit",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#trading101",
+    "#stockmarket",
+    "#orders",
+    "#risk"
+  ],
+  "thumbnail": {
+    "zeile": "exit vs price floor",
+    "zahl": null,
+    "icon": "runter"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "STOP",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "LIMIT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

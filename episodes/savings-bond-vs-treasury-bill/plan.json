@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "savings-bond-vs-treasury-bill",
+  "thema": "Savings bond vs Treasury bill",
+  "begriffe": [
+    "Savings bond",
+    "Treasury bill"
+  ],
+  "ueberschrift": "Savings bond vs Treasury bill",
+  "titel": "Savings bond vs Treasury bill - What's the Difference?",
+  "beschreibung": "Savings bond versus Treasury bill: two kinds of US government debt for different time horizons.\n\n#shorts #bonds #treasury #savings #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Savings bond",
+    "Treasury bill",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#bonds",
+    "#treasury",
+    "#savings",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "short vs long",
+    "zahl": null,
+    "icon": "bank"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "T-BILL",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "SAVINGS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Savings bond vs Treasury bill",
-    "Stop-loss vs Stop-limit",
-    "Pawn loan vs Title loan",
     "Equal weight vs Market-cap weight",
     "Rent-to-own vs Buying",
     "Fixed annuity vs Variable annuity",
@@ -237,6 +234,9 @@
     "atm-fee-vs-foreign-transaction-fee",
     "leveraged-etf-vs-regular-etf",
     "premium-vs-deductible",
-    "currency-peg-vs-floating-exchange-rate"
+    "currency-peg-vs-floating-exchange-rate",
+    "savings-bond-vs-treasury-bill",
+    "stop-loss-vs-stop-limit",
+    "pawn-loan-vs-title-loan"
   ]
 }
