@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "sovereign-debt-vs-corporate-debt",
+  "thema": "Sovereign debt vs Corporate debt",
+  "begriffe": [
+    "Sovereign debt",
+    "Corporate debt"
+  ],
+  "ueberschrift": "Sovereign vs Corporate Debt",
+  "titel": "Sovereign debt vs Corporate debt - What's the Difference?",
+  "beschreibung": "Sovereign debt versus corporate debt: who borrows, what backs the debt and what happens after a default.\n\n#shorts #debt #bonds #economics #finance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Sovereign debt",
+    "Corporate debt",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#debt",
+    "#bonds",
+    "#economics",
+    "#finance"
+  ],
+  "thumbnail": {
+    "zeile": "country or company",
+    "zahl": null,
+    "icon": "bank"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "COUNTRY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "COMPANY",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
