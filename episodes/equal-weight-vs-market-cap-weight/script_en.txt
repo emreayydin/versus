@@ -1,0 +1,10 @@
+In some indexes, a handful of giant companies decide most of the result.
+Whether that happens depends on how the index is weighted.
+Market-cap weight means each company counts by its total market value.
+The biggest companies have the biggest influence on the index.
+Equal weight gives every company the same share, regardless of size.
+In an equal weight version of the S&P 500, each company starts at about zero point two percent.
+The difference: market-cap weight follows the giants, equal weight spreads influence evenly.
+Equal weight needs regular rebalancing, which can mean more trading costs.
+It matters in years when a few large companies drive most of the gains.
+Market-cap weight is ruled by size. Equal weight gives everyone one vote.
