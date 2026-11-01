@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "overtime-pay-vs-comp-time",
+  "thema": "Overtime pay vs Comp time",
+  "begriffe": [
+    "Overtime pay",
+    "Comp time"
+  ],
+  "ueberschrift": "Overtime pay vs Comp time",
+  "titel": "Overtime pay vs Comp time - What's the Difference?",
+  "beschreibung": "Overtime pay versus comp time: extra money versus time off later, and the basic US rules. Not legal advice.\n\n#shorts #work #overtime #salary #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Overtime pay",
+    "Comp time",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#work",
+    "#overtime",
+    "#salary",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "money or hours",
+    "zahl": null,
+    "icon": "uhr"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "OVERTIME",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "TIME OFF",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

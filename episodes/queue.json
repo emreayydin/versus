@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Short loan vs Long loan",
-    "Asset allocation vs Diversification",
-    "Overtime pay vs Comp time",
     "TIPS vs Regular Treasury",
     "Strike price vs Market price",
     "Credit rating vs Credit score",
@@ -237,6 +234,9 @@
     "rent-to-own-vs-buying",
     "fixed-annuity-vs-variable-annuity",
     "homeowners-association-fee-vs-property-tax",
-    "sovereign-debt-vs-corporate-debt"
+    "sovereign-debt-vs-corporate-debt",
+    "short-loan-vs-long-loan",
+    "asset-allocation-vs-diversification",
+    "overtime-pay-vs-comp-time"
   ]
 }
