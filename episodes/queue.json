@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Rent-to-own vs Buying",
-    "Fixed annuity vs Variable annuity",
-    "Homeowners association fee vs Property tax",
     "Sovereign debt vs Corporate debt",
     "Short loan vs Long loan",
     "Asset allocation vs Diversification",
@@ -237,6 +234,9 @@
     "savings-bond-vs-treasury-bill",
     "stop-loss-vs-stop-limit",
     "pawn-loan-vs-title-loan",
-    "equal-weight-vs-market-cap-weight"
+    "equal-weight-vs-market-cap-weight",
+    "rent-to-own-vs-buying",
+    "fixed-annuity-vs-variable-annuity",
+    "homeowners-association-fee-vs-property-tax"
   ]
 }

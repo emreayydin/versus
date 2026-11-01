@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "fixed-annuity-vs-variable-annuity",
+  "thema": "Fixed annuity vs Variable annuity",
+  "begriffe": [
+    "Fixed annuity",
+    "Variable annuity"
+  ],
+  "ueberschrift": "Fixed vs Variable Annuity",
+  "titel": "Fixed annuity vs Variable annuity - What's the Difference?",
+  "beschreibung": "Fixed annuity versus variable annuity: guaranteed rates versus market-linked payouts and higher fees. Not advice.\n\n#shorts #retirement #annuity #insurance #finance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Fixed annuity",
+    "Variable annuity",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#retirement",
+    "#annuity",
+    "#insurance",
+    "#finance"
+  ],
+  "thumbnail": {
+    "zeile": "promised vs market",
+    "zahl": null,
+    "icon": "kurve"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "FIXED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "VARIABLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
