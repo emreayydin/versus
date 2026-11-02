@@ -1,0 +1,10 @@
+Two government bonds pay similar interest. Only one grows when prices at the store go up.
+That one feature changes how they behave.
+A regular Treasury bond pays a fixed amount of interest on a fixed face value.
+If inflation rises sharply, those fixed payments buy less and less.
+TIPS, Treasury inflation-protected securities, adjust their face value with inflation.
+A thousand dollar TIPS becomes one thousand fifty after five percent inflation, and interest grows with it.
+The difference: a regular Treasury pays fixed dollars, TIPS adjust the dollars for inflation.
+In return, TIPS usually pay a lower stated interest rate.
+It matters most when inflation turns out higher than expected.
+A regular Treasury promises dollars. TIPS promise buying power.

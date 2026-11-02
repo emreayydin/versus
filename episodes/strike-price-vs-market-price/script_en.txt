@@ -1,0 +1,10 @@
+An option contract fixes one price for the future, while the real price keeps moving.
+The gap between them is where an option's value comes from.
+The strike price is the fixed price at which the option lets you buy or sell the stock.
+It is set when the contract is created and does not change.
+The market price is what the stock trades for right now.
+A right to buy at fifty is worth more when the market price is seventy.
+The difference: the strike is the agreed price, the market price is the live price.
+Option buyers pay a premium for that right, which they can lose entirely.
+It matters because the option only makes sense relative to where the market is.
+The strike is the line in the sand. The market price is the tide moving around it.

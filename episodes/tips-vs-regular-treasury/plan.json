@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "tips-vs-regular-treasury",
+  "thema": "TIPS vs Regular Treasury",
+  "begriffe": [
+    "TIPS",
+    "Regular Treasury"
+  ],
+  "ueberschrift": "TIPS vs Regular Treasury",
+  "titel": "TIPS vs Regular Treasury - What's the Difference?",
+  "beschreibung": "TIPS versus regular Treasury bonds: fixed payments versus inflation-adjusted principal.\n\n#shorts #bonds #inflation #tips #fixedincome\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "TIPS",
+    "Regular Treasury",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#bonds",
+    "#inflation",
+    "#tips",
+    "#fixedincome"
+  ],
+  "thumbnail": {
+    "zeile": "inflation shield",
+    "zahl": null,
+    "icon": "korb"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "FIXED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "TIPS",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          1000,
+          1050
+        ],
+        "achse": [
+          "start",
+          "after 5% inflation"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
