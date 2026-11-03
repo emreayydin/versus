@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Tax-loss harvesting vs Wash sale",
-    "Value at risk vs Standard deviation",
-    "Shrinkflation vs Inflation",
     "Discount rate vs Interest rate",
     "Gift card vs Store credit",
     "Short squeeze vs Margin call",
@@ -237,6 +234,9 @@
     "strike-price-vs-market-price",
     "credit-rating-vs-credit-score",
     "market-maker-vs-broker",
-    "50-30-20-rule-vs-zero-based-budget"
+    "50-30-20-rule-vs-zero-based-budget",
+    "tax-loss-harvesting-vs-wash-sale",
+    "value-at-risk-vs-standard-deviation",
+    "shrinkflation-vs-inflation"
   ]
 }

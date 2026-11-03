@@ -1,0 +1,10 @@
+Two risk numbers for the same portfolio. One talks about normal days, one about bad ones.
+Banks use both, and they answer different questions.
+Standard deviation measures how far returns usually spread around their average, up and down.
+A high number just means the value swings a lot, in both directions.
+Value at risk gives one loss figure for a given chance and time period.
+A one day value at risk of ten thousand at ninety five percent: on most days, losses stay below that.
+The difference: standard deviation describes typical swings, value at risk puts a number on a bad day.
+But value at risk says nothing about how bad the other five days can get.
+That blind spot was widely criticized after the two thousand eight crisis.
+Standard deviation shows how bumpy it is. Value at risk shows where the bad days start.

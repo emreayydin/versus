@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "shrinkflation-vs-inflation",
+  "thema": "Shrinkflation vs Inflation",
+  "begriffe": [
+    "Shrinkflation",
+    "Inflation"
+  ],
+  "ueberschrift": "Shrinkflation vs Inflation",
+  "titel": "Shrinkflation vs Inflation - What's the Difference?",
+  "beschreibung": "Shrinkflation versus inflation: a smaller pack at the same price versus a general rise in prices, with a per-gram example.\n\n#shorts #inflation #shrinkflation #groceries #economics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Shrinkflation",
+    "Inflation",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#inflation",
+    "#shrinkflation",
+    "#groceries",
+    "#economics"
+  ],
+  "thumbnail": {
+    "zeile": "same price, less",
+    "zahl": "11%",
+    "icon": "korb"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "INFLATION",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": "SHRINKFLATION",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          200,
+          180
+        ],
+        "achse": [
+          "before",
+          "after"
+        ],
+        "einheit": "g"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

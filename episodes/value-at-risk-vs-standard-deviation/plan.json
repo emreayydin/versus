@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "value-at-risk-vs-standard-deviation",
+  "thema": "Value at risk vs Standard deviation",
+  "begriffe": [
+    "Value at risk",
+    "Standard deviation"
+  ],
+  "ueberschrift": "Value at risk vs Standard deviation",
+  "titel": "Value at risk vs Standard deviation - What's the Difference?",
+  "beschreibung": "Value at risk versus standard deviation: typical swings versus a loss threshold for bad days, and the blind spot of VaR.\n\n#shorts #risk #valueatrisk #finance101 #investing101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Value at risk",
+    "Standard deviation",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#risk",
+    "#valueatrisk",
+    "#finance101",
+    "#investing101"
+  ],
+  "thumbnail": {
+    "zeile": "typical vs bad day",
+    "zahl": null,
+    "icon": "runter"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": "SPREAD",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "VAR",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.3,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}
