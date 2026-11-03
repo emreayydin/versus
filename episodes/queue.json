@@ -1,6 +1,5 @@
 {
   "offen": [
-    "50/30/20 rule vs Zero-based budget",
     "Tax-loss harvesting vs Wash sale",
     "Value at risk vs Standard deviation",
     "Shrinkflation vs Inflation",
@@ -237,6 +236,7 @@
     "tips-vs-regular-treasury",
     "strike-price-vs-market-price",
     "credit-rating-vs-credit-score",
-    "market-maker-vs-broker"
+    "market-maker-vs-broker",
+    "50-30-20-rule-vs-zero-based-budget"
   ]
 }

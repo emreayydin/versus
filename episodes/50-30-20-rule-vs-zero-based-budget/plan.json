@@ -1,0 +1,125 @@
+{
+  "version": 2,
+  "slug": "50-30-20-rule-vs-zero-based-budget",
+  "thema": "50/30/20 rule vs Zero-based budget",
+  "begriffe": [
+    "50/30/20 rule",
+    "Zero-based budget"
+  ],
+  "ueberschrift": "50/30/20 vs Zero-Based",
+  "titel": "50/30/20 rule vs Zero-based budget - What's the Difference?",
+  "beschreibung": "The 50/30/20 rule versus a zero-based budget: three simple buckets versus planning every dollar.\n\n#shorts #budgeting #personalfinance #saving #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "50/30/20 rule",
+    "Zero-based budget",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#budgeting",
+    "#personalfinance",
+    "#saving",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "rough or exact",
+    "zahl": null,
+    "icon": "korb"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          50,
+          30,
+          20
+        ],
+        "achse": [
+          "needs",
+          "wants",
+          "saving"
+        ],
+        "einheit": "%"
+      },
+      "wort": "50/30/20",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": "ZERO",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
