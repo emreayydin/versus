@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "credit-rating-vs-credit-score",
+  "thema": "Credit rating vs Credit score",
+  "begriffe": [
+    "Credit rating",
+    "Credit score"
+  ],
+  "ueberschrift": "Credit rating vs Credit score",
+  "titel": "Credit rating vs Credit score - What's the Difference?",
+  "beschreibung": "Credit rating versus credit score: letter grades for governments and companies versus numbers for individuals.\n\n#shorts #credit #creditscore #bonds #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Credit rating",
+    "Credit score",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#credit",
+    "#creditscore",
+    "#bonds",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "companies vs people",
+    "zahl": null,
+    "icon": "prozent"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "AAA",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": "SCORE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

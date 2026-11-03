@@ -1,0 +1,10 @@
+When you click buy, someone has to sell. Usually it is not another regular investor.
+Two players make the trade happen.
+A broker is the firm that takes your order and sends it to the market for you.
+It acts on your behalf and may charge a fee or earn money in other ways.
+A market maker stands ready to buy and sell a stock all day, quoting both prices.
+It earns small amounts from the gap between the buying and selling price.
+The difference: the broker represents you, the market maker trades with you.
+Some brokers are paid by market makers for sending them orders, which is called payment for order flow.
+It matters because who executes your order can affect the price you get.
+The broker is your messenger. The market maker is the shop on the other side.

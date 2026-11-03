@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Credit rating vs Credit score",
-    "Market maker vs Broker",
     "50/30/20 rule vs Zero-based budget",
     "Tax-loss harvesting vs Wash sale",
     "Value at risk vs Standard deviation",
@@ -237,6 +235,8 @@
     "asset-allocation-vs-diversification",
     "overtime-pay-vs-comp-time",
     "tips-vs-regular-treasury",
-    "strike-price-vs-market-price"
+    "strike-price-vs-market-price",
+    "credit-rating-vs-credit-score",
+    "market-maker-vs-broker"
   ]
 }
