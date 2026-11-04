@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Discount rate vs Interest rate",
-    "Gift card vs Store credit",
     "Short squeeze vs Margin call",
     "Unit price vs Sticker price",
     "Swap vs Option",
@@ -237,6 +235,8 @@
     "50-30-20-rule-vs-zero-based-budget",
     "tax-loss-harvesting-vs-wash-sale",
     "value-at-risk-vs-standard-deviation",
-    "shrinkflation-vs-inflation"
+    "shrinkflation-vs-inflation",
+    "discount-rate-vs-interest-rate",
+    "gift-card-vs-store-credit"
   ]
 }

@@ -1,0 +1,9 @@
+Same percentage, opposite direction. One makes money bigger, one makes it smaller.
+Here is how two rates that look alike are used.
+An interest rate is what a borrower pays for using money, so today's money grows into the future.
+Lend one hundred dollars at ten percent, and one hundred ten comes back in a year.
+A discount rate runs the other way. It turns future money into what it is worth today.
+At ten percent, one hundred ten dollars promised in a year is worth one hundred today.
+The difference: an interest rate grows money forward, a discount rate shrinks future money back to today.
+In central banking, the discount rate also names the rate the Fed charges banks for short loans.
+Interest tells you what money becomes. Discounting tells you what a promise is worth now.
