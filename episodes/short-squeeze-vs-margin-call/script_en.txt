@@ -1,0 +1,10 @@
+Both force traders to act when they least want to. Only one is aimed at short sellers.
+They often show up in the same headlines.
+A margin call comes from your broker when your account falls below the required minimum.
+You must add money or sell positions, or the broker can sell them for you.
+A short squeeze happens when a heavily shorted stock rises fast.
+Short sellers rush to buy back shares to limit losses, and that buying pushes the price even higher.
+The difference: a margin call is a demand from your broker, a short squeeze is a chain reaction in the market.
+In January twenty twenty one, GameStop shares jumped over a thousand percent in weeks during a squeeze.
+Margin calls on short sellers can feed a squeeze, so one can trigger the other.
+A margin call is a letter from your broker. A short squeeze is the whole market pushing back.

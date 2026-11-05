@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "slug": "unit-price-vs-sticker-price",
+  "thema": "Unit price vs Sticker price",
+  "begriffe": [
+    "Unit price",
+    "Sticker price"
+  ],
+  "ueberschrift": "Unit price vs Sticker price",
+  "titel": "Unit price vs Sticker price - What's the Difference?",
+  "beschreibung": "Unit price versus sticker price: why the bigger pack is not always cheaper, with a per-ounce example.\n\n#shorts #groceries #shopping #saving #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Unit price",
+    "Sticker price",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#groceries",
+    "#shopping",
+    "#saving",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "bigger isn't cheaper",
+    "zahl": null,
+    "icon": "korb"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": "STICKER",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": null,
+      "wort": "UNIT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "prozent",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          25,
+          27
+        ],
+        "achse": [
+          "small pack",
+          "big pack"
+        ],
+        "einheit": "cents"
+      },
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Short squeeze vs Margin call",
-    "Unit price vs Sticker price",
-    "Swap vs Option",
     "Intrinsic value vs Market value"
   ],
   "used": [
@@ -237,6 +234,9 @@
     "value-at-risk-vs-standard-deviation",
     "shrinkflation-vs-inflation",
     "discount-rate-vs-interest-rate",
-    "gift-card-vs-store-credit"
+    "gift-card-vs-store-credit",
+    "short-squeeze-vs-margin-call",
+    "unit-price-vs-sticker-price",
+    "swap-vs-option"
   ]
 }
