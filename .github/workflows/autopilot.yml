@@ -59,7 +59,12 @@ jobs:
     timeout-minutes: 120
 
     steps:
+      # ref: main statt des Ausloese-Commits: Ein Lauf, der in der
+      # concurrency-Gruppe wartet, saehe sonst den Stand von VOR dem
+      # vorigen Lauf - am 01.11. lud Lauf 628 deshalb drei Folgen doppelt.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - uses: actions/setup-node@v4
         with:
@@ -122,16 +127,30 @@ jobs:
               continue
             fi
             SLUG=$(./venv/bin/python -c "import json,pathlib; print(json.loads(pathlib.Path('episodes/queue.json').read_text())['used'][-1])")
-            ./venv/bin/python scripts/make_episode.py --episode "$SLUG" --lang en
-            ./venv/bin/python scripts/publish.py --episode "$SLUG" --lang en \
-              --publish --privacy "$PRIVACY"
+            # Bricht eine Folge ab (01.11.: ZeroDivisionError), geht es mit
+            # der naechsten weiter. Vorher beendete set -e den ganzen Schritt
+            # VOR day_guard --mark, und die schon hochgeladenen Folgen
+            # zaehlten nicht - der naechste Lauf lud eine zweite Tagesration.
+            if ! ./venv/bin/python scripts/make_episode.py --episode "$SLUG" --lang en; then
+              echo "Produktion von $SLUG fehlgeschlagen, weiter" >&2
+              continue
+            fi
+            if ! ./venv/bin/python scripts/publish.py --episode "$SLUG" --lang en \
+              --publish --privacy "$PRIVACY"; then
+              echo "Upload von $SLUG fehlgeschlagen, weiter" >&2
+              continue
+            fi
             GESCHAFFT=$((GESCHAFFT + 1))
+            # Tag sofort nach dem ersten Upload sperren, nicht erst am Ende.
+            if [ "$GESCHAFFT" -eq 1 ]; then
+              ./venv/bin/python scripts/day_guard.py --mark
+            fi
           done
           # Nur abhaken, wenn wirklich etwas hochgeladen wurde. Am 09.09.
           # Früher fiel jedes Thema bei einem Textdienst-Fehler aus. Der
           # lokale Generator hält den Lauf jetzt auch ohne API-Guthaben offen.
           if [ "$GESCHAFFT" -gt 0 ]; then
-            ./venv/bin/python scripts/day_guard.py --mark
+            echo "$GESCHAFFT Folge(n) veroeffentlicht."
           else
             echo "Keine einzige Folge veroeffentlicht - Tag bleibt offen." >&2
             exit 1

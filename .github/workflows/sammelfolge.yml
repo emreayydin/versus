@@ -50,7 +50,12 @@ jobs:
     timeout-minutes: 90
 
     steps:
+      # ref: main statt des Ausloese-Commits: Ein Lauf, der in der
+      # concurrency-Gruppe wartet, saehe sonst den Stand von VOR dem
+      # vorigen Lauf - am 01.11. lud Lauf 628 deshalb drei Folgen doppelt.
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - uses: actions/setup-node@v4
         with:
           node-version: "22"

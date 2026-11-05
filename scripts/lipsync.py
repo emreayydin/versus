@@ -163,6 +163,11 @@ def build_visemes(words: list[dict], lang: str) -> list[dict]:
             track.append({"viseme": REST, "start": prev_end, "end": start})
 
         shapes = collapse(syllable_visemes(w["word"], lang))
+        # Woerter ohne Buchstaben ("-", "/", Ziffernreste) liefern keine
+        # Mundform; ohne Ersatz teilte die Zeile unten durch null (01.11.,
+        # equal-weight-vs-market-cap-weight).
+        if not shapes:
+            shapes = [REST]
         span = max(end - start, 0.03)
 
         max_shapes = max(1, int(span / MIN_VISEME_S))

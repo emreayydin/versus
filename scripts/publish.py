@@ -24,6 +24,7 @@ Bremse nicht.
 """
 
 import argparse
+import datetime
 import json
 import os
 import pathlib
@@ -145,6 +146,16 @@ def main():
     print(f"  Titel : {plan['titel']}")
     print(f"  Tags  : {', '.join(plan.get('tags', [])[:6])}")
 
+    # Sicherheitsnetz gegen Doppel-Uploads: Jede hochgeladene Folge hinterlegt
+    # ihre Video-ID neben plan.json. Steht dort schon eine, wird nicht noch
+    # einmal hochgeladen - egal, welcher Lauf mit welchem Stand es versucht.
+    marke = plan_datei.parent / f"published_{args.lang}.json"
+    if marke.exists():
+        alt = json.loads(marke.read_text(encoding="utf-8"))
+        print(f"\nSCHON VEROEFFENTLICHT: https://youtu.be/{alt.get('video_id')} "
+              f"({alt.get('zeit')}) - kein zweiter Upload.")
+        sys.exit(3)
+
     if not args.publish:
         print("\nTrockenlauf beendet. Mit --publish wirklich hochladen.")
         return
@@ -153,6 +164,12 @@ def main():
         bild = ROOT / "out" / f"{args.episode}.png"
         vid = upload(args.lang, video, plan, args.privacy, bild)
         print(f"  -> hochgeladen: https://youtu.be/{vid}")
+        marke.write_text(json.dumps({
+            "video_id": vid,
+            "titel": plan.get("titel"),
+            "privacy": args.privacy,
+            "zeit": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
+        }, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     except Exception as exc:
         print(f"  -> FEHLER: {exc}")
         sys.exit(1)
