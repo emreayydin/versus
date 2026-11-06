@@ -1,7 +1,5 @@
 {
-  "offen": [
-    "Intrinsic value vs Market value"
-  ],
+  "offen": [],
   "used": [
     "stocks-vs-bonds",
     "saving-vs-investing",
@@ -237,6 +235,7 @@
     "gift-card-vs-store-credit",
     "short-squeeze-vs-margin-call",
     "unit-price-vs-sticker-price",
-    "swap-vs-option"
+    "swap-vs-option",
+    "intrinsic-value-vs-market-value"
   ]
 }
