@@ -7,6 +7,9 @@ MELDEN="/usr/bin/python3 /Users/emre.cya/Projects/kanal-waechter/melden.py"
 AUSGABE=$(/Users/emre.cya/Projects/youtube-shorts-bot/venv/bin/python -u scripts/dubletten_privat.py 2>&1)
 CODE=$?
 echo "=== $(date '+%F %T') (exit $CODE)"; echo "$AUSGABE"
+if [ $CODE -ne 0 ] && echo "$AUSGABE" | grep -q "quotaExceeded"; then
+  echo "Kontingent heute aufgebraucht, morgen weiter."; exit 0
+fi
 if [ $CODE -ne 0 ]; then
   $MELDEN --wichtig "Dubletten-Skript fehlgeschlagen" "$(echo "$AUSGABE" | tail -3)"
   exit $CODE
