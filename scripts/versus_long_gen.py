@@ -575,6 +575,13 @@ def lade_queue():
     return {"offen": list(SEED), "used": []}
 
 
+def schreibe_queue(q):
+    QUEUE.parent.mkdir(parents=True, exist_ok=True)
+    QUEUE.write_text(
+        json.dumps(q, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
+
+
 def schreibe(folge, thema):
     slug = slugify(thema)
     ordner = EPISODES / slug
