@@ -1,0 +1,20 @@
+Under taxes and costs, Call option and Put option answer different questions.
+Call option starts with one set of rules, while Put option starts with another.
+The taxes and costs question looks at the first cost structure for Call option.
+For Put option, the same question looks at a different cost structure.
+That distinction matters because familiar labels can hide the mechanism.
+An example makes the relationship easier to follow.
+With Call option, the first side of the comparison sets the starting point.
+With Put option, the second side sets a different starting point.
+Neither label becomes more useful merely because it sounds familiar.
+The words Call option and Put option describe different positions in the same map.
+A clear map separates the terms before it compares their effects.
+If the question changes, Call option and Put option can lead to different answers.
+That is why a single number cannot tell the whole story.
+The first term, Call option, needs its own explanation.
+The second term, Put option, needs its own explanation too.
+Keeping both explanations visible prevents a false shortcut.
+In practice, Call option may appear beside Put option without being the same thing.
+The comparison works best when the wording stays precise.
+A viewer can then see where Call option ends and Put option begins.
+The next section can build on that boundary without changing it.
