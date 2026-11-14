@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Alpha vs Beta",
     "Gross vs Net",
     "Duration vs Maturity",
     "Margin vs Leverage",
@@ -31,6 +30,7 @@
     "liquidity-vs-solvency",
     "salary-vs-hourly-wage",
     "call-option-vs-put-option",
-    "bond-yield-vs-bond-price"
+    "bond-yield-vs-bond-price",
+    "alpha-vs-beta"
   ]
 }
