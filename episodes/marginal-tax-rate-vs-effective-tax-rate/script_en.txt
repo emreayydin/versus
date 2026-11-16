@@ -1,0 +1,10 @@
+A raise into a higher tax bracket does not shrink your paycheck. Here is why.
+Two tax rates hide in every tax bill, and people mix them up all the time.
+Your marginal tax rate is the rate on your last, highest dollar of income.
+Your effective tax rate is your total tax divided by your total income.
+Say the first forty thousand dollars is taxed at ten percent and the rest at twenty.
+On sixty thousand dollars that is four thousand plus four thousand, so eight thousand in tax.
+Your marginal rate is twenty percent, but your effective rate is only about thirteen.
+The difference: the marginal rate applies to the next dollar, the effective rate to all of them on average.
+Only the dollars above a bracket line get the higher rate, never the ones below it.
+The marginal rate tells you what a raise costs. The effective rate tells you what you really pay.

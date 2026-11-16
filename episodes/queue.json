@@ -1,5 +1,25 @@
 {
-  "offen": [],
+  "offen": [
+    "Available balance vs Current balance",
+    "Contango vs Backwardation",
+    "Money order vs Cashier's check",
+    "Bond premium vs Bond discount",
+    "Chargeback vs Refund",
+    "American option vs European option",
+    "Collision vs Comprehensive coverage",
+    "Open interest vs Trading volume",
+    "Standard deduction vs Itemized deduction",
+    "Callable bond vs Non-callable bond",
+    "Sales tax vs VAT",
+    "Beta vs Correlation",
+    "Authorized user vs Primary cardholder",
+    "Bond fund vs Individual bond",
+    "Expense ratio vs Load fee",
+    "Duration vs Convexity",
+    "Disposable income vs Discretionary income",
+    "Time value vs Intrinsic value",
+    "Personal loan vs Line of credit"
+  ],
   "used": [
     "stocks-vs-bonds",
     "saving-vs-investing",
@@ -236,6 +256,8 @@
     "short-squeeze-vs-margin-call",
     "unit-price-vs-sticker-price",
     "swap-vs-option",
-    "intrinsic-value-vs-market-value"
+    "intrinsic-value-vs-market-value",
+    "marginal-tax-rate-vs-effective-tax-rate",
+    "initial-margin-vs-maintenance-margin"
   ]
 }

@@ -1,0 +1,10 @@
+Borrowing to buy stock has two limits. The second one is where margin calls begin.
+Both are called margin, but they work at different moments.
+Initial margin is the share of the purchase you must pay with your own money.
+In the US it is usually fifty percent: buy ten thousand dollars of stock, put up five thousand.
+Maintenance margin is the minimum equity you must keep in the account afterwards.
+The rules set it at twenty five percent at least, and many brokers ask for more.
+With five thousand borrowed, a call comes if the stock falls below about six thousand seven hundred.
+The difference: initial margin is the entry ticket, maintenance margin is the floor you must stay above.
+Fall below the floor and you must add cash, or the broker can close the position for you.
+Initial margin gets you in. Maintenance margin decides how long you can stay.
