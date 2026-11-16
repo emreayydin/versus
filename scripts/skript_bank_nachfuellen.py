@@ -25,6 +25,31 @@ ZIEL = int(os.environ.get("SKRIPT_ZIEL", "21"))
 PRO_LAUF = int(os.environ.get("PRO_LAUF", "6"))
 MAX_THEMEN = 40
 
+# Eigener Themenvorrat fuer den Nachfueller (Kanal-Agent 16.11.2026): Die
+# Warteschlange war leer und local_versus.new_topics() lieferte nichts mehr,
+# daher lief dieser Workflow vom 07. bis 16.11. mit "0 neu, 0 verworfen",
+# ohne die KI ueberhaupt zu fragen. Abwechselnd Alltag / anspruchsvoll.
+# Nur hier, nicht in der Autopilot-Liste: ohne gepruefte Folge soll der
+# Autopilot nicht auf die blasse Vorlage ausweichen.
+THEMEN_VORRAT = [
+    "Home equity loan vs HELOC", "Credit spread vs Debit spread",
+    "Tax avoidance vs Tax evasion", "Treasury bill vs Treasury note",
+    "Coinsurance vs Copay", "Basis point vs Percentage point",
+    "Out-of-pocket maximum vs Deductible", "Zero-coupon bond vs Coupon bond",
+    "Defined benefit vs Defined contribution", "Straddle vs Strangle",
+    "Payroll tax vs Income tax", "Price-to-book vs Price-to-earnings",
+    "Actual cash value vs Replacement cost", "Annualized return vs Cumulative return",
+    "Severance pay vs Unemployment benefits", "Accrued interest vs Coupon payment",
+    "Money market account vs Money market fund", "Spot rate vs Forward rate",
+    "Biweekly pay vs Semimonthly pay", "Dark pool vs Stock exchange",
+    "Appraisal vs Home inspection", "Free float vs Shares outstanding",
+    "Estate tax vs Inheritance tax", "Repo rate vs Reverse repo rate",
+    "Surge pricing vs Price gouging", "Arithmetic mean return vs Geometric mean return",
+    "Chapter 7 vs Chapter 13 bankruptcy", "Vega vs Gamma",
+    "Interest-only mortgage vs Repayment mortgage", "Leveraged buyout vs Merger",
+    "Cash value vs Face value", "Sovereign wealth fund vs Pension fund",
+]
+
 ZUSATZ = """
 Additionally include "wikipedia": two exact English Wikipedia article titles
 that define the two terms, e.g. ["en:Bond duration", "en:Maturity (finance)"].
@@ -50,6 +75,10 @@ def main():
 
     themen = [t for t in dict.fromkeys(q["offen"])
               if v.slugify(t) not in benutzt and v.slugify(t) not in bank]
+    gesehen = {v.slugify(t) for t in themen}
+    themen += [t for t in THEMEN_VORRAT
+               if v.slugify(t) not in benutzt and v.slugify(t) not in bank
+               and v.slugify(t) not in gesehen]
     if len(themen) < fehlend * 2:
         try:
             themen += [t for t in v.neue_themen(q["offen"] + q["used"]) if v.slugify(t) not in bank]
