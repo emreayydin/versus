@@ -1,0 +1,10 @@
+Oil for next year can cost more than oil today. Sometimes it costs less.
+Traders have two odd words for those two situations.
+Contango means the futures price is higher than the spot price you pay today.
+If oil is seventy dollars now and a one year contract is seventy four, that is contango.
+It often reflects the cost of storing, insuring and financing the goods until later.
+Backwardation is the reverse: the future price is below today's price.
+It often shows up when supply is tight and buyers want the goods right now.
+The difference: in contango later costs more, in backwardation now costs more.
+Funds that keep rolling futures can lose money in contango even when the spot price stays flat.
+Contango prices in the cost of waiting. Backwardation prices in the need for now.

@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "contango-vs-backwardation",
+  "thema": "Contango vs Backwardation",
+  "begriffe": [
+    "Contango",
+    "Backwardation"
+  ],
+  "ueberschrift": "Contango vs Backwardation",
+  "titel": "Contango vs Backwardation - What's the Difference?",
+  "beschreibung": "Contango versus backwardation in futures markets: when future prices sit above or below today's spot price, and why.\n\n#shorts #futures #commodities #oil #finance101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Contango",
+    "Backwardation",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#futures",
+    "#commodities",
+    "#oil",
+    "#finance101"
+  ],
+  "thumbnail": {
+    "zeile": "future above or below",
+    "zahl": null,
+    "icon": "kurve"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "CONTANGO",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          70,
+          74
+        ],
+        "achse": [
+          "today",
+          "in a year"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "BACKWARDATION",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Available balance vs Current balance",
-    "Contango vs Backwardation",
-    "Money order vs Cashier's check",
     "Bond premium vs Bond discount",
     "Chargeback vs Refund",
     "American option vs European option",
@@ -258,6 +255,9 @@
     "swap-vs-option",
     "intrinsic-value-vs-market-value",
     "marginal-tax-rate-vs-effective-tax-rate",
-    "initial-margin-vs-maintenance-margin"
+    "initial-margin-vs-maintenance-margin",
+    "available-balance-vs-current-balance",
+    "contango-vs-backwardation",
+    "money-order-vs-cashier-s-check"
   ]
 }

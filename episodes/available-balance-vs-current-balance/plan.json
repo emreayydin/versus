@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "slug": "available-balance-vs-current-balance",
+  "thema": "Available balance vs Current balance",
+  "begriffe": [
+    "Available balance",
+    "Current balance"
+  ],
+  "ueberschrift": "Available balance vs Current balance",
+  "titel": "Available balance vs Current balance - What's the Difference?",
+  "beschreibung": "Available balance versus current balance: how pending payments and holds change what you can really spend.\n\n#shorts #banking #moneybasics #overdraft #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Available balance",
+    "Current balance",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#banking",
+    "#moneybasics",
+    "#overdraft",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "two numbers, one account",
+    "zahl": null,
+    "icon": "bank"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "CURRENT",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "AVAILABLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "runter",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          500,
+          370
+        ],
+        "achse": [
+          "current",
+          "available"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

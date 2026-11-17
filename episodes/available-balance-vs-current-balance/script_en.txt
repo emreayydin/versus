@@ -1,0 +1,9 @@
+Your banking app shows two balances. Spend the wrong one and you can overdraw.
+They come from the same account but count different things.
+The current balance shows the money after all transactions that have fully posted.
+The available balance also subtracts pending payments and holds that have not posted yet.
+Say your current balance is five hundred dollars.
+A pending card payment of eighty and a hotel hold of fifty leave three hundred seventy available.
+The difference: the current balance looks back, the available balance includes what is about to leave.
+Checks you deposit can also show in one balance before they count in the other.
+The current balance is the past. The available balance is what you can actually use now.
