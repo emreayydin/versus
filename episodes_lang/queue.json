@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Margin vs Leverage",
     "Tax deduction vs Tax credit",
     "Systematic vs Unsystematic risk",
     "Checking account vs Savings account",
@@ -31,6 +30,7 @@
     "bond-yield-vs-bond-price",
     "alpha-vs-beta",
     "gross-vs-net",
-    "duration-vs-maturity"
+    "duration-vs-maturity",
+    "margin-vs-leverage"
   ]
 }
