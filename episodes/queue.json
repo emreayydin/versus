@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Bond premium vs Bond discount",
-    "Chargeback vs Refund",
     "American option vs European option",
     "Collision vs Comprehensive coverage",
     "Open interest vs Trading volume",
@@ -258,6 +256,8 @@
     "initial-margin-vs-maintenance-margin",
     "available-balance-vs-current-balance",
     "contango-vs-backwardation",
-    "money-order-vs-cashier-s-check"
+    "money-order-vs-cashier-s-check",
+    "bond-premium-vs-bond-discount",
+    "chargeback-vs-refund"
   ]
 }

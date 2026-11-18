@@ -1,0 +1,10 @@
+Two identical bonds can sell for very different prices. The reason is one number.
+That number is the interest rate everyone else is paying right now.
+Take a bond with a face value of one thousand dollars that pays fifty dollars a year.
+If new bonds pay six percent, nobody pays a full thousand for your five percent bond.
+Its price falls below face value. That is a bond discount.
+If new bonds pay only four percent, buyers pay more than a thousand for your fifty dollars.
+Now it sells above face value. That is a bond premium.
+The difference: a premium bond pays more than today's rates, a discount bond pays less.
+At maturity both repay exactly one thousand dollars, so the price gap shrinks over time.
+Premium or discount is not a judgment. It is the market adjusting for the coupon.

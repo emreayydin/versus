@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "chargeback-vs-refund",
+  "thema": "Chargeback vs Refund",
+  "begriffe": [
+    "Chargeback",
+    "Refund"
+  ],
+  "ueberschrift": "Chargeback vs Refund",
+  "titel": "Chargeback vs Refund - What's the Difference?",
+  "beschreibung": "Chargeback versus refund: getting money back from the seller versus disputing a charge through your card issuer.\n\n#shorts #creditcards #consumerrights #moneybasics #shopping\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Chargeback",
+    "Refund",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#creditcards",
+    "#consumerrights",
+    "#moneybasics",
+    "#shopping"
+  ],
+  "thumbnail": {
+    "zeile": "who gives it back",
+    "zahl": null,
+    "icon": "muenze"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": "REFUND",
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.2,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "bank",
+      "diagramm": null,
+      "wort": "CHARGEBACK",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}
