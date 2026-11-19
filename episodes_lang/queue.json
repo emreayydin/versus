@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Tax deduction vs Tax credit",
     "Systematic vs Unsystematic risk",
     "Checking account vs Savings account",
     "Market order vs Limit order",
@@ -31,6 +30,7 @@
     "alpha-vs-beta",
     "gross-vs-net",
     "duration-vs-maturity",
-    "margin-vs-leverage"
+    "margin-vs-leverage",
+    "tax-deduction-vs-tax-credit"
   ]
 }
