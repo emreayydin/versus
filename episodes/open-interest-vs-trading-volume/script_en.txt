@@ -1,0 +1,10 @@
+A futures market can trade a million contracts in a day and still shrink.
+Two numbers on every options and futures screen explain how.
+Trading volume counts how many contracts changed hands during the day.
+Open interest counts how many contracts exist and have not been closed yet.
+If two traders open a brand new contract, volume rises by one and open interest by one.
+If one of them later passes it to a third trader, volume rises again but open interest stays the same.
+If both sides close their positions, open interest falls by one.
+The difference: volume measures activity today, open interest measures positions still in play.
+Rising volume with falling open interest often means traders are closing out, not opening.
+Volume is how busy the market was. Open interest is how much is still at stake.

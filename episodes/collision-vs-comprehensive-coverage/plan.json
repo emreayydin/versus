@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "collision-vs-comprehensive-coverage",
+  "thema": "Collision vs Comprehensive coverage",
+  "begriffe": [
+    "Collision coverage",
+    "Comprehensive coverage"
+  ],
+  "ueberschrift": "Collision vs Comprehensive",
+  "titel": "Collision coverage vs Comprehensive coverage - What's the Difference?",
+  "beschreibung": "Collision versus comprehensive car insurance: crash damage versus theft, weather and animal damage, explained simply.\n\n#shorts #carinsurance #insurance #moneybasics #personalfinance\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Collision coverage",
+    "Comprehensive coverage",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#carinsurance",
+    "#insurance",
+    "#moneybasics",
+    "#personalfinance"
+  ],
+  "thumbnail": {
+    "zeile": "crash or hail",
+    "zahl": null,
+    "icon": "schere"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": "COLLISION",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": "COMPREHENSIVE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

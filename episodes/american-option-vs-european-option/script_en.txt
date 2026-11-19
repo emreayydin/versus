@@ -1,0 +1,10 @@
+Two options can have the same strike and date. One can be used much earlier.
+The names sound like geography, but they have nothing to do with where you trade.
+An option gives you the right to buy or sell at a set price until a set date.
+An American option can be exercised on any trading day up to that expiration date.
+A European option can only be exercised on the expiration date itself.
+In the US, most options on single stocks are American style.
+Many options on whole stock indexes are European style.
+The difference: American options give flexibility on timing, European options have one fixed moment.
+That flexibility can matter, for example just before a stock pays a dividend.
+American means any day. European means one day. Neither means a continent.

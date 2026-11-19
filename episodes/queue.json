@@ -1,8 +1,5 @@
 {
   "offen": [
-    "American option vs European option",
-    "Collision vs Comprehensive coverage",
-    "Open interest vs Trading volume",
     "Standard deduction vs Itemized deduction",
     "Callable bond vs Non-callable bond",
     "Sales tax vs VAT",
@@ -258,6 +255,9 @@
     "contango-vs-backwardation",
     "money-order-vs-cashier-s-check",
     "bond-premium-vs-bond-discount",
-    "chargeback-vs-refund"
+    "chargeback-vs-refund",
+    "american-option-vs-european-option",
+    "collision-vs-comprehensive-coverage",
+    "open-interest-vs-trading-volume"
   ]
 }
