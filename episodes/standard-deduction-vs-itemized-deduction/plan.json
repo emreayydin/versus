@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "slug": "standard-deduction-vs-itemized-deduction",
+  "thema": "Standard deduction vs Itemized deduction",
+  "begriffe": [
+    "Standard deduction",
+    "Itemized deduction"
+  ],
+  "ueberschrift": "Standard deduction vs Itemized deduction",
+  "titel": "Standard deduction vs Itemized deduction - What's the Difference?",
+  "beschreibung": "Standard deduction versus itemized deductions in US taxes: a fixed amount versus your actual expenses, and how the choice works.\n\n#shorts #taxes #taxseason #personalfinance #moneybasics\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Standard deduction",
+    "Itemized deduction",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#taxes",
+    "#taxseason",
+    "#personalfinance",
+    "#moneybasics"
+  ],
+  "thumbnail": {
+    "zeile": "pick the bigger one",
+    "zahl": null,
+    "icon": "schere"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "stapel",
+      "diagramm": null,
+      "wort": "STANDARD",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "jubeln",
+      "icon": "muenze",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "korb",
+      "diagramm": null,
+      "wort": "ITEMIZED",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "balken",
+      "diagramm": {
+        "art": "balken",
+        "werte": [
+          15000,
+          11000
+        ],
+        "achse": [
+          "standard",
+          "itemized"
+        ],
+        "einheit": "$"
+      },
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "haus",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    }
+  ]
+}

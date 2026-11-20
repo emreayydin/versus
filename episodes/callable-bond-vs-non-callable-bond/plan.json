@@ -1,0 +1,112 @@
+{
+  "version": 2,
+  "slug": "callable-bond-vs-non-callable-bond",
+  "thema": "Callable bond vs Non-callable bond",
+  "begriffe": [
+    "Callable bond",
+    "Non-callable bond"
+  ],
+  "ueberschrift": "Callable bond vs Non-callable bond",
+  "titel": "Callable bond vs Non-callable bond - What's the Difference?",
+  "beschreibung": "Callable versus non-callable bonds: who controls the end date, why issuers call bonds when rates fall, and the higher yield.\n\n#shorts #bonds #fixedincome #interestrates #finance101\n\nThis video explains two terms and how they differ. It is not financial advice and not a recommendation to buy or sell anything.",
+  "tags": [
+    "Callable bond",
+    "Non-callable bond",
+    "Personal finance",
+    "Money basics",
+    "Comparison"
+  ],
+  "hashtags": [
+    "#bonds",
+    "#fixedincome",
+    "#interestrates",
+    "#finance101"
+  ],
+  "thumbnail": {
+    "zeile": "can they pay you early",
+    "zahl": null,
+    "icon": "uhr"
+  },
+  "bilder": [
+    {
+      "pose": "denken",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.1,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "uhr",
+      "diagramm": null,
+      "wort": "NON-CALLABLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": "schere",
+      "diagramm": null,
+      "wort": "CALLABLE",
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "achselzucken",
+      "icon": "runter",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": -0.2,
+      "haare": false
+    },
+    {
+      "pose": "zeigen",
+      "icon": "hoch",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.1,
+      "haare": false
+    },
+    {
+      "pose": "stehen",
+      "icon": "waage",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "denken",
+      "icon": "kurve",
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    },
+    {
+      "pose": "sitzen",
+      "icon": null,
+      "diagramm": null,
+      "wort": null,
+      "stimmung": 0.0,
+      "haare": false
+    }
+  ]
+}

@@ -1,7 +1,5 @@
 {
   "offen": [
-    "Standard deduction vs Itemized deduction",
-    "Callable bond vs Non-callable bond",
     "Sales tax vs VAT",
     "Beta vs Correlation",
     "Authorized user vs Primary cardholder",
@@ -258,6 +256,8 @@
     "chargeback-vs-refund",
     "american-option-vs-european-option",
     "collision-vs-comprehensive-coverage",
-    "open-interest-vs-trading-volume"
+    "open-interest-vs-trading-volume",
+    "standard-deduction-vs-itemized-deduction",
+    "callable-bond-vs-non-callable-bond"
   ]
 }

@@ -1,0 +1,10 @@
+You lock in a bond rate for ten years. Three years later you get your money back anyway.
+That can happen with one kind of bond and not the other.
+A non-callable bond runs until its maturity date, and the issuer cannot end it early.
+A callable bond lets the issuer repay it before maturity, usually at a set call price.
+Issuers tend to call bonds when interest rates fall, just like refinancing a mortgage.
+You get your money back, but now you can only reinvest at the lower rates.
+To make up for that risk, callable bonds usually pay a higher yield.
+The difference: with a callable bond the issuer controls the end date, with a non-callable bond it is fixed.
+That is also why callable bond prices rise less when rates drop.
+A non-callable bond is a promise with a date. A callable bond is a promise with an exit.
