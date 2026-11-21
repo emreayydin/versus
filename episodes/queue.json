@@ -1,8 +1,5 @@
 {
   "offen": [
-    "Sales tax vs VAT",
-    "Beta vs Correlation",
-    "Authorized user vs Primary cardholder",
     "Bond fund vs Individual bond",
     "Expense ratio vs Load fee",
     "Duration vs Convexity",
@@ -258,6 +255,9 @@
     "collision-vs-comprehensive-coverage",
     "open-interest-vs-trading-volume",
     "standard-deduction-vs-itemized-deduction",
-    "callable-bond-vs-non-callable-bond"
+    "callable-bond-vs-non-callable-bond",
+    "sales-tax-vs-vat",
+    "beta-vs-correlation",
+    "authorized-user-vs-primary-cardholder"
   ]
 }

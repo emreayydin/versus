@@ -1,0 +1,10 @@
+A US price tag leaves the tax out. A European one already includes it.
+Sales tax and value added tax collect money in very different ways.
+Sales tax is charged once, when the final customer buys the product in a store.
+In the US it is set by states and cities, and there is no national sales tax.
+VAT, or value added tax, is charged at every step from maker to shop to customer.
+At twenty percent, a shop buys goods for one hundred plus twenty tax and sells them for one fifty plus thirty.
+It hands over only ten, because the twenty it already paid is credited back.
+The difference: sales tax is collected once at the end, VAT is collected in pieces along the way.
+In both cases the final customer pays the full tax, here thirty on one hundred fifty.
+Sales tax is one bite at the register. VAT is many small bites that add up to the same.

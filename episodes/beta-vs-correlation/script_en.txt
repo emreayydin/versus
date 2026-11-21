@@ -1,0 +1,10 @@
+A stock can follow the market closely and still swing twice as hard. Two numbers show it.
+They both compare a stock with the market, but they answer different questions.
+Correlation measures how reliably two things move in the same direction, from minus one to one.
+A correlation of one means they always move together, but it says nothing about how far.
+Beta measures how big a stock's moves are compared with the market's moves.
+A beta of two means the stock has tended to move about twice as much as the market.
+Beta mixes both ideas: it is the correlation times the stock's volatility over the market's.
+The difference: correlation tells you if they move together, beta tells you how much the stock moves.
+A stock with low correlation can still have a sizable beta if it is very volatile.
+Correlation is about direction. Beta is about size.
