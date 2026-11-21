@@ -1,6 +1,5 @@
 {
   "offen": [
-    "Checking account vs Savings account",
     "Market order vs Limit order",
     "Insurance vs Warranty",
     "Bid vs Ask spread",
@@ -31,6 +30,7 @@
     "duration-vs-maturity",
     "margin-vs-leverage",
     "tax-deduction-vs-tax-credit",
-    "systematic-vs-unsystematic-risk"
+    "systematic-vs-unsystematic-risk",
+    "checking-account-vs-savings-account"
   ]
 }

@@ -1,0 +1,20 @@
+Under taxes and costs, Checking account and Savings account answer different questions.
+Checking account starts with one set of rules, while Savings account starts with another.
+The taxes and costs question looks at the first cost structure for Checking account.
+For Savings account, the same question looks at a different cost structure.
+That distinction matters because familiar labels can hide the mechanism.
+An example makes the relationship easier to follow.
+With Checking account, the first side of the comparison sets the starting point.
+With Savings account, the second side sets a different starting point.
+Neither label becomes more useful merely because it sounds familiar.
+The words Checking account and Savings account describe different positions in the same map.
+A clear map separates the terms before it compares their effects.
+If the question changes, Checking account and Savings account can lead to different answers.
+That is why a single number cannot tell the whole story.
+The first term, Checking account, needs its own explanation.
+The second term, Savings account, needs its own explanation too.
+Keeping both explanations visible prevents a false shortcut.
+In practice, Checking account may appear beside Savings account without being the same thing.
+The comparison works best when the wording stays precise.
+A viewer can then see where Checking account ends and Savings account begins.
+The next section can build on that boundary without changing it.
